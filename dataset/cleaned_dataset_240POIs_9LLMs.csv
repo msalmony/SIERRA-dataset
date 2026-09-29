@@ -1,0 +1,2161 @@
+﻿poi_id,title,category,model,water_score,water_actual,co2_score,co2_actual,noise,pollution,biodiversity
+1,123 Action Barcelona,fun and games,claude-haiku-4-5,0.15,120,0.18,8.0,3,0.5,0.25
+1,123 Action Barcelona,fun and games,deepseek-r1,0.5,1000,0.5,30.0,3,0.0,0.0
+1,123 Action Barcelona,fun and games,gpt-4.1-mini,0.1,100,0.1,8.0,3,0.5,0.2
+1,123 Action Barcelona,fun and games,gpt-5.4-mini,0.08,80,0.12,25.0,3,0.55,0.22
+1,123 Action Barcelona,fun and games,gpt-5.4-nano,0.22,1200,0.18,45.0,2,0.35,0.15
+1,123 Action Barcelona,fun and games,gpt-oss_20b,0.2,1500,0.2,30.0,2,0.4,0.2
+1,123 Action Barcelona,fun and games,ministral-3_14b,0.2,1000,0.15,50.0,3,0.3,0.1
+1,123 Action Barcelona,fun and games,phi4,0.2,1000,0.3,50.0,3,0.3,0.1
+1,123 Action Barcelona,fun and games,qwen3_14b,0.1,100,0.1,5.0,2,0.3,0.1
+2,1850 Urban Spa Barcelona,spas and wellness,claude-haiku-4-5,0.68,8500,0.62,185.0,2,0.45,0.05
+2,1850 Urban Spa Barcelona,spas and wellness,deepseek-r1,0.5,1000,0.5,30.0,1,0.2,0.1
+2,1850 Urban Spa Barcelona,spas and wellness,gpt-4.1-mini,0.5,1500,0.5,300.0,2,0.5,0.2
+2,1850 Urban Spa Barcelona,spas and wellness,gpt-5.4-mini,0.48,3200,0.46,185.0,2,0.55,0.1
+2,1850 Urban Spa Barcelona,spas and wellness,gpt-5.4-nano,0.45,12000,0.55,320.0,3,0.35,0.15
+2,1850 Urban Spa Barcelona,spas and wellness,gpt-oss_20b,0.3,1500,0.3,30.0,2,0.5,0.2
+2,1850 Urban Spa Barcelona,spas and wellness,ministral-3_14b,0.6,3000,0.5,300.0,2,0.4,0.1
+2,1850 Urban Spa Barcelona,spas and wellness,phi4,0.3,2000,0.4,50.0,1,0.5,0.1
+2,1850 Urban Spa Barcelona,spas and wellness,qwen3_14b,0.2,500,0.2,20.0,2,0.3,0.1
+3,9 Sentits,spas and wellness,claude-haiku-4-5,0.72,8500,0.68,320.0,2,0.45,0.15
+3,9 Sentits,spas and wellness,deepseek-r1,0.6,10000,0.6,300.0,1,0.2,0.1
+3,9 Sentits,spas and wellness,gpt-4.1-mini,0.6,1500,0.5,300.0,1,0.5,0.2
+3,9 Sentits,spas and wellness,gpt-5.4-mini,0.56,1200,0.46,42.0,2,0.42,0.08
+3,9 Sentits,spas and wellness,gpt-5.4-nano,0.45,8000,0.55,420.0,2,0.35,0.2
+3,9 Sentits,spas and wellness,gpt-oss_20b,0.6,15000,0.5,400.0,2,0.4,0.2
+3,9 Sentits,spas and wellness,ministral-3_14b,0.85,12000,0.8,500.0,2,0.6,0.2
+3,9 Sentits,spas and wellness,phi4,0.6,15000,0.5,500.0,1,0.5,0.2
+3,9 Sentits,spas and wellness,qwen3_14b,0.6,10000,0.5,500.0,2,0.4,0.1
+4,AWAY Spa by W Hotels,spas and wellness,claude-haiku-4-5,0.68,8500,0.62,285.0,2,0.58,0.15
+4,AWAY Spa by W Hotels,spas and wellness,deepseek-r1,0.5,10000,0.5,300.0,3,0.2,0.1
+4,AWAY Spa by W Hotels,spas and wellness,gpt-4.1-mini,0.6,15000,0.5,350.0,1,0.5,0.2
+4,AWAY Spa by W Hotels,spas and wellness,gpt-5.4-mini,0.72,12000,0.58,320.0,2,0.42,0.12
+4,AWAY Spa by W Hotels,spas and wellness,gpt-5.4-nano,0.55,12000,0.5,420.0,2,0.4,0.2
+4,AWAY Spa by W Hotels,spas and wellness,gpt-oss_20b,0.8,15000,0.8,500.0,2,0.5,0.2
+4,AWAY Spa by W Hotels,spas and wellness,ministral-3_14b,0.85,15000,0.8,500.0,3,0.4,0.1
+4,AWAY Spa by W Hotels,spas and wellness,phi4,0.6,15000,0.5,500.0,1,0.5,0.2
+4,AWAY Spa by W Hotels,spas and wellness,qwen3_14b,0.7,10000,0.5,300.0,1,0.4,0.1
+5,Absenta Bar,nightlife,claude-haiku-4-5,0.35,1200,0.42,45.0,4,0.35,0.25
+5,Absenta Bar,nightlife,deepseek-r1,0.3,1500,0.3,150.0,4,0.0,0.0
+5,Absenta Bar,nightlife,gpt-4.1-mini,0.4,1500,0.5,300.0,4,0.3,0.1
+5,Absenta Bar,nightlife,gpt-5.4-mini,0.42,1800,0.48,95.0,4,0.34,0.08
+5,Absenta Bar,nightlife,gpt-5.4-nano,0.42,6500,0.5,280.0,4,0.35,0.1
+5,Absenta Bar,nightlife,gpt-oss_20b,0.4,1500,0.4,200.0,4,0.5,0.2
+5,Absenta Bar,nightlife,ministral-3_14b,0.4,1200,0.5,200.0,4,0.2,0.1
+5,Absenta Bar,nightlife,phi4,0.3,2000,0.4,50.0,4,0.3,0.1
+5,Absenta Bar,nightlife,qwen3_14b,0.3,1000,0.3,30.0,3,0.3,0.1
+6,Absenta del Raval,nightlife,claude-haiku-4-5,0.45,1200,0.48,85.0,4,0.35,0.1
+6,Absenta del Raval,nightlife,deepseek-r1,0.5,1000,0.5,30.0,4,0.1,0.1
+6,Absenta del Raval,nightlife,gpt-4.1-mini,0.3,1500,0.3,40.0,3,0.4,0.1
+6,Absenta del Raval,nightlife,gpt-5.4-mini,0.32,1200,0.34,48.0,4,0.38,0.08
+6,Absenta del Raval,nightlife,gpt-5.4-nano,0.45,6000,0.5,320.0,3,0.35,0.15
+6,Absenta del Raval,nightlife,gpt-oss_20b,0.5,1500,0.5,40.0,3,0.4,0.2
+6,Absenta del Raval,nightlife,ministral-3_14b,0.3,1200,0.4,250.0,4,0.2,0.0
+6,Absenta del Raval,nightlife,phi4,0.5,2000,0.5,50.0,4,0.3,0.1
+6,Absenta del Raval,nightlife,qwen3_14b,0.3,1500,0.2,30.0,4,0.3,0.1
+7,Aeroteca,fun and games,claude-haiku-4-5,0.35,1200,0.58,280.0,3,0.4,0.05
+7,Aeroteca,fun and games,deepseek-r1,0.3,2500,0.8,500.0,3,0.2,0.1
+7,Aeroteca,fun and games,gpt-4.1-mini,0.1,600,0.3,200.0,3,0.5,0.1
+7,Aeroteca,fun and games,gpt-5.4-mini,0.2,900,0.45,320.0,3,0.4,0.1
+7,Aeroteca,fun and games,gpt-5.4-nano,0.22,3200,0.35,420.0,3,0.35,0.1
+7,Aeroteca,fun and games,gpt-oss_20b,0.5,15000,0.5,400.0,3,0.5,0.1
+7,Aeroteca,fun and games,ministral-3_14b,0.15,800,0.75,500.0,3,0.2,0.05
+7,Aeroteca,fun and games,phi4,0.3,2000,0.4,50.0,3,0.3,0.1
+7,Aeroteca,fun and games,qwen3_14b,0.3,10000,0.5,500.0,4,0.4,0.1
+8,Aloha Polinesian Bar,nightlife,claude-haiku-4-5,0.58,3200,0.64,420.0,5,0.35,0.1
+8,Aloha Polinesian Bar,nightlife,deepseek-r1,0.6,10000,0.6,300.0,4,0.2,0.1
+8,Aloha Polinesian Bar,nightlife,gpt-4.1-mini,0.4,1500,0.5,300.0,5,0.3,0.1
+8,Aloha Polinesian Bar,nightlife,gpt-5.4-mini,0.58,1800,0.63,420.0,5,0.34,0.08
+8,Aloha Polinesian Bar,nightlife,gpt-5.4-nano,0.45,14000,0.55,420.0,4,0.35,0.25
+8,Aloha Polinesian Bar,nightlife,gpt-oss_20b,0.7,12000,0.6,350.0,4,0.4,0.1
+8,Aloha Polinesian Bar,nightlife,ministral-3_14b,0.7,12000,0.8,600.0,5,0.3,0.1
+8,Aloha Polinesian Bar,nightlife,phi4,0.6,15000,0.5,500.0,4,0.3,0.1
+8,Aloha Polinesian Bar,nightlife,qwen3_14b,0.5,7500,0.5,400.0,4,0.3,0.1
+9,Ambrosia Spa,spas and wellness,claude-haiku-4-5,0.68,3200,0.55,85.0,2,0.45,0.25
+9,Ambrosia Spa,spas and wellness,deepseek-r1,0.5,10000,0.4,300.0,2,0.1,0.1
+9,Ambrosia Spa,spas and wellness,gpt-4.1-mini,0.5,1500,0.5,300.0,1,0.5,0.1
+9,Ambrosia Spa,spas and wellness,gpt-5.4-mini,0.46,1800,0.44,48.0,2,0.4,0.16
+9,Ambrosia Spa,spas and wellness,gpt-5.4-nano,0.38,9000,0.46,360.0,2,0.35,0.15
+9,Ambrosia Spa,spas and wellness,gpt-oss_20b,0.6,15000,0.5,400.0,2,0.4,0.2
+9,Ambrosia Spa,spas and wellness,ministral-3_14b,0.85,12000,0.8,500.0,3,0.4,0.1
+9,Ambrosia Spa,spas and wellness,phi4,0.6,15000,0.5,500.0,1,0.5,0.3
+9,Ambrosia Spa,spas and wellness,qwen3_14b,0.7,5000,0.5,300.0,2,0.4,0.1
+10,AquaBliss Fish Spa,spas and wellness,claude-haiku-4-5,0.68,3200,0.42,85.0,2,0.45,0.35
+10,AquaBliss Fish Spa,spas and wellness,deepseek-r1,0.5,1500,0.3,30.0,1,0.2,0.1
+10,AquaBliss Fish Spa,spas and wellness,gpt-4.1-mini,0.4,1200,0.3,40.0,1,0.5,0.3
+10,AquaBliss Fish Spa,spas and wellness,gpt-5.4-mini,0.48,1800,0.32,38.0,2,0.41,0.18
+10,AquaBliss Fish Spa,spas and wellness,gpt-5.4-nano,0.46,9000,0.44,260.0,2,0.45,0.35
+10,AquaBliss Fish Spa,spas and wellness,gpt-oss_20b,0.6,3000,0.5,250.0,2,0.4,0.3
+10,AquaBliss Fish Spa,spas and wellness,ministral-3_14b,0.6,3000,0.4,120.0,2,0.3,0.1
+10,AquaBliss Fish Spa,spas and wellness,phi4,0.3,2000,0.4,50.0,1,0.5,0.2
+10,AquaBliss Fish Spa,spas and wellness,qwen3_14b,0.5,2000,0.4,50.0,2,0.5,0.2
+11,Arte Bar: Painting and Wine,fun and games,claude-haiku-4-5,0.35,1200,0.32,45.0,3,0.42,0.05
+11,Arte Bar: Painting and Wine,fun and games,deepseek-r1,0.2,1000,0.15,30.0,2,0.1,0.1
+11,Arte Bar: Painting and Wine,fun and games,gpt-4.1-mini,0.2,600,0.3,50.0,3,0.4,0.1
+11,Arte Bar: Painting and Wine,fun and games,gpt-5.4-mini,0.28,1800,0.24,42.0,3,0.35,0.08
+11,Arte Bar: Painting and Wine,fun and games,gpt-5.4-nano,0.35,12000,0.45,320.0,3,0.45,0.1
+11,Arte Bar: Painting and Wine,fun and games,gpt-oss_20b,0.2,1500,0.3,50.0,2,0.5,0.1
+11,Arte Bar: Painting and Wine,fun and games,ministral-3_14b,0.2,800,0.25,100.0,3,0.3,0.1
+11,Arte Bar: Painting and Wine,fun and games,phi4,0.3,1500,0.4,50.0,2,0.5,0.1
+11,Arte Bar: Painting and Wine,fun and games,qwen3_14b,0.5,1500,0.5,40.0,2,0.3,0.1
+12,Artemis Gymkhanas,fun and games,claude-haiku-4-5,0.25,800,0.28,35.0,3,0.45,0.25
+12,Artemis Gymkhanas,fun and games,deepseek-r1,0.3,500,0.15,15.0,2,0.2,0.1
+12,Artemis Gymkhanas,fun and games,gpt-4.1-mini,0.1,100,0.2,20.0,3,0.5,0.1
+12,Artemis Gymkhanas,fun and games,gpt-5.4-mini,0.18,220,0.22,38.0,3,0.44,0.18
+12,Artemis Gymkhanas,fun and games,gpt-5.4-nano,0.25,3500,0.35,220.0,3,0.45,0.2
+12,Artemis Gymkhanas,fun and games,gpt-oss_20b,0.2,1500,0.2,30.0,3,0.5,0.1
+12,Artemis Gymkhanas,fun and games,ministral-3_14b,0.2,1200,0.3,250.0,3,0.4,0.1
+12,Artemis Gymkhanas,fun and games,phi4,0.2,1000,0.3,50.0,3,0.3,0.1
+12,Artemis Gymkhanas,fun and games,qwen3_14b,0.2,500,0.2,30.0,2,0.3,0.1
+13,Artevistas Gallery,museums,claude-haiku-4-5,0.25,800,0.35,45.0,1,0.5,0.15
+13,Artevistas Gallery,museums,deepseek-r1,0.5,1500,0.5,300.0,1,0.0,0.0
+13,Artevistas Gallery,museums,gpt-4.1-mini,0.3,1500,0.4,300.0,1,0.5,0.1
+13,Artevistas Gallery,museums,gpt-5.4-mini,0.18,1400,0.22,38.0,2,0.45,0.12
+13,Artevistas Gallery,museums,gpt-5.4-nano,0.28,6500,0.33,420.0,2,0.35,0.18
+13,Artevistas Gallery,museums,gpt-oss_20b,0.5,10000,0.5,400.0,2,0.4,0.2
+13,Artevistas Gallery,museums,ministral-3_14b,0.2,1000,0.3,200.0,2,0.4,0.1
+13,Artevistas Gallery,museums,phi4,0.3,10000,0.4,300.0,2,0.5,0.2
+13,Artevistas Gallery,museums,qwen3_14b,0.3,1500,0.3,40.0,1,0.4,0.1
+14,ArticketBCN: Barcelona Museum Pass,museums,claude-haiku-4-5,0.35,850,0.38,18.5,2,0.55,0.15
+14,ArticketBCN: Barcelona Museum Pass,museums,deepseek-r1,0.1,500,0.1,5.0,1,0.3,0.1
+14,ArticketBCN: Barcelona Museum Pass,museums,gpt-4.1-mini,0.4,8000,0.4,300.0,2,0.6,0.2
+14,ArticketBCN: Barcelona Museum Pass,museums,gpt-5.4-mini,0.42,8200,0.44,310.0,2,0.52,0.08
+14,ArticketBCN: Barcelona Museum Pass,museums,gpt-5.4-nano,0.35,8000,0.55,420.0,2,0.4,0.2
+14,ArticketBCN: Barcelona Museum Pass,museums,gpt-oss_20b,0.5,15000,0.5,400.0,3,0.6,0.2
+14,ArticketBCN: Barcelona Museum Pass,museums,ministral-3_14b,0.3,12000,0.4,500.0,2,0.3,0.1
+14,ArticketBCN: Barcelona Museum Pass,museums,phi4,0.5,12500,0.5,450.0,2,0.3,0.2
+14,ArticketBCN: Barcelona Museum Pass,museums,qwen3_14b,0.1,50,0.1,5.0,1,0.3,0.1
+15,Aurum Wellbeing,spas and wellness,claude-haiku-4-5,0.55,1800,0.48,85.0,2,0.62,0.15
+15,Aurum Wellbeing,spas and wellness,deepseek-r1,0.5,10000,0.4,300.0,1,0.3,0.1
+15,Aurum Wellbeing,spas and wellness,gpt-4.1-mini,0.5,1500,0.5,300.0,1,0.6,0.2
+15,Aurum Wellbeing,spas and wellness,gpt-5.4-mini,0.42,1800,0.34,48.0,2,0.52,0.31
+15,Aurum Wellbeing,spas and wellness,gpt-5.4-nano,0.45,8000,0.5,320.0,2,0.35,0.1
+15,Aurum Wellbeing,spas and wellness,gpt-oss_20b,0.7,15000,0.6,400.0,2,0.4,0.2
+15,Aurum Wellbeing,spas and wellness,ministral-3_14b,0.75,12000,0.65,400.0,2,0.8,0.2
+15,Aurum Wellbeing,spas and wellness,phi4,0.5,12500,0.5,450.0,2,0.3,0.1
+15,Aurum Wellbeing,spas and wellness,qwen3_14b,0.7,10000,0.5,500.0,2,0.6,0.2
+16,Avalon Holistic Ayahuasca Retreats,spas and wellness,claude-haiku-4-5,0.45,2800,0.42,185.0,3,0.35,0.25
+16,Avalon Holistic Ayahuasca Retreats,spas and wellness,deepseek-r1,0.6,15000,0.5,300.0,1,0.3,0.8
+16,Avalon Holistic Ayahuasca Retreats,spas and wellness,gpt-4.1-mini,0.4,7000,0.4,200.0,1,0.5,0.2
+16,Avalon Holistic Ayahuasca Retreats,spas and wellness,gpt-5.4-mini,0.46,1800,0.34,48.0,2,0.42,0.18
+16,Avalon Holistic Ayahuasca Retreats,spas and wellness,gpt-5.4-nano,0.45,12000,0.5,320.0,2,0.35,0.25
+16,Avalon Holistic Ayahuasca Retreats,spas and wellness,gpt-oss_20b,0.5,10000,0.4,300.0,2,0.5,0.4
+16,Avalon Holistic Ayahuasca Retreats,spas and wellness,ministral-3_14b,0.75,12000,0.65,500.0,2,0.4,0.2
+16,Avalon Holistic Ayahuasca Retreats,spas and wellness,phi4,0.5,12500,0.5,450.0,2,0.3,0.2
+16,Avalon Holistic Ayahuasca Retreats,spas and wellness,qwen3_14b,0.5,10000,0.5,300.0,2,0.4,0.1
+17,Aventurico Monumental Barcelona,fun and games,claude-haiku-4-5,0.35,1200,0.55,280.0,4,0.45,0.1
+17,Aventurico Monumental Barcelona,fun and games,deepseek-r1,0.5,2500,0.5,75.0,3,0.2,0.1
+17,Aventurico Monumental Barcelona,fun and games,gpt-4.1-mini,0.3,1500,0.4,300.0,3,0.5,0.1
+17,Aventurico Monumental Barcelona,fun and games,gpt-5.4-mini,0.22,900,0.35,45.0,3,0.45,0.08
+17,Aventurico Monumental Barcelona,fun and games,gpt-5.4-nano,0.28,9000,0.46,420.0,3,0.35,0.15
+17,Aventurico Monumental Barcelona,fun and games,gpt-oss_20b,0.3,2000,0.4,200.0,3,0.4,0.1
+17,Aventurico Monumental Barcelona,fun and games,ministral-3_14b,0.3,3000,0.4,300.0,4,0.2,0.0
+17,Aventurico Monumental Barcelona,fun and games,phi4,0.5,12500,0.5,450.0,3,0.5,0.1
+17,Aventurico Monumental Barcelona,fun and games,qwen3_14b,0.3,1500,0.4,50.0,3,0.4,0.1
+18,Ayurveda Barcelona,spas and wellness,claude-haiku-4-5,0.45,2200,0.35,55.0,1,0.55,0.25
+18,Ayurveda Barcelona,spas and wellness,deepseek-r1,0.5,1500,0.3,30.0,1,0.2,0.1
+18,Ayurveda Barcelona,spas and wellness,gpt-4.1-mini,0.5,15000,0.5,400.0,1,0.5,0.2
+18,Ayurveda Barcelona,spas and wellness,gpt-5.4-mini,0.42,1800,0.34,42.0,1,0.45,0.08
+18,Ayurveda Barcelona,spas and wellness,gpt-5.4-nano,0.35,9000,0.3,260.0,2,0.4,0.15
+18,Ayurveda Barcelona,spas and wellness,gpt-oss_20b,0.5,8000,0.5,300.0,2,0.4,0.2
+18,Ayurveda Barcelona,spas and wellness,ministral-3_14b,0.75,12000,0.65,450.0,2,0.4,0.1
+18,Ayurveda Barcelona,spas and wellness,phi4,0.3,2000,0.4,50.0,1,0.5,0.1
+18,Ayurveda Barcelona,spas and wellness,qwen3_14b,0.4,2000,0.4,50.0,2,0.5,0.1
+19,Bali Spirit Spa Lounge,spas and wellness,claude-haiku-4-5,0.68,3200,0.55,185.0,2,0.42,0.15
+19,Bali Spirit Spa Lounge,spas and wellness,deepseek-r1,0.5,10000,0.5,300.0,1,0.3,0.1
+19,Bali Spirit Spa Lounge,spas and wellness,gpt-4.1-mini,0.5,1500,0.5,300.0,1,0.5,0.2
+19,Bali Spirit Spa Lounge,spas and wellness,gpt-5.4-mini,0.54,3200,0.42,220.0,2,0.44,0.12
+19,Bali Spirit Spa Lounge,spas and wellness,gpt-5.4-nano,0.46,9000,0.42,320.0,2,0.3,0.15
+19,Bali Spirit Spa Lounge,spas and wellness,gpt-oss_20b,0.6,15000,0.6,400.0,2,0.4,0.2
+19,Bali Spirit Spa Lounge,spas and wellness,ministral-3_14b,0.85,12000,0.8,500.0,3,0.4,0.1
+19,Bali Spirit Spa Lounge,spas and wellness,phi4,0.6,15000,0.5,500.0,2,0.5,0.1
+19,Bali Spirit Spa Lounge,spas and wellness,qwen3_14b,0.4,5000,0.5,300.0,1,0.4,0.1
+20,Ban Thai Masaje Thai Massage Barcelona,spas and wellness,claude-haiku-4-5,0.45,1200,0.35,45.0,1,0.4,0.15
+20,Ban Thai Masaje Thai Massage Barcelona,spas and wellness,deepseek-r1,0.3,1000,0.3,30.0,2,0.1,0.1
+20,Ban Thai Masaje Thai Massage Barcelona,spas and wellness,gpt-4.1-mini,0.4,1500,0.4,200.0,1,0.5,0.2
+20,Ban Thai Masaje Thai Massage Barcelona,spas and wellness,gpt-5.4-mini,0.36,1200,0.34,42.0,2,0.38,0.12
+20,Ban Thai Masaje Thai Massage Barcelona,spas and wellness,gpt-5.4-nano,0.35,650,0.45,55.0,2,0.4,0.1
+20,Ban Thai Masaje Thai Massage Barcelona,spas and wellness,gpt-oss_20b,0.5,10000,0.4,300.0,2,0.5,0.2
+20,Ban Thai Masaje Thai Massage Barcelona,spas and wellness,ministral-3_14b,0.3,1200,0.35,100.0,2,0.4,0.1
+20,Ban Thai Masaje Thai Massage Barcelona,spas and wellness,phi4,0.3,1500,0.4,50.0,1,0.5,0.1
+20,Ban Thai Masaje Thai Massage Barcelona,spas and wellness,qwen3_14b,0.3,1500,0.2,30.0,2,0.4,0.1
+21,Bar La Plata,nightlife,claude-haiku-4-5,0.35,800,0.32,28.0,4,0.45,0.15
+21,Bar La Plata,nightlife,deepseek-r1,0.3,1500,0.5,300.0,4,0.1,0.1
+21,Bar La Plata,nightlife,gpt-4.1-mini,0.4,1500,0.3,40.0,3,0.4,0.1
+21,Bar La Plata,nightlife,gpt-5.4-mini,0.28,1200,0.24,45.0,3,0.42,0.08
+21,Bar La Plata,nightlife,gpt-5.4-nano,0.35,1800,0.45,55.0,4,0.35,0.1
+21,Bar La Plata,nightlife,gpt-oss_20b,0.4,1500,0.4,40.0,4,0.2,0.1
+21,Bar La Plata,nightlife,ministral-3_14b,0.4,1200,0.5,120.0,4,0.3,0.1
+21,Bar La Plata,nightlife,phi4,0.5,2000,0.5,50.0,4,0.3,0.1
+21,Bar La Plata,nightlife,qwen3_14b,0.5,1500,0.4,50.0,4,0.3,0.1
+22,Barcelona Axe Throwing,fun and games,claude-haiku-4-5,0.25,800,0.35,45.0,4,0.45,0.1
+22,Barcelona Axe Throwing,fun and games,deepseek-r1,0.3,1000,0.5,300.0,3,0.2,0.1
+22,Barcelona Axe Throwing,fun and games,gpt-4.1-mini,0.1,100,0.2,20.0,3,0.4,0.1
+22,Barcelona Axe Throwing,fun and games,gpt-5.4-mini,0.18,1200,0.24,45.0,3,0.46,0.12
+22,Barcelona Axe Throwing,fun and games,gpt-5.4-nano,0.35,8000,0.4,320.0,4,0.45,0.15
+22,Barcelona Axe Throwing,fun and games,gpt-oss_20b,0.3,1500,0.3,30.0,4,0.2,0.1
+22,Barcelona Axe Throwing,fun and games,ministral-3_14b,0.2,1200,0.3,100.0,4,0.5,0.1
+22,Barcelona Axe Throwing,fun and games,phi4,0.3,2000,0.4,50.0,3,0.3,0.1
+22,Barcelona Axe Throwing,fun and games,qwen3_14b,0.5,1000,0.5,300.0,4,0.4,0.1
+23,Barcelona Cathedral,sights and landmarks,claude-haiku-4-5,0.35,3500,0.42,280.0,3,0.55,0.25
+23,Barcelona Cathedral,sights and landmarks,deepseek-r1,0.5,10000,0.5,300.0,2,0.1,0.1
+23,Barcelona Cathedral,sights and landmarks,gpt-4.1-mini,0.6,15000,0.6,500.0,2,0.5,0.2
+23,Barcelona Cathedral,sights and landmarks,gpt-5.4-mini,0.36,1800,0.28,220.0,3,0.48,0.18
+23,Barcelona Cathedral,sights and landmarks,gpt-5.4-nano,0.3,8000,0.35,350.0,3,0.4,0.25
+23,Barcelona Cathedral,sights and landmarks,gpt-oss_20b,0.6,10000,0.6,400.0,2,0.5,0.4
+23,Barcelona Cathedral,sights and landmarks,ministral-3_14b,0.2,1500,0.3,300.0,2,0.4,0.1
+23,Barcelona Cathedral,sights and landmarks,phi4,0.3,10000,0.4,500.0,1,0.3,0.2
+23,Barcelona Cathedral,sights and landmarks,qwen3_14b,0.4,5000,0.4,300.0,1,0.3,0.1
+24,Barcelona Pipa Club,nightlife,claude-haiku-4-5,0.35,800,0.45,85.0,4,0.4,0.05
+24,Barcelona Pipa Club,nightlife,deepseek-r1,0.3,1500,0.4,50.0,4,0.1,0.1
+24,Barcelona Pipa Club,nightlife,gpt-4.1-mini,0.4,1500,0.5,200.0,4,0.4,0.1
+24,Barcelona Pipa Club,nightlife,gpt-5.4-mini,0.28,1200,0.34,42.0,4,0.42,0.08
+24,Barcelona Pipa Club,nightlife,gpt-5.4-nano,0.35,6500,0.45,380.0,4,0.3,0.1
+24,Barcelona Pipa Club,nightlife,gpt-oss_20b,0.3,1500,0.5,300.0,3,0.4,0.1
+24,Barcelona Pipa Club,nightlife,ministral-3_14b,0.3,1200,0.4,250.0,4,0.2,0.1
+24,Barcelona Pipa Club,nightlife,phi4,0.3,2000,0.4,50.0,3,0.5,0.1
+24,Barcelona Pipa Club,nightlife,qwen3_14b,0.3,1000,0.2,30.0,4,0.4,0.1
+25,Barcelona Wax Museum,museums,claude-haiku-4-5,0.35,8500,0.48,320.0,3,0.52,0.15
+25,Barcelona Wax Museum,museums,deepseek-r1,0.5,10000,0.5,300.0,2,0.1,0.1
+25,Barcelona Wax Museum,museums,gpt-4.1-mini,0.3,1500,0.5,300.0,2,0.5,0.1
+25,Barcelona Wax Museum,museums,gpt-5.4-mini,0.34,1800,0.42,420.0,3,0.45,0.12
+25,Barcelona Wax Museum,museums,gpt-5.4-nano,0.38,8000,0.45,420.0,3,0.4,0.25
+25,Barcelona Wax Museum,museums,gpt-oss_20b,0.5,15000,0.5,400.0,2,0.4,0.1
+25,Barcelona Wax Museum,museums,ministral-3_14b,0.35,8000,0.45,350.0,2,0.25,0.05
+25,Barcelona Wax Museum,museums,phi4,0.5,12500,0.5,450.0,3,0.3,0.1
+25,Barcelona Wax Museum,museums,qwen3_14b,0.4,10000,0.4,500.0,2,0.5,0.1
+26,Barri de Gracia,sights and landmarks,claude-haiku-4-5,0.45,8500,0.4,280.0,4,0.5,0.25
+26,Barri de Gracia,sights and landmarks,deepseek-r1,0.5,10000,0.5,300.0,4,0.0,0.0
+26,Barri de Gracia,sights and landmarks,gpt-4.1-mini,0.3,2000,0.3,200.0,3,0.6,0.2
+26,Barri de Gracia,sights and landmarks,gpt-5.4-mini,0.38,1800,0.34,220.0,4,0.42,0.18
+26,Barri de Gracia,sights and landmarks,gpt-5.4-nano,0.35,8000,0.45,320.0,4,0.4,0.25
+26,Barri de Gracia,sights and landmarks,gpt-oss_20b,0.5,8000,0.4,300.0,4,0.5,0.3
+26,Barri de Gracia,sights and landmarks,ministral-3_14b,0.3,3000,0.4,250.0,4,0.3,0.1
+26,Barri de Gracia,sights and landmarks,phi4,0.3,1500,0.3,40.0,3,0.3,0.2
+26,Barri de Gracia,sights and landmarks,qwen3_14b,0.3,5000,0.2,30.0,3,0.4,0.1
+27,Base Elements Urban Art Gallery,museums,claude-haiku-4-5,0.25,800,0.3,45.0,2,0.4,0.15
+27,Base Elements Urban Art Gallery,museums,deepseek-r1,0.5,10000,0.5,300.0,2,0.1,0.1
+27,Base Elements Urban Art Gallery,museums,gpt-4.1-mini,0.2,1000,0.3,200.0,2,0.5,0.1
+27,Base Elements Urban Art Gallery,museums,gpt-5.4-mini,0.23,850,0.29,48.0,2,0.48,0.08
+27,Base Elements Urban Art Gallery,museums,gpt-5.4-nano,0.35,12000,0.42,420.0,3,0.35,0.15
+27,Base Elements Urban Art Gallery,museums,gpt-oss_20b,0.2,1500,0.2,80.0,2,0.5,0.1
+27,Base Elements Urban Art Gallery,museums,ministral-3_14b,0.3,1200,0.25,50.0,2,0.4,0.1
+27,Base Elements Urban Art Gallery,museums,phi4,0.3,2000,0.4,50.0,2,0.5,0.2
+27,Base Elements Urban Art Gallery,museums,qwen3_14b,0.3,1000,0.4,300.0,2,0.3,0.1
+28,Basilica de Santa Maria del Pi,sights and landmarks,claude-haiku-4-5,0.35,1200,0.38,85.0,2,0.45,0.25
+28,Basilica de Santa Maria del Pi,sights and landmarks,deepseek-r1,0.2,500,0.1,15.0,2,0.1,0.2
+28,Basilica de Santa Maria del Pi,sights and landmarks,gpt-4.1-mini,0.3,1500,0.3,200.0,2,0.5,0.2
+28,Basilica de Santa Maria del Pi,sights and landmarks,gpt-5.4-mini,0.26,1800,0.32,240.0,2,0.42,0.16
+28,Basilica de Santa Maria del Pi,sights and landmarks,gpt-5.4-nano,0.28,8500,0.33,420.0,3,0.35,0.18
+28,Basilica de Santa Maria del Pi,sights and landmarks,gpt-oss_20b,0.5,15000,0.6,400.0,2,0.3,0.2
+28,Basilica de Santa Maria del Pi,sights and landmarks,ministral-3_14b,0.1,500,0.15,20.0,2,0.2,0.05
+28,Basilica de Santa Maria del Pi,sights and landmarks,phi4,0.3,10000,0.4,300.0,2,0.5,0.3
+28,Basilica de Santa Maria del Pi,sights and landmarks,qwen3_14b,0.4,1000,0.3,50.0,1,0.3,0.1
+29,Basílica de Santa Maria del Mar,sights and landmarks,claude-haiku-4-5,0.35,3500,0.42,280.0,2,0.45,0.25
+29,Basílica de Santa Maria del Mar,sights and landmarks,deepseek-r1,0.2,500,0.2,15.0,2,0.3,0.2
+29,Basílica de Santa Maria del Mar,sights and landmarks,gpt-4.1-mini,0.3,1500,0.4,300.0,2,0.5,0.1
+29,Basílica de Santa Maria del Mar,sights and landmarks,gpt-5.4-mini,0.28,1800,0.34,320.0,2,0.46,0.18
+29,Basílica de Santa Maria del Mar,sights and landmarks,gpt-5.4-nano,0.35,8000,0.45,420.0,3,0.45,0.25
+29,Basílica de Santa Maria del Mar,sights and landmarks,gpt-oss_20b,0.5,12000,0.6,500.0,3,0.4,0.3
+29,Basílica de Santa Maria del Mar,sights and landmarks,ministral-3_14b,0.2,1500,0.15,120.0,2,0.3,0.1
+29,Basílica de Santa Maria del Mar,sights and landmarks,phi4,0.3,10000,0.4,300.0,2,0.5,0.3
+29,Basílica de Santa Maria del Mar,sights and landmarks,qwen3_14b,0.2,1000,0.3,150.0,1,0.4,0.1
+30,Basílica de la Sagrada Familia,sights and landmarks,claude-haiku-4-5,0.45,8500,0.52,420.0,3,0.48,0.25
+30,Basílica de la Sagrada Familia,sights and landmarks,deepseek-r1,0.5,10000,0.5,300.0,1,0.2,0.1
+30,Basílica de la Sagrada Familia,sights and landmarks,gpt-4.1-mini,0.6,15000,0.6,500.0,3,0.5,0.2
+30,Basílica de la Sagrada Familia,sights and landmarks,gpt-5.4-mini,0.56,12000,0.61,520.0,4,0.52,0.18
+30,Basílica de la Sagrada Familia,sights and landmarks,gpt-5.4-nano,0.45,14000,0.5,420.0,3,0.55,0.2
+30,Basílica de la Sagrada Familia,sights and landmarks,gpt-oss_20b,0.95,120000,0.9,2500.0,2,0.6,0.5
+30,Basílica de la Sagrada Familia,sights and landmarks,ministral-3_14b,0.6,15000,0.7,1200.0,3,0.4,0.1
+30,Basílica de la Sagrada Familia,sights and landmarks,phi4,0.6,15000,0.5,500.0,3,0.5,0.2
+30,Basílica de la Sagrada Familia,sights and landmarks,qwen3_14b,0.8,150000,0.8,3000.0,2,0.6,0.1
+31,Beauty Nail Concept,spas and wellness,claude-haiku-4-5,0.55,1200,0.48,35.0,2,0.45,0.15
+31,Beauty Nail Concept,spas and wellness,deepseek-r1,0.5,1000,0.5,30.0,2,0.1,0.1
+31,Beauty Nail Concept,spas and wellness,gpt-4.1-mini,0.3,1000,0.3,30.0,2,0.5,0.1
+31,Beauty Nail Concept,spas and wellness,gpt-5.4-mini,0.28,900,0.26,32.0,2,0.34,0.07
+31,Beauty Nail Concept,spas and wellness,gpt-5.4-nano,0.35,1800,0.4,45.0,2,0.45,0.1
+31,Beauty Nail Concept,spas and wellness,gpt-oss_20b,0.3,1500,0.3,30.0,3,0.4,0.1
+31,Beauty Nail Concept,spas and wellness,ministral-3_14b,0.4,1200,0.35,60.0,3,0.3,0.1
+31,Beauty Nail Concept,spas and wellness,phi4,0.3,2000,0.4,50.0,2,0.5,0.1
+31,Beauty Nail Concept,spas and wellness,qwen3_14b,0.3,800,0.3,35.0,2,0.4,0.1
+32,Begemot Art Gallery,museums,claude-haiku-4-5,0.25,800,0.35,45.0,2,0.5,0.15
+32,Begemot Art Gallery,museums,deepseek-r1,0.2,500,0.3,15.0,1,0.1,0.1
+32,Begemot Art Gallery,museums,gpt-4.1-mini,0.3,1500,0.4,300.0,1,0.5,0.1
+32,Begemot Art Gallery,museums,gpt-5.4-mini,0.18,900,0.2,45.0,2,0.46,0.1
+32,Begemot Art Gallery,museums,gpt-5.4-nano,0.28,3800,0.42,260.0,2,0.45,0.18
+32,Begemot Art Gallery,museums,gpt-oss_20b,0.3,1500,0.5,400.0,2,0.4,0.2
+32,Begemot Art Gallery,museums,ministral-3_14b,0.3,3000,0.4,300.0,2,0.3,0.1
+32,Begemot Art Gallery,museums,phi4,0.3,10000,0.4,300.0,2,0.5,0.2
+32,Begemot Art Gallery,museums,qwen3_14b,0.3,1000,0.3,30.0,2,0.4,0.1
+33,Bizarre Escape Room,fun and games,claude-haiku-4-5,0.35,1200,0.42,85.0,3,0.48,0.05
+33,Bizarre Escape Room,fun and games,deepseek-r1,0.2,500,0.1,15.0,2,0.3,0.1
+33,Bizarre Escape Room,fun and games,gpt-4.1-mini,0.1,100,0.2,20.0,3,0.4,0.1
+33,Bizarre Escape Room,fun and games,gpt-5.4-mini,0.12,650,0.18,32.0,2,0.46,0.07
+33,Bizarre Escape Room,fun and games,gpt-5.4-nano,0.25,3500,0.3,220.0,3,0.35,0.1
+33,Bizarre Escape Room,fun and games,gpt-oss_20b,0.2,1500,0.2,30.0,3,0.3,0.1
+33,Bizarre Escape Room,fun and games,ministral-3_14b,0.2,1000,0.3,200.0,3,0.4,0.1
+33,Bizarre Escape Room,fun and games,phi4,0.2,1000,0.3,50.0,3,0.3,0.1
+33,Bizarre Escape Room,fun and games,qwen3_14b,0.2,800,0.4,40.0,3,0.3,0.1
+34,Bloody Mary Cocktail Lounge,nightlife,claude-haiku-4-5,0.45,1200,0.52,85.0,4,0.35,0.05
+34,Bloody Mary Cocktail Lounge,nightlife,deepseek-r1,0.5,1000,0.3,30.0,3,0.1,0.1
+34,Bloody Mary Cocktail Lounge,nightlife,gpt-4.1-mini,0.4,1500,0.5,300.0,4,0.5,0.2
+34,Bloody Mary Cocktail Lounge,nightlife,gpt-5.4-mini,0.24,1400,0.28,42.0,4,0.35,0.08
+34,Bloody Mary Cocktail Lounge,nightlife,gpt-5.4-nano,0.28,650,0.45,240.0,4,0.35,0.1
+34,Bloody Mary Cocktail Lounge,nightlife,gpt-oss_20b,0.35,1500,0.3,30.0,4,0.4,0.1
+34,Bloody Mary Cocktail Lounge,nightlife,ministral-3_14b,0.55,1200,0.65,300.0,4,0.35,0.1
+34,Bloody Mary Cocktail Lounge,nightlife,phi4,0.3,2000,0.4,50.0,4,0.3,0.1
+34,Bloody Mary Cocktail Lounge,nightlife,qwen3_14b,0.4,2000,0.4,50.0,4,0.3,0.1
+35,Bobby's Free,nightlife,claude-haiku-4-5,0.45,1200,0.55,85.0,5,0.35,0.05
+35,Bobby's Free,nightlife,deepseek-r1,0.7,10000,0.8,500.0,4,0.1,0.1
+35,Bobby's Free,nightlife,gpt-4.1-mini,0.4,1500,0.5,300.0,4,0.4,0.1
+35,Bobby's Free,nightlife,gpt-5.4-mini,0.42,1800,0.46,45.0,4,0.38,0.05
+35,Bobby's Free,nightlife,gpt-5.4-nano,0.34,6500,0.42,320.0,4,0.38,0.12
+35,Bobby's Free,nightlife,gpt-oss_20b,0.4,1500,0.5,300.0,4,0.3,0.1
+35,Bobby's Free,nightlife,ministral-3_14b,0.3,1200,0.5,300.0,4,0.2,0.0
+35,Bobby's Free,nightlife,phi4,0.5,2000,0.5,50.0,4,0.3,0.1
+35,Bobby's Free,nightlife,qwen3_14b,0.3,1000,0.4,300.0,3,0.3,0.1
+36,Bollocks Rock Bar,nightlife,claude-haiku-4-5,0.55,1200,0.62,85.0,5,0.45,0.05
+36,Bollocks Rock Bar,nightlife,deepseek-r1,0.5,10000,0.5,300.0,4,0.2,0.1
+36,Bollocks Rock Bar,nightlife,gpt-4.1-mini,0.4,1500,0.5,300.0,4,0.5,0.1
+36,Bollocks Rock Bar,nightlife,gpt-5.4-mini,0.34,1800,0.46,260.0,4,0.38,0.05
+36,Bollocks Rock Bar,nightlife,gpt-5.4-nano,0.22,1200,0.33,280.0,3,0.35,0.15
+36,Bollocks Rock Bar,nightlife,gpt-oss_20b,0.5,1500,0.6,300.0,4,0.3,0.1
+36,Bollocks Rock Bar,nightlife,ministral-3_14b,0.5,3000,0.7,300.0,4,0.3,0.1
+36,Bollocks Rock Bar,nightlife,phi4,0.5,2000,0.5,50.0,4,0.3,0.1
+36,Bollocks Rock Bar,nightlife,qwen3_14b,0.5,5000,0.4,300.0,4,0.3,0.1
+37,Bosc De Les Fades Café,nightlife,claude-haiku-4-5,0.35,1200,0.42,45.0,4,0.38,0.15
+37,Bosc De Les Fades Café,nightlife,deepseek-r1,0.7,3000,0.6,0.4,3,0.2,0.1
+37,Bosc De Les Fades Café,nightlife,gpt-4.1-mini,0.4,1500,0.5,300.0,3,0.5,0.2
+37,Bosc De Les Fades Café,nightlife,gpt-5.4-mini,0.48,1800,0.5,420.0,4,0.38,0.08
+37,Bosc De Les Fades Café,nightlife,gpt-5.4-nano,0.45,12000,0.5,280.0,4,0.4,0.3
+37,Bosc De Les Fades Café,nightlife,gpt-oss_20b,0.5,10000,0.5,300.0,4,0.4,0.1
+37,Bosc De Les Fades Café,nightlife,ministral-3_14b,0.3,1200,0.4,200.0,4,0.2,0.1
+37,Bosc De Les Fades Café,nightlife,phi4,0.3,1500,0.4,50.0,4,0.3,0.1
+37,Bosc De Les Fades Café,nightlife,qwen3_14b,0.3,1000,0.3,50.0,4,0.4,0.1
+38,Bubble Football,fun and games,claude-haiku-4-5,0.25,800,0.3,45.0,4,0.45,0.2
+38,Bubble Football,fun and games,deepseek-r1,0.3,1000,0.4,300.0,3,0.2,0.1
+38,Bubble Football,fun and games,gpt-4.1-mini,0.3,1500,0.2,50.0,3,0.5,0.2
+38,Bubble Football,fun and games,gpt-5.4-mini,0.08,180,0.14,42.0,4,0.34,0.18
+38,Bubble Football,fun and games,gpt-5.4-nano,0.2,2500,0.35,120.0,3,0.35,0.1
+38,Bubble Football,fun and games,gpt-oss_20b,0.4,1500,0.4,300.0,4,0.5,0.1
+38,Bubble Football,fun and games,ministral-3_14b,0.3,3000,0.4,250.0,4,0.2,0.05
+38,Bubble Football,fun and games,phi4,0.3,10000,0.4,300.0,4,0.3,0.1
+38,Bubble Football,fun and games,qwen3_14b,0.25,1000,0.2,30.0,3,0.3,0.1
+39,Cannabis Club Guru,nightlife,claude-haiku-4-5,0.35,1200,0.4,85.0,4,0.45,0.1
+39,Cannabis Club Guru,nightlife,deepseek-r1,0.5,1000,0.5,30.0,3,0.2,0.1
+39,Cannabis Club Guru,nightlife,gpt-4.1-mini,0.3,1000,0.4,60.0,3,0.5,0.1
+39,Cannabis Club Guru,nightlife,gpt-5.4-mini,0.22,900,0.28,45.0,3,0.42,0.08
+39,Cannabis Club Guru,nightlife,gpt-5.4-nano,0.35,850,0.45,60.0,3,0.35,0.1
+39,Cannabis Club Guru,nightlife,gpt-oss_20b,0.4,1500,0.4,300.0,4,0.5,0.2
+39,Cannabis Club Guru,nightlife,ministral-3_14b,0.2,1200,0.3,120.0,3,0.4,0.1
+39,Cannabis Club Guru,nightlife,phi4,0.3,2000,0.4,50.0,4,0.3,0.1
+39,Cannabis Club Guru,nightlife,qwen3_14b,0.3,1000,0.3,200.0,3,0.3,0.1
+40,Caribbean club,nightlife,claude-haiku-4-5,0.35,800,0.4,45.0,4,0.45,0.15
+40,Caribbean club,nightlife,deepseek-r1,0.2,500,0.1,15.0,4,0.1,0.1
+40,Caribbean club,nightlife,gpt-4.1-mini,0.3,1500,0.4,40.0,3,0.4,0.1
+40,Caribbean club,nightlife,gpt-5.4-mini,0.24,1200,0.22,42.0,4,0.32,0.08
+40,Caribbean club,nightlife,gpt-5.4-nano,0.45,7000,0.5,420.0,4,0.35,0.1
+40,Caribbean club,nightlife,gpt-oss_20b,0.2,1500,0.3,30.0,4,0.1,0.1
+40,Caribbean club,nightlife,ministral-3_14b,0.3,800,0.4,50.0,4,0.2,0.0
+40,Caribbean club,nightlife,phi4,0.3,1500,0.4,50.0,4,0.3,0.1
+40,Caribbean club,nightlife,qwen3_14b,0.4,1000,0.3,30.0,4,0.2,0.1
+41,Carpe Diem,nightlife,claude-haiku-4-5,0.68,8500,0.72,520.0,5,0.35,0.15
+41,Carpe Diem,nightlife,deepseek-r1,1.0,200000,1.0,3500.0,5,0.1,0.2
+41,Carpe Diem,nightlife,gpt-4.1-mini,0.6,15000,0.7,500.0,5,0.4,0.2
+41,Carpe Diem,nightlife,gpt-5.4-mini,0.58,8500,0.72,520.0,5,0.34,0.12
+41,Carpe Diem,nightlife,gpt-5.4-nano,0.55,14000,0.6,420.0,4,0.35,0.25
+41,Carpe Diem,nightlife,gpt-oss_20b,0.9,120000,0.9,2500.0,4,0.4,0.1
+41,Carpe Diem,nightlife,ministral-3_14b,0.85,15000,0.8,750.0,5,0.3,0.1
+41,Carpe Diem,nightlife,phi4,0.8,15000,0.8,500.0,5,0.5,0.1
+41,Carpe Diem,nightlife,qwen3_14b,0.6,10000,0.6,500.0,4,0.3,0.1
+42,Carretera de Les Aigues,nature and parks,claude-haiku-4-5,0.05,20,0.02,1.5,1,0.55,0.68
+42,Carretera de Les Aigues,nature and parks,deepseek-r1,0.2,500,0.1,15.0,2,1.0,1.0
+42,Carretera de Les Aigues,nature and parks,gpt-4.1-mini,0.1,500,0.1,15.0,1,0.5,0.7
+42,Carretera de Les Aigues,nature and parks,gpt-5.4-mini,0.03,50,0.05,8.0,2,0.6,0.72
+42,Carretera de Les Aigues,nature and parks,gpt-5.4-nano,0.12,700,0.18,120.0,2,0.35,0.45
+42,Carretera de Les Aigues,nature and parks,gpt-oss_20b,0.2,800,0.2,50.0,2,0.5,0.6
+42,Carretera de Les Aigues,nature and parks,ministral-3_14b,0.05,50,0.02,1.0,1,0.7,0.9
+42,Carretera de Les Aigues,nature and parks,phi4,0.2,1000,0.1,20.0,1,0.3,0.5
+42,Carretera de Les Aigues,nature and parks,qwen3_14b,0.2,500,0.1,15.0,1,0.3,0.6
+43,Casa Amatller,sights and landmarks,claude-haiku-4-5,0.35,1200,0.42,85.0,2,0.45,0.15
+43,Casa Amatller,sights and landmarks,deepseek-r1,0.3,1500,0.5,300.0,3,0.0,0.0
+43,Casa Amatller,sights and landmarks,gpt-4.1-mini,0.3,1500,0.4,300.0,2,0.5,0.1
+43,Casa Amatller,sights and landmarks,gpt-5.4-mini,0.42,1800,0.46,260.0,3,0.56,0.18
+43,Casa Amatller,sights and landmarks,gpt-5.4-nano,0.35,8000,0.45,320.0,3,0.45,0.2
+43,Casa Amatller,sights and landmarks,gpt-oss_20b,0.5,10000,0.6,400.0,2,0.6,0.3
+43,Casa Amatller,sights and landmarks,ministral-3_14b,0.3,3000,0.4,300.0,3,0.2,0.1
+43,Casa Amatller,sights and landmarks,phi4,0.3,10000,0.4,300.0,2,0.5,0.2
+43,Casa Amatller,sights and landmarks,qwen3_14b,0.3,7500,0.4,300.0,2,0.3,0.1
+44,Casa Batlló,sights and landmarks,claude-haiku-4-5,0.45,8500,0.52,385.0,3,0.58,0.15
+44,Casa Batlló,sights and landmarks,deepseek-r1,0.6,10000,0.4,300.0,2,0.8,0.2
+44,Casa Batlló,sights and landmarks,gpt-4.1-mini,0.3,1500,0.4,300.0,2,0.5,0.1
+44,Casa Batlló,sights and landmarks,gpt-5.4-mini,0.38,4500,0.56,520.0,3,0.48,0.12
+44,Casa Batlló,sights and landmarks,gpt-5.4-nano,0.35,12000,0.55,420.0,3,0.45,0.15
+44,Casa Batlló,sights and landmarks,gpt-oss_20b,0.5,15000,0.5,400.0,2,0.4,0.2
+44,Casa Batlló,sights and landmarks,ministral-3_14b,0.4,12000,0.5,500.0,3,0.3,0.1
+44,Casa Batlló,sights and landmarks,phi4,0.6,15000,0.6,500.0,3,0.5,0.2
+44,Casa Batlló,sights and landmarks,qwen3_14b,0.5,10000,0.5,500.0,3,0.5,0.1
+45,Casa Milà - La Pedrera,sights and landmarks,claude-haiku-4-5,0.45,8500,0.48,320.0,2,0.58,0.15
+45,Casa Milà - La Pedrera,sights and landmarks,deepseek-r1,0.5,10000,0.5,300.0,2,0.5,0.2
+45,Casa Milà - La Pedrera,sights and landmarks,gpt-4.1-mini,0.3,1500,0.5,400.0,3,0.5,0.2
+45,Casa Milà - La Pedrera,sights and landmarks,gpt-5.4-mini,0.34,7800,0.41,520.0,3,0.46,0.18
+45,Casa Milà - La Pedrera,sights and landmarks,gpt-5.4-nano,0.42,12000,0.56,420.0,3,0.45,0.25
+45,Casa Milà - La Pedrera,sights and landmarks,gpt-oss_20b,0.5,15000,0.5,400.0,2,0.6,0.4
+45,Casa Milà - La Pedrera,sights and landmarks,ministral-3_14b,0.6,12000,0.7,500.0,3,0.5,0.2
+45,Casa Milà - La Pedrera,sights and landmarks,phi4,0.6,15000,0.6,500.0,2,0.5,0.3
+45,Casa Milà - La Pedrera,sights and landmarks,qwen3_14b,0.4,10000,0.3,300.0,2,0.5,0.2
+46,Casa Vicens Gaudí,museums,claude-haiku-4-5,0.35,8500,0.42,285.0,2,0.58,0.25
+46,Casa Vicens Gaudí,museums,deepseek-r1,0.3,500,0.5,300.0,2,0.3,0.1
+46,Casa Vicens Gaudí,museums,gpt-4.1-mini,0.3,6000,0.4,300.0,2,0.6,0.2
+46,Casa Vicens Gaudí,museums,gpt-5.4-mini,0.28,1800,0.34,420.0,2,0.55,0.18
+46,Casa Vicens Gaudí,museums,gpt-5.4-nano,0.35,9000,0.45,280.0,3,0.45,0.25
+46,Casa Vicens Gaudí,museums,gpt-oss_20b,0.5,10000,0.4,300.0,2,0.3,0.2
+46,Casa Vicens Gaudí,museums,ministral-3_14b,0.3,3000,0.4,300.0,2,0.5,0.2
+46,Casa Vicens Gaudí,museums,phi4,0.5,12500,0.5,450.0,2,0.5,0.7
+46,Casa Vicens Gaudí,museums,qwen3_14b,0.5,10000,0.5,300.0,1,0.4,0.2
+47,Casa de les Punxes,sights and landmarks,claude-haiku-4-5,0.35,1200,0.38,85.0,2,0.42,0.15
+47,Casa de les Punxes,sights and landmarks,deepseek-r1,0.5,1000,0.5,300.0,2,0.3,0.2
+47,Casa de les Punxes,sights and landmarks,gpt-4.1-mini,0.3,1500,0.4,300.0,2,0.5,0.2
+47,Casa de les Punxes,sights and landmarks,gpt-5.4-mini,0.38,1800,0.42,320.0,3,0.45,0.15
+47,Casa de les Punxes,sights and landmarks,gpt-5.4-nano,0.35,7000,0.45,420.0,3,0.35,0.2
+47,Casa de les Punxes,sights and landmarks,gpt-oss_20b,0.4,1500,0.3,200.0,3,0.5,0.2
+47,Casa de les Punxes,sights and landmarks,ministral-3_14b,0.2,1200,0.3,250.0,2,0.5,0.1
+47,Casa de les Punxes,sights and landmarks,phi4,0.3,7500,0.3,375.0,2,0.2,0.1
+47,Casa de les Punxes,sights and landmarks,qwen3_14b,0.2,1000,0.3,200.0,1,0.5,0.1
+48,Casino Barcelona,fun and games,claude-haiku-4-5,0.65,18000,0.72,1440.0,4,0.45,0.15
+48,Casino Barcelona,fun and games,deepseek-r1,0.8,15000,0.8,1500.0,3,0.5,0.2
+48,Casino Barcelona,fun and games,gpt-4.1-mini,0.6,15000,0.7,600.0,4,0.5,0.2
+48,Casino Barcelona,fun and games,gpt-5.4-mini,0.62,18000,0.78,1200.0,5,0.52,0.08
+48,Casino Barcelona,fun and games,gpt-5.4-nano,0.45,8500,0.6,420.0,4,0.45,0.15
+48,Casino Barcelona,fun and games,gpt-oss_20b,0.7,15000,0.8,2500.0,4,0.4,0.2
+48,Casino Barcelona,fun and games,ministral-3_14b,0.75,15000,0.8,600.0,4,0.4,0.1
+48,Casino Barcelona,fun and games,phi4,0.8,20000,0.8,600.0,4,0.5,0.2
+48,Casino Barcelona,fun and games,qwen3_14b,0.6,15000,0.7,500.0,4,0.5,0.2
+49,Cementerio de Montjuic,sights and landmarks,claude-haiku-4-5,0.35,800,0.25,35.0,1,0.6,0.55
+49,Cementerio de Montjuic,sights and landmarks,deepseek-r1,0.2,1000,0.3,300.0,1,0.3,0.2
+49,Cementerio de Montjuic,sights and landmarks,gpt-4.1-mini,0.3,1500,0.2,100.0,1,0.5,0.4
+49,Cementerio de Montjuic,sights and landmarks,gpt-5.4-mini,0.42,1800,0.28,95.0,1,0.56,0.58
+49,Cementerio de Montjuic,sights and landmarks,gpt-5.4-nano,0.48,14000,0.45,420.0,2,0.5,0.42
+49,Cementerio de Montjuic,sights and landmarks,gpt-oss_20b,0.5,10000,0.3,200.0,1,0.4,0.5
+49,Cementerio de Montjuic,sights and landmarks,ministral-3_14b,0.1,500,0.1,50.0,1,0.3,0.7
+49,Cementerio de Montjuic,sights and landmarks,phi4,0.3,10000,0.4,300.0,1,0.5,0.6
+49,Cementerio de Montjuic,sights and landmarks,qwen3_14b,0.3,1000,0.3,30.0,1,0.4,0.5
+50,Chiang Mai Thai Massage And Spa,spas and wellness,claude-haiku-4-5,0.68,3200,0.55,185.0,2,0.42,0.15
+50,Chiang Mai Thai Massage And Spa,spas and wellness,deepseek-r1,0.5,1000,0.3,30.0,1,0.2,0.3
+50,Chiang Mai Thai Massage And Spa,spas and wellness,gpt-4.1-mini,0.5,15000,0.5,300.0,1,0.5,0.1
+50,Chiang Mai Thai Massage And Spa,spas and wellness,gpt-5.4-mini,0.34,1800,0.31,42.0,2,0.42,0.12
+50,Chiang Mai Thai Massage And Spa,spas and wellness,gpt-5.4-nano,0.35,9000,0.42,380.0,3,0.4,0.15
+50,Chiang Mai Thai Massage And Spa,spas and wellness,gpt-oss_20b,0.6,12000,0.6,400.0,2,0.4,0.2
+50,Chiang Mai Thai Massage And Spa,spas and wellness,ministral-3_14b,0.7,12000,0.8,500.0,2,0.3,0.1
+50,Chiang Mai Thai Massage And Spa,spas and wellness,phi4,0.5,12500,0.5,450.0,1,0.3,0.1
+50,Chiang Mai Thai Massage And Spa,spas and wellness,qwen3_14b,0.4,2000,0.4,300.0,2,0.3,0.1
+51,Cines Verdi,fun and games,claude-haiku-4-5,0.35,3200,0.48,380.0,2,0.42,0.15
+51,Cines Verdi,fun and games,deepseek-r1,0.5,1500,0.5,400.0,3,0.2,0.1
+51,Cines Verdi,fun and games,gpt-4.1-mini,0.4,1500,0.5,350.0,3,0.5,0.1
+51,Cines Verdi,fun and games,gpt-5.4-mini,0.34,1800,0.58,520.0,3,0.46,0.09
+51,Cines Verdi,fun and games,gpt-5.4-nano,0.35,12000,0.5,380.0,3,0.4,0.15
+51,Cines Verdi,fun and games,gpt-oss_20b,0.5,12000,0.6,550.0,3,0.4,0.1
+51,Cines Verdi,fun and games,ministral-3_14b,0.4,12000,0.6,500.0,3,0.3,0.1
+51,Cines Verdi,fun and games,phi4,0.3,10000,0.4,500.0,3,0.3,0.1
+51,Cines Verdi,fun and games,qwen3_14b,0.4,10000,0.5,500.0,2,0.3,0.1
+52,City Hall Club,nightlife,claude-haiku-4-5,0.45,3200,0.68,420.0,5,0.35,0.05
+52,City Hall Club,nightlife,deepseek-r1,0.6,5000,0.9,150.0,5,0.3,0.1
+52,City Hall Club,nightlife,gpt-4.1-mini,0.5,1500,0.6,300.0,5,0.3,0.1
+52,City Hall Club,nightlife,gpt-5.4-mini,0.38,1800,0.62,520.0,5,0.32,0.08
+52,City Hall Club,nightlife,gpt-5.4-nano,0.35,8000,0.55,420.0,4,0.35,0.15
+52,City Hall Club,nightlife,gpt-oss_20b,0.7,15000,0.6,500.0,4,0.4,0.1
+52,City Hall Club,nightlife,ministral-3_14b,0.75,12000,0.85,600.0,5,0.3,0.1
+52,City Hall Club,nightlife,phi4,0.5,10000,0.5,500.0,5,0.3,0.1
+52,City Hall Club,nightlife,qwen3_14b,0.5,5000,0.6,500.0,4,0.3,0.1
+53,Ciutat Vella,sights and landmarks,claude-haiku-4-5,0.45,8500,0.48,320.0,4,0.42,0.15
+53,Ciutat Vella,sights and landmarks,deepseek-r1,0.5,10000,0.5,300.0,3,0.5,0.3
+53,Ciutat Vella,sights and landmarks,gpt-4.1-mini,0.3,2000,0.4,300.0,3,0.5,0.2
+53,Ciutat Vella,sights and landmarks,gpt-5.4-mini,0.46,12000,0.44,380.0,4,0.48,0.12
+53,Ciutat Vella,sights and landmarks,gpt-5.4-nano,0.45,12000,0.5,360.0,4,0.4,0.25
+53,Ciutat Vella,sights and landmarks,gpt-oss_20b,0.6,15000,0.6,400.0,4,0.4,0.3
+53,Ciutat Vella,sights and landmarks,ministral-3_14b,0.3,12000,0.4,450.0,4,0.5,0.1
+53,Ciutat Vella,sights and landmarks,phi4,0.5,12500,0.5,450.0,3,0.3,0.2
+53,Ciutat Vella,sights and landmarks,qwen3_14b,0.5,5000,0.5,300.0,2,0.6,0.2
+54,Clinica Carolina de la Rosa,spas and wellness,claude-haiku-4-5,0.45,1200,0.48,45.0,2,0.5,0.05
+54,Clinica Carolina de la Rosa,spas and wellness,deepseek-r1,0.2,1000,0.3,15.0,1,0.2,0.1
+54,Clinica Carolina de la Rosa,spas and wellness,gpt-4.1-mini,0.5,1500,0.5,300.0,1,0.6,0.2
+54,Clinica Carolina de la Rosa,spas and wellness,gpt-5.4-mini,0.28,950,0.34,42.0,2,0.46,0.12
+54,Clinica Carolina de la Rosa,spas and wellness,gpt-5.4-nano,0.35,6500,0.4,320.0,2,0.4,0.1
+54,Clinica Carolina de la Rosa,spas and wellness,gpt-oss_20b,0.5,7500,0.3,30.0,2,0.4,0.1
+54,Clinica Carolina de la Rosa,spas and wellness,ministral-3_14b,0.4,1200,0.5,250.0,2,0.3,0.1
+54,Clinica Carolina de la Rosa,spas and wellness,phi4,0.5,12500,0.5,450.0,1,0.3,0.1
+54,Clinica Carolina de la Rosa,spas and wellness,qwen3_14b,0.5,2000,0.5,50.0,2,0.4,0.1
+55,Club Natacio Atlètic-Barceloneta,spas and wellness,claude-haiku-4-5,0.85,45000,0.78,520.0,4,0.45,0.25
+55,Club Natacio Atlètic-Barceloneta,spas and wellness,deepseek-r1,0.6,15000,0.6,300.0,3,0.6,0.2
+55,Club Natacio Atlètic-Barceloneta,spas and wellness,gpt-4.1-mini,1.0,150000,1.0,2500.0,3,0.6,0.3
+55,Club Natacio Atlètic-Barceloneta,spas and wellness,gpt-5.4-mini,0.93,28000,0.84,1400.0,4,0.46,0.12
+55,Club Natacio Atlètic-Barceloneta,spas and wellness,gpt-5.4-nano,0.72,18000,0.6,420.0,3,0.45,0.25
+55,Club Natacio Atlètic-Barceloneta,spas and wellness,gpt-oss_20b,0.9,200000,0.9,3000.0,3,0.5,0.2
+55,Club Natacio Atlètic-Barceloneta,spas and wellness,ministral-3_14b,0.95,120000,0.85,3500.0,4,0.4,0.2
+55,Club Natacio Atlètic-Barceloneta,spas and wellness,phi4,0.8,30000,0.7,500.0,3,0.3,0.2
+55,Club Natacio Atlètic-Barceloneta,spas and wellness,qwen3_14b,0.7,20000,0.6,1500.0,3,0.5,0.2
+56,Cocteleria Torre Rosa,nightlife,claude-haiku-4-5,0.55,1800,0.48,280.0,4,0.35,0.42
+56,Cocteleria Torre Rosa,nightlife,deepseek-r1,0.5,1000,0.5,0.41,3,0.1,0.2
+56,Cocteleria Torre Rosa,nightlife,gpt-4.1-mini,0.5,1500,0.5,200.0,4,0.3,0.3
+56,Cocteleria Torre Rosa,nightlife,gpt-5.4-mini,0.44,1800,0.42,42.0,4,0.36,0.28
+56,Cocteleria Torre Rosa,nightlife,gpt-5.4-nano,0.45,9000,0.5,360.0,4,0.35,0.45
+56,Cocteleria Torre Rosa,nightlife,gpt-oss_20b,0.5,10000,0.5,300.0,4,0.4,0.6
+56,Cocteleria Torre Rosa,nightlife,ministral-3_14b,0.7,12000,0.75,500.0,4,0.3,0.2
+56,Cocteleria Torre Rosa,nightlife,phi4,0.5,2000,0.5,50.0,4,0.3,0.2
+56,Cocteleria Torre Rosa,nightlife,qwen3_14b,0.5,1500,0.4,200.0,4,0.3,0.2
+57,Collage Art & Cocktail Social Club,nightlife,claude-haiku-4-5,0.45,1200,0.52,85.0,4,0.35,0.05
+57,Collage Art & Cocktail Social Club,nightlife,deepseek-r1,0.7,2500,0.8,75.0,4,0.0,0.0
+57,Collage Art & Cocktail Social Club,nightlife,gpt-4.1-mini,0.3,1500,0.4,50.0,4,0.5,0.1
+57,Collage Art & Cocktail Social Club,nightlife,gpt-5.4-mini,0.34,1800,0.41,95.0,4,0.42,0.08
+57,Collage Art & Cocktail Social Club,nightlife,gpt-5.4-nano,0.22,1800,0.38,120.0,3,0.35,0.08
+57,Collage Art & Cocktail Social Club,nightlife,gpt-oss_20b,0.4,4000,0.5,200.0,4,0.3,0.1
+57,Collage Art & Cocktail Social Club,nightlife,ministral-3_14b,0.7,1500,0.75,300.0,4,0.3,0.1
+57,Collage Art & Cocktail Social Club,nightlife,phi4,0.3,2000,0.4,50.0,4,0.3,0.1
+57,Collage Art & Cocktail Social Club,nightlife,qwen3_14b,0.3,1000,0.4,300.0,4,0.3,0.1
+58,Confort Centre Quiromassatge,spas and wellness,claude-haiku-4-5,0.55,1200,0.48,45.0,1,0.45,0.15
+58,Confort Centre Quiromassatge,spas and wellness,deepseek-r1,0.5,10000,0.5,300.0,1,0.2,0.1
+58,Confort Centre Quiromassatge,spas and wellness,gpt-4.1-mini,0.5,1500,0.5,300.0,1,0.5,0.1
+58,Confort Centre Quiromassatge,spas and wellness,gpt-5.4-mini,0.32,1400,0.28,42.0,2,0.38,0.12
+58,Confort Centre Quiromassatge,spas and wellness,gpt-5.4-nano,0.35,12000,0.45,420.0,2,0.35,0.12
+58,Confort Centre Quiromassatge,spas and wellness,gpt-oss_20b,0.4,1500,0.3,30.0,2,0.4,0.3
+58,Confort Centre Quiromassatge,spas and wellness,ministral-3_14b,0.4,3000,0.5,250.0,2,0.3,0.1
+58,Confort Centre Quiromassatge,spas and wellness,phi4,0.3,2000,0.4,50.0,1,0.5,0.1
+58,Confort Centre Quiromassatge,spas and wellness,qwen3_14b,0.3,1000,0.3,30.0,1,0.4,0.1
+59,CosmoCaixa Museum Of Science,museums,claude-haiku-4-5,0.62,12500,0.58,420.0,3,0.52,0.71
+59,CosmoCaixa Museum Of Science,museums,deepseek-r1,0.5,10000,0.5,300.0,2,0.7,0.9
+59,CosmoCaixa Museum Of Science,museums,gpt-4.1-mini,0.7,15000,0.6,400.0,3,0.6,0.8
+59,CosmoCaixa Museum Of Science,museums,gpt-5.4-mini,0.74,18000,0.68,520.0,3,0.56,0.52
+59,CosmoCaixa Museum Of Science,museums,gpt-5.4-nano,0.48,16000,0.58,420.0,3,0.46,0.66
+59,CosmoCaixa Museum Of Science,museums,gpt-oss_20b,0.8,15000,0.7,400.0,2,0.6,0.5
+59,CosmoCaixa Museum Of Science,museums,ministral-3_14b,0.65,12000,0.7,500.0,3,0.55,0.85
+59,CosmoCaixa Museum Of Science,museums,phi4,0.6,15000,0.5,500.0,2,0.5,0.6
+59,CosmoCaixa Museum Of Science,museums,qwen3_14b,0.7,120000,0.7,2500.0,2,0.6,0.7
+60,Cronologic,fun and games,claude-haiku-4-5,0.25,800,0.35,45.0,3,0.45,0.15
+60,Cronologic,fun and games,deepseek-r1,0.3,5000,0.2,15.0,1,0.3,0.2
+60,Cronologic,fun and games,gpt-4.1-mini,0.2,600,0.3,200.0,3,0.5,0.1
+60,Cronologic,fun and games,gpt-5.4-mini,0.14,900,0.28,45.0,3,0.42,0.08
+60,Cronologic,fun and games,gpt-5.4-nano,0.18,1200,0.35,420.0,3,0.4,0.15
+60,Cronologic,fun and games,gpt-oss_20b,0.3,1500,0.3,30.0,3,0.4,0.1
+60,Cronologic,fun and games,ministral-3_14b,0.2,800,0.3,120.0,2,0.3,0.1
+60,Cronologic,fun and games,phi4,0.2,1000,0.3,50.0,3,0.3,0.1
+60,Cronologic,fun and games,qwen3_14b,0.2,1200,0.3,45.0,3,0.4,0.1
+61,CrossFit Diagonal,spas and wellness,claude-haiku-4-5,0.45,3200,0.52,285.0,4,0.35,0.25
+61,CrossFit Diagonal,spas and wellness,deepseek-r1,0.6,10000,0.6,300.0,3,0.2,0.1
+61,CrossFit Diagonal,spas and wellness,gpt-4.1-mini,0.4,1500,0.5,350.0,3,0.3,0.2
+61,CrossFit Diagonal,spas and wellness,gpt-5.4-mini,0.38,1800,0.46,420.0,4,0.44,0.14
+61,CrossFit Diagonal,spas and wellness,gpt-5.4-nano,0.55,12000,0.5,420.0,3,0.35,0.2
+61,CrossFit Diagonal,spas and wellness,gpt-oss_20b,0.6,15000,0.6,400.0,4,0.4,0.2
+61,CrossFit Diagonal,spas and wellness,ministral-3_14b,0.4,3000,0.5,300.0,3,0.3,0.2
+61,CrossFit Diagonal,spas and wellness,phi4,0.5,7500,0.5,450.0,4,0.3,0.2
+61,CrossFit Diagonal,spas and wellness,qwen3_14b,0.5,7500,0.5,350.0,3,0.3,0.1
+62,Despacio Spa at The One,spas and wellness,claude-haiku-4-5,0.78,18500,0.65,420.0,2,0.52,0.05
+62,Despacio Spa at The One,spas and wellness,deepseek-r1,0.6,10000,0.7,300.0,3,0.2,0.1
+62,Despacio Spa at The One,spas and wellness,gpt-4.1-mini,0.7,15000,0.6,400.0,1,0.5,0.1
+62,Despacio Spa at The One,spas and wellness,gpt-5.4-mini,0.72,12000,0.48,420.0,2,0.42,0.15
+62,Despacio Spa at The One,spas and wellness,gpt-5.4-nano,0.68,18000,0.62,420.0,2,0.4,0.15
+62,Despacio Spa at The One,spas and wellness,gpt-oss_20b,0.6,15000,0.5,400.0,2,0.4,0.2
+62,Despacio Spa at The One,spas and wellness,ministral-3_14b,0.85,15000,0.75,500.0,3,0.4,0.1
+62,Despacio Spa at The One,spas and wellness,phi4,0.8,15000,0.7,500.0,1,0.5,0.2
+62,Despacio Spa at The One,spas and wellness,qwen3_14b,0.6,10000,0.6,500.0,2,0.5,0.1
+63,DiR Maragall,spas and wellness,claude-haiku-4-5,0.68,18500,0.65,520.0,4,0.45,0.15
+63,DiR Maragall,spas and wellness,deepseek-r1,0.7,10000,0.7,600.0,3,0.1,0.1
+63,DiR Maragall,spas and wellness,gpt-4.1-mini,0.8,15000,0.75,600.0,3,0.5,0.2
+63,DiR Maragall,spas and wellness,gpt-5.4-mini,0.74,18000,0.68,520.0,4,0.46,0.08
+63,DiR Maragall,spas and wellness,gpt-5.4-nano,0.78,18000,0.62,420.0,3,0.35,0.18
+63,DiR Maragall,spas and wellness,gpt-oss_20b,0.9,150000,0.9,2500.0,4,0.5,0.2
+63,DiR Maragall,spas and wellness,ministral-3_14b,0.85,18000,0.75,500.0,3,0.5,0.1
+63,DiR Maragall,spas and wellness,phi4,0.8,20000,0.75,500.0,3,0.5,0.2
+63,DiR Maragall,spas and wellness,qwen3_14b,0.6,15000,0.6,500.0,3,0.4,0.1
+64,Dis Estetica,spas and wellness,claude-haiku-4-5,0.55,1800,0.48,65.0,2,0.35,0.05
+64,Dis Estetica,spas and wellness,deepseek-r1,0.5,1000,0.5,30.0,2,0.1,0.1
+64,Dis Estetica,spas and wellness,gpt-4.1-mini,0.4,1500,0.3,200.0,2,0.4,0.1
+64,Dis Estetica,spas and wellness,gpt-5.4-mini,0.42,1600,0.39,42.0,2,0.46,0.08
+64,Dis Estetica,spas and wellness,gpt-5.4-nano,0.35,9000,0.45,380.0,2,0.35,0.1
+64,Dis Estetica,spas and wellness,gpt-oss_20b,0.6,10000,0.5,400.0,2,0.4,0.1
+64,Dis Estetica,spas and wellness,ministral-3_14b,0.85,12000,0.8,500.0,3,0.3,0.0
+64,Dis Estetica,spas and wellness,phi4,0.5,2000,0.5,50.0,1,0.5,0.1
+64,Dis Estetica,spas and wellness,qwen3_14b,0.5,2000,0.5,50.0,2,0.3,0.1
+65,Dry Martini by Javier De Las Muelas,nightlife,claude-haiku-4-5,0.35,1200,0.42,85.0,4,0.45,0.05
+65,Dry Martini by Javier De Las Muelas,nightlife,deepseek-r1,0.5,1000,0.5,30.0,4,0.1,0.2
+65,Dry Martini by Javier De Las Muelas,nightlife,gpt-4.1-mini,0.5,1500,0.5,300.0,3,0.4,0.1
+65,Dry Martini by Javier De Las Muelas,nightlife,gpt-5.4-mini,0.42,1800,0.46,320.0,4,0.44,0.08
+65,Dry Martini by Javier De Las Muelas,nightlife,gpt-5.4-nano,0.35,12000,0.45,420.0,4,0.45,0.1
+65,Dry Martini by Javier De Las Muelas,nightlife,gpt-oss_20b,0.3,1500,0.3,30.0,4,0.4,0.1
+65,Dry Martini by Javier De Las Muelas,nightlife,ministral-3_14b,0.6,12000,0.65,500.0,4,0.4,0.1
+65,Dry Martini by Javier De Las Muelas,nightlife,phi4,0.3,2000,0.4,50.0,4,0.3,0.1
+65,Dry Martini by Javier De Las Muelas,nightlife,qwen3_14b,0.5,1500,0.5,500.0,4,0.4,0.1
+66,Dunas Del Rif,spas and wellness,claude-haiku-4-5,0.72,8500,0.68,285.0,2,0.48,0.15
+66,Dunas Del Rif,spas and wellness,deepseek-r1,0.5,5000,0.5,150.0,2,0.7,0.2
+66,Dunas Del Rif,spas and wellness,gpt-4.1-mini,0.6,15000,0.5,350.0,1,0.5,0.2
+66,Dunas Del Rif,spas and wellness,gpt-5.4-mini,0.58,12000,0.48,320.0,2,0.42,0.08
+66,Dunas Del Rif,spas and wellness,gpt-5.4-nano,0.42,14000,0.55,420.0,2,0.35,0.15
+66,Dunas Del Rif,spas and wellness,gpt-oss_20b,0.5,10000,0.5,300.0,2,0.4,0.2
+66,Dunas Del Rif,spas and wellness,ministral-3_14b,0.85,12000,0.7,500.0,2,0.4,0.1
+66,Dunas Del Rif,spas and wellness,phi4,0.6,15000,0.5,500.0,2,0.3,0.1
+66,Dunas Del Rif,spas and wellness,qwen3_14b,0.6,10000,0.5,500.0,1,0.3,0.1
+67,EI Duende by Tablao Flamenco Cordobes,fun and games,claude-haiku-4-5,0.35,1200,0.45,85.0,4,0.4,0.05
+67,EI Duende by Tablao Flamenco Cordobes,fun and games,deepseek-r1,0.6,2000,0.4,300.0,4,0.2,0.1
+67,EI Duende by Tablao Flamenco Cordobes,fun and games,gpt-4.1-mini,0.3,1000,0.4,200.0,4,0.4,0.1
+67,EI Duende by Tablao Flamenco Cordobes,fun and games,gpt-5.4-mini,0.28,1800,0.34,95.0,4,0.42,0.12
+67,EI Duende by Tablao Flamenco Cordobes,fun and games,gpt-5.4-nano,0.25,8000,0.42,420.0,4,0.4,0.1
+67,EI Duende by Tablao Flamenco Cordobes,fun and games,gpt-oss_20b,0.3,2500,0.4,250.0,3,0.4,0.1
+67,EI Duende by Tablao Flamenco Cordobes,fun and games,ministral-3_14b,0.3,3000,0.4,300.0,4,0.5,0.1
+67,EI Duende by Tablao Flamenco Cordobes,fun and games,phi4,0.3,2000,0.4,50.0,4,0.3,0.1
+67,EI Duende by Tablao Flamenco Cordobes,fun and games,qwen3_14b,0.5,5000,0.5,300.0,4,0.3,0.1
+68,EMOTION!,fun and games,claude-haiku-4-5,0.35,1200,0.4,85.0,3,0.5,0.05
+68,EMOTION!,fun and games,deepseek-r1,0.5,1000,0.5,30.0,2,0.1,0.1
+68,EMOTION!,fun and games,gpt-4.1-mini,0.1,100,0.3,200.0,3,0.4,0.1
+68,EMOTION!,fun and games,gpt-5.4-mini,0.16,180,0.28,42.0,3,0.44,0.08
+68,EMOTION!,fun and games,gpt-5.4-nano,0.25,3500,0.4,260.0,3,0.35,0.1
+68,EMOTION!,fun and games,gpt-oss_20b,0.3,1500,0.4,30.0,3,0.5,0.1
+68,EMOTION!,fun and games,ministral-3_14b,0.2,300,0.3,50.0,3,0.4,0.1
+68,EMOTION!,fun and games,phi4,0.3,2000,0.3,50.0,3,0.3,0.1
+68,EMOTION!,fun and games,qwen3_14b,0.2,1000,0.2,30.0,3,0.4,0.1
+69,El Born,sights and landmarks,claude-haiku-4-5,0.45,8500,0.48,320.0,4,0.42,0.25
+69,El Born,sights and landmarks,deepseek-r1,0.5,10000,0.5,300.0,3,0.5,0.8
+69,El Born,sights and landmarks,gpt-4.1-mini,0.3,2000,0.4,300.0,3,0.5,0.2
+69,El Born,sights and landmarks,gpt-5.4-mini,0.36,7200,0.33,260.0,4,0.42,0.12
+69,El Born,sights and landmarks,gpt-5.4-nano,0.55,18000,0.6,420.0,4,0.45,0.25
+69,El Born,sights and landmarks,gpt-oss_20b,0.5,15000,0.6,400.0,3,0.4,0.2
+69,El Born,sights and landmarks,ministral-3_14b,0.4,12000,0.5,400.0,4,0.5,0.2
+69,El Born,sights and landmarks,phi4,0.3,15000,0.4,300.0,3,0.3,0.2
+69,El Born,sights and landmarks,qwen3_14b,0.3,2000,0.3,150.0,3,0.4,0.1
+70,El Quinto Moño,nightlife,claude-haiku-4-5,0.35,1200,0.42,45.0,4,0.45,0.1
+70,El Quinto Moño,nightlife,deepseek-r1,0.5,2000,0.5,30.0,4,0.2,0.1
+70,El Quinto Moño,nightlife,gpt-4.1-mini,0.5,1500,0.5,300.0,4,0.3,0.1
+70,El Quinto Moño,nightlife,gpt-5.4-mini,0.38,1800,0.42,220.0,4,0.34,0.08
+70,El Quinto Moño,nightlife,gpt-5.4-nano,0.35,6500,0.42,360.0,4,0.4,0.2
+70,El Quinto Moño,nightlife,gpt-oss_20b,0.4,1500,0.3,30.0,4,0.4,0.1
+70,El Quinto Moño,nightlife,ministral-3_14b,0.6,3500,0.65,300.0,4,0.35,0.1
+70,El Quinto Moño,nightlife,phi4,0.5,2000,0.5,50.0,4,0.3,0.1
+70,El Quinto Moño,nightlife,qwen3_14b,0.4,2000,0.4,50.0,4,0.3,0.1
+71,El Templo Esports Gaming Center,fun and games,claude-haiku-4-5,0.35,1200,0.62,280.0,4,0.4,0.05
+71,El Templo Esports Gaming Center,fun and games,deepseek-r1,0.3,2000,0.5,300.0,4,0.2,0.1
+71,El Templo Esports Gaming Center,fun and games,gpt-4.1-mini,0.2,1000,0.5,300.0,3,0.4,0.1
+71,El Templo Esports Gaming Center,fun and games,gpt-5.4-mini,0.18,900,0.42,280.0,3,0.44,0.08
+71,El Templo Esports Gaming Center,fun and games,gpt-5.4-nano,0.28,6500,0.52,320.0,3,0.4,0.15
+71,El Templo Esports Gaming Center,fun and games,gpt-oss_20b,0.7,15000,0.8,400.0,4,0.3,0.1
+71,El Templo Esports Gaming Center,fun and games,ministral-3_14b,0.3,3000,0.7,500.0,4,0.2,0.0
+71,El Templo Esports Gaming Center,fun and games,phi4,0.3,2000,0.4,50.0,3,0.3,0.1
+71,El Templo Esports Gaming Center,fun and games,qwen3_14b,0.4,5000,0.5,500.0,3,0.3,0.1
+72,Elements Escape Room - Fuego - Atlantis - Cetro de Fuego,fun and games,claude-haiku-4-5,0.25,800,0.35,85.0,3,0.45,0.0
+72,Elements Escape Room - Fuego - Atlantis - Cetro de Fuego,fun and games,deepseek-r1,0.2,1000,0.2,30.0,3,0.1,0.1
+72,Elements Escape Room - Fuego - Atlantis - Cetro de Fuego,fun and games,gpt-4.1-mini,0.1,100,0.3,30.0,3,0.4,0.1
+72,Elements Escape Room - Fuego - Atlantis - Cetro de Fuego,fun and games,gpt-5.4-mini,0.18,900,0.28,45.0,3,0.46,0.12
+72,Elements Escape Room - Fuego - Atlantis - Cetro de Fuego,fun and games,gpt-5.4-nano,0.25,1200,0.35,180.0,3,0.35,0.1
+72,Elements Escape Room - Fuego - Atlantis - Cetro de Fuego,fun and games,gpt-oss_20b,0.2,1500,0.3,30.0,3,0.4,0.1
+72,Elements Escape Room - Fuego - Atlantis - Cetro de Fuego,fun and games,ministral-3_14b,0.2,1000,0.3,200.0,2,0.3,0.0
+72,Elements Escape Room - Fuego - Atlantis - Cetro de Fuego,fun and games,phi4,0.2,1000,0.3,50.0,3,0.3,0.1
+72,Elements Escape Room - Fuego - Atlantis - Cetro de Fuego,fun and games,qwen3_14b,0.2,500,0.3,30.0,3,0.4,0.1
+73,Elements Escape Room - Fuego Sants,fun and games,claude-haiku-4-5,0.25,800,0.35,45.0,3,0.45,0.05
+73,Elements Escape Room - Fuego Sants,fun and games,deepseek-r1,0.2,100,0.3,30.0,3,0.1,0.1
+73,Elements Escape Room - Fuego Sants,fun and games,gpt-4.1-mini,0.2,600,0.3,200.0,3,0.5,0.1
+73,Elements Escape Room - Fuego Sants,fun and games,gpt-5.4-mini,0.18,900,0.22,45.0,3,0.46,0.08
+73,Elements Escape Room - Fuego Sants,fun and games,gpt-5.4-nano,0.18,1200,0.35,90.0,3,0.35,0.12
+73,Elements Escape Room - Fuego Sants,fun and games,gpt-oss_20b,0.5,1500,0.5,30.0,3,0.3,0.2
+73,Elements Escape Room - Fuego Sants,fun and games,ministral-3_14b,0.2,800,0.3,120.0,2,0.4,0.1
+73,Elements Escape Room - Fuego Sants,fun and games,phi4,0.2,1000,0.3,50.0,3,0.3,0.1
+73,Elements Escape Room - Fuego Sants,fun and games,qwen3_14b,0.2,500,0.4,30.0,2,0.3,0.1
+74,Encrypt Escape Room,fun and games,claude-haiku-4-5,0.25,800,0.35,45.0,3,0.45,0.05
+74,Encrypt Escape Room,fun and games,deepseek-r1,0.2,100,0.3,5.0,1,0.3,0.1
+74,Encrypt Escape Room,fun and games,gpt-4.1-mini,0.2,600,0.3,30.0,3,0.5,0.1
+74,Encrypt Escape Room,fun and games,gpt-5.4-mini,0.12,180,0.24,48.0,3,0.42,0.09
+74,Encrypt Escape Room,fun and games,gpt-5.4-nano,0.25,3500,0.35,220.0,3,0.35,0.15
+74,Encrypt Escape Room,fun and games,gpt-oss_20b,0.3,1500,0.3,30.0,3,0.4,0.2
+74,Encrypt Escape Room,fun and games,ministral-3_14b,0.2,800,0.3,120.0,3,0.4,0.1
+74,Encrypt Escape Room,fun and games,phi4,0.2,1000,0.3,50.0,3,0.3,0.1
+74,Encrypt Escape Room,fun and games,qwen3_14b,0.2,800,0.3,250.0,2,0.4,0.1
+75,Enigma - Escape Room Barcelona,fun and games,claude-haiku-4-5,0.25,800,0.35,85.0,3,0.45,0.0
+75,Enigma - Escape Room Barcelona,fun and games,deepseek-r1,0.2,150,0.15,30.0,2,0.3,0.1
+75,Enigma - Escape Room Barcelona,fun and games,gpt-4.1-mini,0.1,100,0.2,20.0,3,0.5,0.1
+75,Enigma - Escape Room Barcelona,fun and games,gpt-5.4-mini,0.18,900,0.28,42.0,2,0.38,0.08
+75,Enigma - Escape Room Barcelona,fun and games,gpt-5.4-nano,0.25,800,0.35,220.0,3,0.35,0.1
+75,Enigma - Escape Room Barcelona,fun and games,gpt-oss_20b,0.2,1500,0.2,30.0,3,0.4,0.1
+75,Enigma - Escape Room Barcelona,fun and games,ministral-3_14b,0.2,1000,0.3,200.0,3,0.4,0.1
+75,Enigma - Escape Room Barcelona,fun and games,phi4,0.2,1000,0.3,50.0,3,0.3,0.1
+75,Enigma - Escape Room Barcelona,fun and games,qwen3_14b,0.2,500,0.3,30.0,3,0.4,0.1
+76,Enigmik Escape Room,fun and games,claude-haiku-4-5,0.35,1200,0.42,85.0,3,0.45,0.05
+76,Enigmik Escape Room,fun and games,deepseek-r1,0.2,100,0.1,5.0,2,0.3,0.1
+76,Enigmik Escape Room,fun and games,gpt-4.1-mini,0.2,1000,0.3,200.0,3,0.5,0.1
+76,Enigmik Escape Room,fun and games,gpt-5.4-mini,0.18,900,0.22,55.0,3,0.45,0.08
+76,Enigmik Escape Room,fun and games,gpt-5.4-nano,0.18,1200,0.35,260.0,3,0.35,0.08
+76,Enigmik Escape Room,fun and games,gpt-oss_20b,0.3,1500,0.3,30.0,3,0.4,0.1
+76,Enigmik Escape Room,fun and games,ministral-3_14b,0.2,1000,0.3,200.0,3,0.4,0.1
+76,Enigmik Escape Room,fun and games,phi4,0.2,1000,0.3,50.0,3,0.3,0.1
+76,Enigmik Escape Room,fun and games,qwen3_14b,0.2,500,0.2,30.0,3,0.4,0.1
+77,Erotic Museum of Barcelona (Museu de l'Erotica),museums,claude-haiku-4-5,0.35,1200,0.42,85.0,2,0.45,0.05
+77,Erotic Museum of Barcelona (Museu de l'Erotica),museums,deepseek-r1,0.2,100,0.1,5.0,3,0.2,0.1
+77,Erotic Museum of Barcelona (Museu de l'Erotica),museums,gpt-4.1-mini,0.3,1500,0.4,300.0,2,0.5,0.1
+77,Erotic Museum of Barcelona (Museu de l'Erotica),museums,gpt-5.4-mini,0.18,1200,0.24,320.0,2,0.45,0.08
+77,Erotic Museum of Barcelona (Museu de l'Erotica),museums,gpt-5.4-nano,0.35,8000,0.45,420.0,3,0.45,0.15
+77,Erotic Museum of Barcelona (Museu de l'Erotica),museums,gpt-oss_20b,0.4,8000,0.5,300.0,2,0.5,0.2
+77,Erotic Museum of Barcelona (Museu de l'Erotica),museums,ministral-3_14b,0.2,1500,0.3,250.0,2,0.4,0.1
+77,Erotic Museum of Barcelona (Museu de l'Erotica),museums,phi4,0.3,10000,0.4,300.0,2,0.5,0.2
+77,Erotic Museum of Barcelona (Museu de l'Erotica),museums,qwen3_14b,0.3,5000,0.3,300.0,2,0.5,0.1
+78,Escape Barcelona,fun and games,claude-haiku-4-5,0.25,800,0.35,85.0,3,0.45,0.05
+78,Escape Barcelona,fun and games,deepseek-r1,0.3,1000,0.3,30.0,2,0.1,0.1
+78,Escape Barcelona,fun and games,gpt-4.1-mini,0.2,100,0.3,20.0,3,0.4,0.1
+78,Escape Barcelona,fun and games,gpt-5.4-mini,0.18,900,0.28,45.0,3,0.52,0.08
+78,Escape Barcelona,fun and games,gpt-5.4-nano,0.28,1800,0.42,280.0,3,0.35,0.1
+78,Escape Barcelona,fun and games,gpt-oss_20b,0.3,1500,0.4,30.0,3,0.3,0.1
+78,Escape Barcelona,fun and games,ministral-3_14b,0.2,1000,0.3,200.0,3,0.4,0.1
+78,Escape Barcelona,fun and games,phi4,0.2,1000,0.3,50.0,3,0.3,0.1
+78,Escape Barcelona,fun and games,qwen3_14b,0.2,500,0.3,30.0,3,0.5,0.1
+79,Escape Hunt,fun and games,claude-haiku-4-5,0.25,800,0.35,85.0,3,0.45,0.05
+79,Escape Hunt,fun and games,deepseek-r1,0.2,500,0.1,30.0,3,0.1,0.1
+79,Escape Hunt,fun and games,gpt-4.1-mini,0.2,1000,0.3,200.0,3,0.5,0.1
+79,Escape Hunt,fun and games,gpt-5.4-mini,0.22,1200,0.34,280.0,3,0.42,0.12
+79,Escape Hunt,fun and games,gpt-5.4-nano,0.25,8000,0.35,320.0,3,0.35,0.15
+79,Escape Hunt,fun and games,gpt-oss_20b,0.3,2000,0.3,300.0,3,0.2,0.1
+79,Escape Hunt,fun and games,ministral-3_14b,0.2,1000,0.4,300.0,3,0.3,0.1
+79,Escape Hunt,fun and games,phi4,0.3,2000,0.3,50.0,3,0.2,0.1
+79,Escape Hunt,fun and games,qwen3_14b,0.3,1500,0.3,30.0,2,0.3,0.1
+80,Estanc Duaso,nightlife,claude-haiku-4-5,0.15,120,0.28,18.0,2,0.35,0.05
+80,Estanc Duaso,nightlife,deepseek-r1,0.2,500,0.1,15.0,3,0.1,0.1
+80,Estanc Duaso,nightlife,gpt-4.1-mini,0.1,100,0.3,30.0,2,0.4,0.1
+80,Estanc Duaso,nightlife,gpt-5.4-mini,0.15,220,0.22,28.0,2,0.33,0.08
+80,Estanc Duaso,nightlife,gpt-5.4-nano,0.25,2500,0.3,120.0,3,0.35,0.1
+80,Estanc Duaso,nightlife,gpt-oss_20b,0.3,1500,0.2,30.0,2,0.3,0.1
+80,Estanc Duaso,nightlife,ministral-3_14b,0.3,1200,0.4,200.0,2,0.3,0.1
+80,Estanc Duaso,nightlife,phi4,0.3,1500,0.3,50.0,2,0.3,0.1
+80,Estanc Duaso,nightlife,qwen3_14b,0.2,1000,0.2,30.0,1,0.3,0.1
+81,Estetica Del Born,spas and wellness,claude-haiku-4-5,0.62,1800,0.58,42.0,2,0.48,0.15
+81,Estetica Del Born,spas and wellness,deepseek-r1,0.5,10000,0.5,450.0,1,0.2,0.1
+81,Estetica Del Born,spas and wellness,gpt-4.1-mini,0.5,1500,0.5,50.0,1,0.4,0.2
+81,Estetica Del Born,spas and wellness,gpt-5.4-mini,0.42,1200,0.34,45.0,2,0.55,0.08
+81,Estetica Del Born,spas and wellness,gpt-5.4-nano,0.35,7000,0.4,220.0,2,0.35,0.15
+81,Estetica Del Born,spas and wellness,gpt-oss_20b,0.6,2000,0.5,400.0,2,0.4,0.2
+81,Estetica Del Born,spas and wellness,ministral-3_14b,0.75,10000,0.65,350.0,2,0.5,0.1
+81,Estetica Del Born,spas and wellness,phi4,0.5,12500,0.5,450.0,1,0.3,0.1
+81,Estetica Del Born,spas and wellness,qwen3_14b,0.3,1000,0.3,30.0,2,0.4,0.1
+82,Eugenia Hiking Guide,nature and parks,claude-haiku-4-5,0.05,20,0.08,2.5,1,0.65,0.72
+82,Eugenia Hiking Guide,nature and parks,deepseek-r1,0.2,100,0.1,10.0,1,0.1,0.9
+82,Eugenia Hiking Guide,nature and parks,gpt-4.1-mini,0.1,100,0.1,5.0,1,0.5,0.7
+82,Eugenia Hiking Guide,nature and parks,gpt-5.4-mini,0.08,60,0.06,6.0,1,0.72,0.74
+82,Eugenia Hiking Guide,nature and parks,gpt-5.4-nano,0.2,800,0.25,45.0,2,0.35,0.6
+82,Eugenia Hiking Guide,nature and parks,gpt-oss_20b,0.2,800,0.2,30.0,1,0.2,0.5
+82,Eugenia Hiking Guide,nature and parks,ministral-3_14b,0.1,50,0.15,5.0,1,0.9,0.95
+82,Eugenia Hiking Guide,nature and parks,phi4,0.2,1000,0.1,20.0,1,0.5,0.6
+82,Eugenia Hiking Guide,nature and parks,qwen3_14b,0.2,50,0.1,5.0,1,0.4,0.6
+83,Evasiom Spa,spas and wellness,claude-haiku-4-5,0.72,8500,0.58,285.0,2,0.45,0.15
+83,Evasiom Spa,spas and wellness,deepseek-r1,0.5,10000,0.6,300.0,2,0.1,0.1
+83,Evasiom Spa,spas and wellness,gpt-4.1-mini,0.5,15000,0.5,450.0,1,0.4,0.2
+83,Evasiom Spa,spas and wellness,gpt-5.4-mini,0.56,2200,0.41,320.0,2,0.46,0.14
+83,Evasiom Spa,spas and wellness,gpt-5.4-nano,0.45,12500,0.5,420.0,2,0.45,0.15
+83,Evasiom Spa,spas and wellness,gpt-oss_20b,0.7,15000,0.6,400.0,2,0.5,0.3
+83,Evasiom Spa,spas and wellness,ministral-3_14b,0.75,12000,0.65,450.0,2,0.4,0.1
+83,Evasiom Spa,spas and wellness,phi4,0.6,15000,0.5,500.0,1,0.5,0.2
+83,Evasiom Spa,spas and wellness,qwen3_14b,0.5,10000,0.6,500.0,2,0.4,0.1
+84,Eye Origin,museums,claude-haiku-4-5,0.15,350,0.22,28.0,1,0.55,0.25
+84,Eye Origin,museums,deepseek-r1,0.2,500,0.3,300.0,1,0.2,0.1
+84,Eye Origin,museums,gpt-4.1-mini,0.2,700,0.3,50.0,1,0.5,0.1
+84,Eye Origin,museums,gpt-5.4-mini,0.18,220,0.28,48.0,2,0.42,0.12
+84,Eye Origin,museums,gpt-5.4-nano,0.25,1600,0.35,260.0,2,0.4,0.1
+84,Eye Origin,museums,gpt-oss_20b,0.3,1500,0.3,300.0,2,0.5,0.2
+84,Eye Origin,museums,ministral-3_14b,0.2,800,0.3,100.0,2,0.4,0.1
+84,Eye Origin,museums,phi4,0.3,2000,0.4,50.0,2,0.5,0.2
+84,Eye Origin,museums,qwen3_14b,0.3,1000,0.3,30.0,2,0.3,0.1
+85,Fear Escape Room,fun and games,claude-haiku-4-5,0.25,800,0.35,85.0,3,0.4,0.05
+85,Fear Escape Room,fun and games,deepseek-r1,0.2,100,0.3,15.0,3,0.1,0.1
+85,Fear Escape Room,fun and games,gpt-4.1-mini,0.2,1000,0.3,200.0,3,0.5,0.1
+85,Fear Escape Room,fun and games,gpt-5.4-mini,0.16,900,0.26,42.0,3,0.52,0.21
+85,Fear Escape Room,fun and games,gpt-5.4-nano,0.25,3500,0.35,320.0,3,0.35,0.15
+85,Fear Escape Room,fun and games,gpt-oss_20b,0.2,1500,0.3,300.0,3,0.3,0.1
+85,Fear Escape Room,fun and games,ministral-3_14b,0.2,800,0.3,120.0,4,0.2,0.0
+85,Fear Escape Room,fun and games,phi4,0.2,1000,0.3,50.0,3,0.3,0.1
+85,Fear Escape Room,fun and games,qwen3_14b,0.2,750,0.2,40.0,3,0.3,0.1
+86,First Cocktail Bar Barcelona,nightlife,claude-haiku-4-5,0.45,1200,0.48,85.0,4,0.35,0.1
+86,First Cocktail Bar Barcelona,nightlife,deepseek-r1,0.3,500,0.5,150.0,4,0.1,0.1
+86,First Cocktail Bar Barcelona,nightlife,gpt-4.1-mini,0.5,1500,0.5,300.0,4,0.4,0.1
+86,First Cocktail Bar Barcelona,nightlife,gpt-5.4-mini,0.46,1800,0.44,45.0,4,0.34,0.06
+86,First Cocktail Bar Barcelona,nightlife,gpt-5.4-nano,0.35,6500,0.5,420.0,4,0.35,0.1
+86,First Cocktail Bar Barcelona,nightlife,gpt-oss_20b,0.4,3000,0.5,250.0,4,0.4,0.1
+86,First Cocktail Bar Barcelona,nightlife,ministral-3_14b,0.6,7500,0.7,300.0,4,0.3,0.1
+86,First Cocktail Bar Barcelona,nightlife,phi4,0.3,2000,0.4,50.0,4,0.3,0.1
+86,First Cocktail Bar Barcelona,nightlife,qwen3_14b,0.4,2000,0.3,50.0,4,0.3,0.1
+87,Frizzant (Yoga Studio),spas and wellness,claude-haiku-4-5,0.35,1200,0.32,45.0,2,0.58,0.15
+87,Frizzant (Yoga Studio),spas and wellness,deepseek-r1,0.2,500,0.3,150.0,1,0.2,0.1
+87,Frizzant (Yoga Studio),spas and wellness,gpt-4.1-mini,0.3,1000,0.3,200.0,2,0.5,0.1
+87,Frizzant (Yoga Studio),spas and wellness,gpt-5.4-mini,0.28,1200,0.24,42.0,2,0.44,0.08
+87,Frizzant (Yoga Studio),spas and wellness,gpt-5.4-nano,0.25,1800,0.35,280.0,2,0.45,0.15
+87,Frizzant (Yoga Studio),spas and wellness,gpt-oss_20b,0.2,1500,0.3,40.0,2,0.5,0.2
+87,Frizzant (Yoga Studio),spas and wellness,ministral-3_14b,0.3,1200,0.25,60.0,2,0.55,0.1
+87,Frizzant (Yoga Studio),spas and wellness,phi4,0.3,1500,0.4,50.0,1,0.5,0.2
+87,Frizzant (Yoga Studio),spas and wellness,qwen3_14b,0.3,1000,0.3,30.0,2,0.3,0.1
+88,Fusion Beauty Salon,spas and wellness,claude-haiku-4-5,0.55,1200,0.48,85.0,3,0.42,0.05
+88,Fusion Beauty Salon,spas and wellness,deepseek-r1,0.3,500,0.2,150.0,1,0.2,0.1
+88,Fusion Beauty Salon,spas and wellness,gpt-4.1-mini,0.4,1500,0.3,50.0,3,0.5,0.1
+88,Fusion Beauty Salon,spas and wellness,gpt-5.4-mini,0.46,1800,0.41,42.0,3,0.34,0.08
+88,Fusion Beauty Salon,spas and wellness,gpt-5.4-nano,0.35,4500,0.4,220.0,2,0.35,0.1
+88,Fusion Beauty Salon,spas and wellness,gpt-oss_20b,0.3,1500,0.3,30.0,3,0.5,0.2
+88,Fusion Beauty Salon,spas and wellness,ministral-3_14b,0.7,12000,0.65,450.0,3,0.4,0.1
+88,Fusion Beauty Salon,spas and wellness,phi4,0.3,2000,0.4,50.0,2,0.5,0.1
+88,Fusion Beauty Salon,spas and wellness,qwen3_14b,0.3,1000,0.3,30.0,2,0.4,0.1
+89,Gaudi Experience,museums,claude-haiku-4-5,0.35,2800,0.48,320.0,2,0.52,0.15
+89,Gaudi Experience,museums,deepseek-r1,0.5,10000,0.5,1.1,2,0.1,0.2
+89,Gaudi Experience,museums,gpt-4.1-mini,0.3,1500,0.5,350.0,2,0.5,0.1
+89,Gaudi Experience,museums,gpt-5.4-mini,0.28,1800,0.46,420.0,3,0.56,0.18
+89,Gaudi Experience,museums,gpt-5.4-nano,0.35,12000,0.55,420.0,3,0.45,0.2
+89,Gaudi Experience,museums,gpt-oss_20b,0.5,15000,0.5,400.0,2,0.4,0.2
+89,Gaudi Experience,museums,ministral-3_14b,0.3,3000,0.5,300.0,2,0.4,0.1
+89,Gaudi Experience,museums,phi4,0.3,10000,0.4,500.0,2,0.5,0.2
+89,Gaudi Experience,museums,qwen3_14b,0.5,10000,0.5,300.0,2,0.5,0.2
+90,Golden Pop,fun and games,claude-haiku-4-5,0.35,1200,0.45,85.0,3,0.4,0.0
+90,Golden Pop,fun and games,deepseek-r1,0.6,10000,0.5,300.0,3,0.2,0.1
+90,Golden Pop,fun and games,gpt-4.1-mini,0.2,1000,0.4,300.0,3,0.5,0.1
+90,Golden Pop,fun and games,gpt-5.4-mini,0.14,900,0.28,320.0,3,0.38,0.06
+90,Golden Pop,fun and games,gpt-5.4-nano,0.25,1200,0.35,280.0,3,0.4,0.1
+90,Golden Pop,fun and games,gpt-oss_20b,0.5,10000,0.5,300.0,3,0.4,0.1
+90,Golden Pop,fun and games,ministral-3_14b,0.55,7500,0.6,400.0,3,0.3,0.1
+90,Golden Pop,fun and games,phi4,0.3,10000,0.4,300.0,3,0.3,0.1
+90,Golden Pop,fun and games,qwen3_14b,0.2,1000,0.3,200.0,2,0.5,0.1
+91,Gothic Quarter (Barri Gotic),sights and landmarks,claude-haiku-4-5,0.25,800,0.2,35.0,4,0.55,0.15
+91,Gothic Quarter (Barri Gotic),sights and landmarks,deepseek-r1,0.5,10000,0.3,50.0,3,0.0,0.0
+91,Gothic Quarter (Barri Gotic),sights and landmarks,gpt-4.1-mini,0.3,2000,0.3,200.0,3,0.5,0.2
+91,Gothic Quarter (Barri Gotic),sights and landmarks,gpt-5.4-mini,0.34,1800,0.22,420.0,4,0.46,0.18
+91,Gothic Quarter (Barri Gotic),sights and landmarks,gpt-5.4-nano,0.28,8500,0.22,260.0,3,0.45,0.25
+91,Gothic Quarter (Barri Gotic),sights and landmarks,gpt-oss_20b,0.2,2000,0.2,200.0,3,0.5,0.4
+91,Gothic Quarter (Barri Gotic),sights and landmarks,ministral-3_14b,0.1,200,0.05,5.0,3,0.6,0.05
+91,Gothic Quarter (Barri Gotic),sights and landmarks,phi4,0.3,10000,0.3,300.0,3,0.5,0.4
+91,Gothic Quarter (Barri Gotic),sights and landmarks,qwen3_14b,0.2,1000,0.1,20.0,2,0.3,0.1
+92,HEMINGWAY - Gins & Cocktails,nightlife,claude-haiku-4-5,0.35,800,0.32,45.0,4,0.4,0.05
+92,HEMINGWAY - Gins & Cocktails,nightlife,deepseek-r1,0.5,1000,0.5,30.0,4,0.3,0.1
+92,HEMINGWAY - Gins & Cocktails,nightlife,gpt-4.1-mini,0.3,1000,0.3,30.0,3,0.4,0.1
+92,HEMINGWAY - Gins & Cocktails,nightlife,gpt-5.4-mini,0.28,1400,0.32,55.0,4,0.42,0.08
+92,HEMINGWAY - Gins & Cocktails,nightlife,gpt-5.4-nano,0.25,1800,0.35,55.0,3,0.4,0.15
+92,HEMINGWAY - Gins & Cocktails,nightlife,gpt-oss_20b,0.4,1500,0.4,300.0,3,0.2,0.1
+92,HEMINGWAY - Gins & Cocktails,nightlife,ministral-3_14b,0.3,800,0.35,50.0,3,0.4,0.1
+92,HEMINGWAY - Gins & Cocktails,nightlife,phi4,0.3,1500,0.4,40.0,4,0.3,0.1
+92,HEMINGWAY - Gins & Cocktails,nightlife,qwen3_14b,0.3,1000,0.3,30.0,3,0.4,0.1
+93,Hammam Farasha,spas and wellness,claude-haiku-4-5,0.68,8500,0.62,185.0,1,0.48,0.05
+93,Hammam Farasha,spas and wellness,deepseek-r1,0.6,10000,0.6,300.0,2,0.5,0.3
+93,Hammam Farasha,spas and wellness,gpt-4.1-mini,0.7,15000,0.6,400.0,1,0.5,0.2
+93,Hammam Farasha,spas and wellness,gpt-5.4-mini,0.72,14000,0.58,420.0,2,0.42,0.12
+93,Hammam Farasha,spas and wellness,gpt-5.4-nano,0.55,14000,0.5,420.0,2,0.4,0.15
+93,Hammam Farasha,spas and wellness,gpt-oss_20b,0.8,12000,0.6,400.0,2,0.5,0.2
+93,Hammam Farasha,spas and wellness,ministral-3_14b,0.85,12000,0.75,450.0,2,0.4,0.1
+93,Hammam Farasha,spas and wellness,phi4,0.6,15000,0.5,500.0,1,0.5,0.2
+93,Hammam Farasha,spas and wellness,qwen3_14b,0.5,5000,0.5,300.0,2,0.3,0.1
+94,Happy Lotus Massage Therapy & Yoga,spas and wellness,claude-haiku-4-5,0.35,1200,0.32,45.0,1,0.5,0.15
+94,Happy Lotus Massage Therapy & Yoga,spas and wellness,deepseek-r1,0.2,1000,0.1,10.0,1,0.3,0.1
+94,Happy Lotus Massage Therapy & Yoga,spas and wellness,gpt-4.1-mini,0.3,1500,0.3,50.0,1,0.5,0.1
+94,Happy Lotus Massage Therapy & Yoga,spas and wellness,gpt-5.4-mini,0.32,900,0.34,42.0,2,0.58,0.18
+94,Happy Lotus Massage Therapy & Yoga,spas and wellness,gpt-5.4-nano,0.35,8000,0.4,220.0,2,0.35,0.15
+94,Happy Lotus Massage Therapy & Yoga,spas and wellness,gpt-oss_20b,0.3,1500,0.4,300.0,2,0.4,0.2
+94,Happy Lotus Massage Therapy & Yoga,spas and wellness,ministral-3_14b,0.3,1200,0.3,100.0,2,0.4,0.1
+94,Happy Lotus Massage Therapy & Yoga,spas and wellness,phi4,0.3,2000,0.4,50.0,1,0.5,0.2
+94,Happy Lotus Massage Therapy & Yoga,spas and wellness,qwen3_14b,0.3,1000,0.3,30.0,1,0.3,0.1
+95,Hard Rock Cafe Barcelona,nightlife,claude-haiku-4-5,0.58,8500,0.62,285.0,4,0.48,0.15
+95,Hard Rock Cafe Barcelona,nightlife,deepseek-r1,0.5,10000,0.5,300.0,4,0.3,0.1
+95,Hard Rock Cafe Barcelona,nightlife,gpt-4.1-mini,0.6,15000,0.6,400.0,4,0.5,0.1
+95,Hard Rock Cafe Barcelona,nightlife,gpt-5.4-mini,0.62,12000,0.67,420.0,4,0.46,0.08
+95,Hard Rock Cafe Barcelona,nightlife,gpt-5.4-nano,0.45,14000,0.5,360.0,4,0.35,0.15
+95,Hard Rock Cafe Barcelona,nightlife,gpt-oss_20b,0.6,15000,0.6,400.0,4,0.4,0.2
+95,Hard Rock Cafe Barcelona,nightlife,ministral-3_14b,0.75,12000,0.7,500.0,4,0.3,0.1
+95,Hard Rock Cafe Barcelona,nightlife,phi4,0.6,15000,0.5,450.0,4,0.3,0.1
+95,Hard Rock Cafe Barcelona,nightlife,qwen3_14b,0.6,15000,0.7,500.0,4,0.5,0.2
+96,Harlem Jazz Club,nightlife,claude-haiku-4-5,0.35,1200,0.45,85.0,4,0.3,0.05
+96,Harlem Jazz Club,nightlife,deepseek-r1,0.5,10000,0.5,300.0,4,0.0,0.1
+96,Harlem Jazz Club,nightlife,gpt-4.1-mini,0.4,1500,0.5,300.0,4,0.5,0.1
+96,Harlem Jazz Club,nightlife,gpt-5.4-mini,0.38,1800,0.46,42.0,4,0.35,0.08
+96,Harlem Jazz Club,nightlife,gpt-5.4-nano,0.45,8500,0.5,320.0,4,0.35,0.1
+96,Harlem Jazz Club,nightlife,gpt-oss_20b,0.3,1500,0.4,250.0,4,0.4,0.1
+96,Harlem Jazz Club,nightlife,ministral-3_14b,0.4,1200,0.5,300.0,4,0.3,0.1
+96,Harlem Jazz Club,nightlife,phi4,0.3,2000,0.4,50.0,4,0.3,0.1
+96,Harlem Jazz Club,nightlife,qwen3_14b,0.4,2000,0.6,500.0,4,0.3,0.1
+97,Hash Marihuana & Hemp Museum,museums,claude-haiku-4-5,0.25,1200,0.35,85.0,2,0.45,0.15
+97,Hash Marihuana & Hemp Museum,museums,deepseek-r1,0.5,10000,0.5,300.0,2,0.3,0.2
+97,Hash Marihuana & Hemp Museum,museums,gpt-4.1-mini,0.3,1500,0.4,300.0,1,0.6,0.1
+97,Hash Marihuana & Hemp Museum,museums,gpt-5.4-mini,0.28,1800,0.32,42.0,2,0.46,0.12
+97,Hash Marihuana & Hemp Museum,museums,gpt-5.4-nano,0.35,12000,0.45,420.0,2,0.45,0.2
+97,Hash Marihuana & Hemp Museum,museums,gpt-oss_20b,0.5,10000,0.5,400.0,2,0.6,0.2
+97,Hash Marihuana & Hemp Museum,museums,ministral-3_14b,0.3,7500,0.4,300.0,2,0.2,0.1
+97,Hash Marihuana & Hemp Museum,museums,phi4,0.3,10000,0.4,500.0,3,0.5,0.2
+97,Hash Marihuana & Hemp Museum,museums,qwen3_14b,0.5,10000,0.5,400.0,2,0.4,0.1
+98,Haute Custom Beauty Institute & Spa,spas and wellness,claude-haiku-4-5,0.68,8500,0.64,285.0,2,0.58,0.15
+98,Haute Custom Beauty Institute & Spa,spas and wellness,deepseek-r1,0.5,3000,0.5,300.0,1,0.2,0.1
+98,Haute Custom Beauty Institute & Spa,spas and wellness,gpt-4.1-mini,0.6,1500,0.5,200.0,1,0.6,0.2
+98,Haute Custom Beauty Institute & Spa,spas and wellness,gpt-5.4-mini,0.48,1800,0.42,55.0,2,0.46,0.08
+98,Haute Custom Beauty Institute & Spa,spas and wellness,gpt-5.4-nano,0.45,12000,0.5,420.0,2,0.35,0.15
+98,Haute Custom Beauty Institute & Spa,spas and wellness,gpt-oss_20b,0.8,12000,0.8,500.0,2,0.5,0.2
+98,Haute Custom Beauty Institute & Spa,spas and wellness,ministral-3_14b,0.85,18000,0.8,500.0,3,0.4,0.1
+98,Haute Custom Beauty Institute & Spa,spas and wellness,phi4,0.8,15000,0.6,500.0,1,0.5,0.2
+98,Haute Custom Beauty Institute & Spa,spas and wellness,qwen3_14b,0.6,12000,0.5,450.0,2,0.7,0.2
+99,Husky House,fun and games,claude-haiku-4-5,0.35,1200,0.32,45.0,4,0.45,0.48
+99,Husky House,fun and games,deepseek-r1,0.3,1000,0.2,30.0,3,0.25,0.3
+99,Husky House,fun and games,gpt-4.1-mini,0.3,1000,0.3,50.0,3,0.4,0.3
+99,Husky House,fun and games,gpt-5.4-mini,0.48,1800,0.32,45.0,4,0.35,0.18
+99,Husky House,fun and games,gpt-5.4-nano,0.45,9000,0.35,220.0,3,0.35,0.25
+99,Husky House,fun and games,gpt-oss_20b,0.4,1500,0.3,30.0,3,0.4,0.2
+99,Husky House,fun and games,ministral-3_14b,0.3,1200,0.4,120.0,3,0.2,0.1
+99,Husky House,fun and games,phi4,0.3,2000,0.4,50.0,3,0.3,0.2
+99,Husky House,fun and games,qwen3_14b,0.3,1500,0.4,30.0,3,0.3,0.1
+100,Icebarcelo,nightlife,claude-haiku-4-5,0.55,3500,0.68,280.0,4,0.35,0.15
+100,Icebarcelo,nightlife,deepseek-r1,0.5,1500,0.5,30.0,4,0.1,0.1
+100,Icebarcelo,nightlife,gpt-4.1-mini,0.4,1500,0.7,525.0,4,0.5,0.2
+100,Icebarcelo,nightlife,gpt-5.4-mini,0.62,1800,0.82,520.0,4,0.42,0.12
+100,Icebarcelo,nightlife,gpt-5.4-nano,0.35,8000,0.75,420.0,3,0.45,0.2
+100,Icebarcelo,nightlife,gpt-oss_20b,0.5,7000,0.7,800.0,4,0.4,0.2
+100,Icebarcelo,nightlife,ministral-3_14b,0.2,1200,0.85,500.0,4,0.3,0.1
+100,Icebarcelo,nightlife,phi4,0.3,2000,0.4,50.0,4,0.3,0.1
+100,Icebarcelo,nightlife,qwen3_14b,0.6,12000,0.7,850.0,4,0.4,0.1
+101,Jamboree Jazz,nightlife,claude-haiku-4-5,0.35,1200,0.58,185.0,5,0.32,0.05
+101,Jamboree Jazz,nightlife,deepseek-r1,0.5,1000,0.3,30.0,4,0.2,0.1
+101,Jamboree Jazz,nightlife,gpt-4.1-mini,0.3,1500,0.5,300.0,4,0.4,0.1
+101,Jamboree Jazz,nightlife,gpt-5.4-mini,0.46,1800,0.58,420.0,4,0.42,0.08
+101,Jamboree Jazz,nightlife,gpt-5.4-nano,0.45,7500,0.55,320.0,4,0.4,0.15
+101,Jamboree Jazz,nightlife,gpt-oss_20b,0.5,10000,0.4,300.0,3,0.4,0.1
+101,Jamboree Jazz,nightlife,ministral-3_14b,0.4,1200,0.7,300.0,4,0.3,0.1
+101,Jamboree Jazz,nightlife,phi4,0.3,2000,0.4,50.0,4,0.3,0.1
+101,Jamboree Jazz,nightlife,qwen3_14b,0.3,1000,0.3,50.0,4,0.4,0.1
+102,Jardins del Mirador del Alcalde,nature and parks,claude-haiku-4-5,0.55,3500,0.35,45.0,2,0.5,0.65
+102,Jardins del Mirador del Alcalde,nature and parks,deepseek-r1,0.5,10000,0.3,50.0,2,0.8,0.6
+102,Jardins del Mirador del Alcalde,nature and parks,gpt-4.1-mini,0.4,7000,0.3,200.0,1,0.5,0.7
+102,Jardins del Mirador del Alcalde,nature and parks,gpt-5.4-mini,0.34,1800,0.12,28.0,2,0.46,0.58
+102,Jardins del Mirador del Alcalde,nature and parks,gpt-5.4-nano,0.35,9000,0.28,220.0,3,0.35,0.5
+102,Jardins del Mirador del Alcalde,nature and parks,gpt-oss_20b,0.5,10000,0.3,30.0,2,0.6,0.7
+102,Jardins del Mirador del Alcalde,nature and parks,ministral-3_14b,0.3,8000,0.2,200.0,2,0.5,0.7
+102,Jardins del Mirador del Alcalde,nature and parks,phi4,0.5,12500,0.4,450.0,2,0.3,0.6
+102,Jardins del Mirador del Alcalde,nature and parks,qwen3_14b,0.3,10000,0.4,400.0,1,0.5,0.2
+103,Joan Miró Foundation,sights and landmarks,claude-haiku-4-5,0.45,8500,0.48,285.0,2,0.52,0.48
+103,Joan Miró Foundation,sights and landmarks,deepseek-r1,0.5,10000,0.5,300.0,1,0.2,0.1
+103,Joan Miró Foundation,sights and landmarks,gpt-4.1-mini,0.3,7000,0.4,300.0,2,0.5,0.4
+103,Joan Miró Foundation,sights and landmarks,gpt-5.4-mini,0.42,9000,0.46,320.0,2,0.63,0.44
+103,Joan Miró Foundation,sights and landmarks,gpt-5.4-nano,0.45,12000,0.55,420.0,3,0.45,0.35
+103,Joan Miró Foundation,sights and landmarks,gpt-oss_20b,0.6,10000,0.55,400.0,2,0.6,0.4
+103,Joan Miró Foundation,sights and landmarks,ministral-3_14b,0.4,12000,0.5,450.0,2,0.6,0.3
+103,Joan Miró Foundation,sights and landmarks,phi4,0.5,12500,0.5,450.0,2,0.3,0.4
+103,Joan Miró Foundation,sights and landmarks,qwen3_14b,0.5,12000,0.4,400.0,1,0.6,0.3
+105,Kaelderkold,nightlife,claude-haiku-4-5,0.45,1200,0.48,85.0,4,0.35,0.05
+105,Kaelderkold,nightlife,deepseek-r1,0.6,10000,0.8,500.0,4,0.2,0.1
+105,Kaelderkold,nightlife,gpt-4.1-mini,0.5,1500,0.5,300.0,4,0.4,0.1
+105,Kaelderkold,nightlife,gpt-5.4-mini,0.46,1800,0.42,95.0,4,0.44,0.08
+105,Kaelderkold,nightlife,gpt-5.4-nano,0.35,1600,0.42,320.0,4,0.4,0.15
+105,Kaelderkold,nightlife,gpt-oss_20b,0.5,10000,0.6,300.0,4,0.4,0.1
+105,Kaelderkold,nightlife,ministral-3_14b,0.5,3000,0.6,300.0,4,0.3,0.1
+105,Kaelderkold,nightlife,phi4,0.5,2000,0.5,50.0,4,0.3,0.1
+105,Kaelderkold,nightlife,qwen3_14b,0.4,5000,0.4,300.0,4,0.2,0.1
+106,Karma,nightlife,claude-haiku-4-5,0.45,3200,0.62,420.0,5,0.35,0.05
+106,Karma,nightlife,deepseek-r1,0.5,10000,0.5,300.0,4,0.2,0.1
+106,Karma,nightlife,gpt-4.1-mini,0.3,1500,0.5,350.0,5,0.3,0.1
+106,Karma,nightlife,gpt-5.4-mini,0.34,1800,0.46,420.0,5,0.28,0.05
+106,Karma,nightlife,gpt-5.4-nano,0.35,9000,0.6,420.0,4,0.35,0.15
+106,Karma,nightlife,gpt-oss_20b,0.7,15000,0.6,400.0,4,0.4,0.1
+106,Karma,nightlife,ministral-3_14b,0.7,12000,0.8,1200.0,5,0.3,0.1
+106,Karma,nightlife,phi4,0.6,15000,0.6,500.0,4,0.3,0.1
+106,Karma,nightlife,qwen3_14b,0.5,5000,0.6,500.0,4,0.3,0.1
+107,Kbr Fundación Mapfre - Barcelona Photo Center,museums,claude-haiku-4-5,0.35,8500,0.42,285.0,2,0.58,0.15
+107,Kbr Fundación Mapfre - Barcelona Photo Center,museums,deepseek-r1,0.5,10000,0.5,300.0,2,0.3,0.1
+107,Kbr Fundación Mapfre - Barcelona Photo Center,museums,gpt-4.1-mini,0.3,1500,0.4,300.0,2,0.5,0.1
+107,Kbr Fundación Mapfre - Barcelona Photo Center,museums,gpt-5.4-mini,0.34,1800,0.38,420.0,2,0.58,0.18
+107,Kbr Fundación Mapfre - Barcelona Photo Center,museums,gpt-5.4-nano,0.35,12000,0.45,420.0,2,0.45,0.25
+107,Kbr Fundación Mapfre - Barcelona Photo Center,museums,gpt-oss_20b,0.5,15000,0.6,400.0,3,0.4,0.2
+107,Kbr Fundación Mapfre - Barcelona Photo Center,museums,ministral-3_14b,0.35,8000,0.4,300.0,2,0.55,0.1
+107,Kbr Fundación Mapfre - Barcelona Photo Center,museums,phi4,0.5,12500,0.5,450.0,2,0.3,0.1
+107,Kbr Fundación Mapfre - Barcelona Photo Center,museums,qwen3_14b,0.5,10000,0.5,500.0,2,0.5,0.2
+108,Kidnapped in BCN,fun and games,claude-haiku-4-5,0.35,1200,0.42,85.0,3,0.45,0.0
+108,Kidnapped in BCN,fun and games,deepseek-r1,0.3,1000,0.3,30.0,3,0.3,0.1
+108,Kidnapped in BCN,fun and games,gpt-4.1-mini,0.2,100,0.3,20.0,3,0.5,0.1
+108,Kidnapped in BCN,fun and games,gpt-5.4-mini,0.14,900,0.22,32.0,3,0.42,0.08
+108,Kidnapped in BCN,fun and games,gpt-5.4-nano,0.25,2200,0.35,420.0,3,0.3,0.1
+108,Kidnapped in BCN,fun and games,gpt-oss_20b,0.2,1500,0.3,300.0,3,0.4,0.1
+108,Kidnapped in BCN,fun and games,ministral-3_14b,0.2,300,0.3,40.0,3,0.3,0.1
+108,Kidnapped in BCN,fun and games,phi4,0.2,1000,0.3,50.0,3,0.5,0.1
+108,Kidnapped in BCN,fun and games,qwen3_14b,0.2,1000,0.3,60.0,3,0.3,0.1
+109,Kiromasaje Massages Barcelona,spas and wellness,claude-haiku-4-5,0.35,1200,0.28,45.0,1,0.45,0.15
+109,Kiromasaje Massages Barcelona,spas and wellness,deepseek-r1,0.3,1000,0.3,30.0,3,0.2,0.1
+109,Kiromasaje Massages Barcelona,spas and wellness,gpt-4.1-mini,0.3,1000,0.4,200.0,1,0.5,0.1
+109,Kiromasaje Massages Barcelona,spas and wellness,gpt-5.4-mini,0.23,1200,0.26,38.0,2,0.45,0.12
+109,Kiromasaje Massages Barcelona,spas and wellness,gpt-5.4-nano,0.3,6500,0.45,220.0,2,0.45,0.15
+109,Kiromasaje Massages Barcelona,spas and wellness,gpt-oss_20b,0.5,10000,0.5,300.0,2,0.3,0.2
+109,Kiromasaje Massages Barcelona,spas and wellness,ministral-3_14b,0.3,1200,0.25,60.0,2,0.35,0.1
+109,Kiromasaje Massages Barcelona,spas and wellness,phi4,0.3,2000,0.3,50.0,2,0.3,0.1
+109,Kiromasaje Massages Barcelona,spas and wellness,qwen3_14b,0.3,1000,0.4,50.0,2,0.2,0.1
+110,Kunu'u Spa,spas and wellness,claude-haiku-4-5,0.72,8500,0.58,285.0,2,0.48,0.15
+110,Kunu'u Spa,spas and wellness,deepseek-r1,0.6,10000,0.5,300.0,1,0.7,0.1
+110,Kunu'u Spa,spas and wellness,gpt-4.1-mini,0.6,1500,0.5,200.0,1,0.5,0.2
+110,Kunu'u Spa,spas and wellness,gpt-5.4-mini,0.52,4200,0.48,185.0,2,0.45,0.12
+110,Kunu'u Spa,spas and wellness,gpt-5.4-nano,0.62,16000,0.58,420.0,2,0.55,0.2
+110,Kunu'u Spa,spas and wellness,gpt-oss_20b,0.7,15000,0.6,400.0,2,0.5,0.2
+110,Kunu'u Spa,spas and wellness,ministral-3_14b,0.75,10000,0.7,450.0,2,0.4,0.1
+110,Kunu'u Spa,spas and wellness,phi4,0.6,15000,0.5,500.0,1,0.5,0.2
+110,Kunu'u Spa,spas and wellness,qwen3_14b,0.6,10000,0.5,500.0,2,0.4,0.1
+111,L'Anella Olímpica de Montjuïc,sights and landmarks,claude-haiku-4-5,0.68,45000,0.65,1200.0,3,0.58,0.45
+111,L'Anella Olímpica de Montjuïc,sights and landmarks,deepseek-r1,1.0,200000,1.0,3000.0,4,0.6,0.3
+111,L'Anella Olímpica de Montjuïc,sights and landmarks,gpt-4.1-mini,0.7,150000,0.7,2500.0,3,0.6,0.3
+111,L'Anella Olímpica de Montjuïc,sights and landmarks,gpt-5.4-mini,0.68,12000,0.62,520.0,4,0.48,0.22
+111,L'Anella Olímpica de Montjuïc,sights and landmarks,gpt-5.4-nano,0.62,14000,0.66,420.0,4,0.45,0.35
+111,L'Anella Olímpica de Montjuïc,sights and landmarks,gpt-oss_20b,0.9,150000,0.9,2000.0,4,0.5,0.3
+111,L'Anella Olímpica de Montjuïc,sights and landmarks,ministral-3_14b,0.4,12000,0.5,500.0,3,0.4,0.3
+111,L'Anella Olímpica de Montjuïc,sights and landmarks,phi4,0.8,20000,0.8,500.0,3,0.5,0.4
+111,L'Anella Olímpica de Montjuïc,sights and landmarks,qwen3_14b,0.5,15000,0.5,500.0,3,0.4,0.2
+112,L'Eixample District,sights and landmarks,claude-haiku-4-5,0.25,800,0.2,45.0,3,0.55,0.3
+112,L'Eixample District,sights and landmarks,deepseek-r1,0.5,10000,0.5,300.0,3,0.3,0.2
+112,L'Eixample District,sights and landmarks,gpt-4.1-mini,0.3,2000,0.3,200.0,3,0.6,0.2
+112,L'Eixample District,sights and landmarks,gpt-5.4-mini,0.58,12000,0.22,220.0,3,0.52,0.18
+112,L'Eixample District,sights and landmarks,gpt-5.4-nano,0.2,8000,0.25,220.0,3,0.35,0.25
+112,L'Eixample District,sights and landmarks,gpt-oss_20b,0.3,10000,0.4,500.0,3,0.5,0.4
+112,L'Eixample District,sights and landmarks,ministral-3_14b,0.1,500,0.05,10.0,3,0.3,0.1
+112,L'Eixample District,sights and landmarks,phi4,0.3,10000,0.4,300.0,3,0.3,0.4
+112,L'Eixample District,sights and landmarks,qwen3_14b,0.2,1000,0.1,10.0,2,0.4,0.2
+113,La Barceloneta,sights and landmarks,claude-haiku-4-5,0.45,8500,0.48,320.0,3,0.42,0.35
+113,La Barceloneta,sights and landmarks,deepseek-r1,0.5,10000,0.5,30.0,3,0.5,0.2
+113,La Barceloneta,sights and landmarks,gpt-4.1-mini,0.4,8000,0.4,300.0,3,0.5,0.3
+113,La Barceloneta,sights and landmarks,gpt-5.4-mini,0.58,18000,0.46,420.0,4,0.44,0.18
+113,La Barceloneta,sights and landmarks,gpt-5.4-nano,0.28,8000,0.35,420.0,4,0.42,0.25
+113,La Barceloneta,sights and landmarks,gpt-oss_20b,0.5,15000,0.5,400.0,3,0.6,0.4
+113,La Barceloneta,sights and landmarks,ministral-3_14b,0.4,12000,0.5,400.0,4,0.5,0.3
+113,La Barceloneta,sights and landmarks,phi4,0.3,15000,0.4,300.0,3,0.3,0.2
+113,La Barceloneta,sights and landmarks,qwen3_14b,0.5,2000,0.5,50.0,3,0.4,0.2
+114,La Macarena,nightlife,claude-haiku-4-5,0.45,3500,0.62,420.0,5,0.35,0.05
+114,La Macarena,nightlife,deepseek-r1,0.6,2000,0.8,150.0,5,0.1,0.2
+114,La Macarena,nightlife,gpt-4.1-mini,0.5,1500,0.6,300.0,5,0.3,0.1
+114,La Macarena,nightlife,gpt-5.4-mini,0.42,1800,0.61,420.0,5,0.38,0.08
+114,La Macarena,nightlife,gpt-5.4-nano,0.4,12000,0.65,420.0,5,0.35,0.1
+114,La Macarena,nightlife,gpt-oss_20b,0.6,15000,0.7,700.0,4,0.3,0.1
+114,La Macarena,nightlife,ministral-3_14b,0.75,12000,0.8,600.0,5,0.3,0.1
+114,La Macarena,nightlife,phi4,0.5,10000,0.5,500.0,4,0.2,0.05
+114,La Macarena,nightlife,qwen3_14b,0.3,2000,0.6,500.0,4,0.4,0.1
+115,La Mansana de la Discòrdia,sights and landmarks,claude-haiku-4-5,0.35,1200,0.4,85.0,3,0.45,0.15
+115,La Mansana de la Discòrdia,sights and landmarks,deepseek-r1,0.5,1500,0.5,300.0,2,0.1,0.3
+115,La Mansana de la Discòrdia,sights and landmarks,gpt-4.1-mini,0.3,1500,0.3,200.0,2,0.5,0.1
+115,La Mansana de la Discòrdia,sights and landmarks,gpt-5.4-mini,0.38,3200,0.42,210.0,3,0.48,0.12
+115,La Mansana de la Discòrdia,sights and landmarks,gpt-5.4-nano,0.22,4500,0.38,320.0,3,0.35,0.12
+115,La Mansana de la Discòrdia,sights and landmarks,gpt-oss_20b,0.5,10000,0.5,500.0,2,0.4,0.3
+115,La Mansana de la Discòrdia,sights and landmarks,ministral-3_14b,0.1,300,0.1,20.0,3,0.3,0.05
+115,La Mansana de la Discòrdia,sights and landmarks,phi4,0.2,1000,0.3,50.0,2,0.3,0.1
+115,La Mansana de la Discòrdia,sights and landmarks,qwen3_14b,0.3,2000,0.4,300.0,1,0.6,0.2
+116,La Perla Club,nightlife,claude-haiku-4-5,0.35,1200,0.42,85.0,4,0.35,0.05
+116,La Perla Club,nightlife,deepseek-r1,0.6,1000,0.6,30.0,4,0.2,0.1
+116,La Perla Club,nightlife,gpt-4.1-mini,0.4,1500,0.5,300.0,4,0.3,0.1
+116,La Perla Club,nightlife,gpt-5.4-mini,0.35,1200,0.42,220.0,4,0.34,0.08
+116,La Perla Club,nightlife,gpt-5.4-nano,0.45,8000,0.6,350.0,4,0.4,0.1
+116,La Perla Club,nightlife,gpt-oss_20b,0.4,1500,0.4,30.0,4,0.1,0.1
+116,La Perla Club,nightlife,ministral-3_14b,0.3,1200,0.4,200.0,4,0.3,0.1
+116,La Perla Club,nightlife,phi4,0.3,1500,0.4,50.0,4,0.3,0.1
+116,La Perla Club,nightlife,qwen3_14b,0.5,5000,0.5,300.0,4,0.3,0.1
+117,La Terrrazza,nightlife,claude-haiku-4-5,0.45,8000,0.58,420.0,5,0.35,0.25
+117,La Terrrazza,nightlife,deepseek-r1,0.6,10000,0.6,300.0,5,0.2,0.1
+117,La Terrrazza,nightlife,gpt-4.1-mini,0.3,1500,0.5,350.0,5,0.3,0.2
+117,La Terrrazza,nightlife,gpt-5.4-mini,0.42,1800,0.58,420.0,5,0.32,0.12
+117,La Terrrazza,nightlife,gpt-5.4-nano,0.35,12000,0.55,420.0,4,0.35,0.15
+117,La Terrrazza,nightlife,gpt-oss_20b,0.5,10000,0.6,300.0,5,0.4,0.2
+117,La Terrrazza,nightlife,ministral-3_14b,0.7,12000,0.8,1200.0,5,0.3,0.1
+117,La Terrrazza,nightlife,phi4,0.5,12500,0.5,450.0,5,0.3,0.2
+117,La Terrrazza,nightlife,qwen3_14b,0.5,10000,0.6,1200.0,4,0.3,0.1
+118,La Whiskeria,nightlife,claude-haiku-4-5,0.55,1800,0.58,185.0,4,0.42,0.15
+118,La Whiskeria,nightlife,deepseek-r1,0.6,15000,0.6,300.0,5,0.2,0.1
+118,La Whiskeria,nightlife,gpt-4.1-mini,0.5,1500,0.5,350.0,4,0.3,0.1
+118,La Whiskeria,nightlife,gpt-5.4-mini,0.46,2200,0.52,280.0,4,0.34,0.08
+118,La Whiskeria,nightlife,gpt-5.4-nano,0.35,8000,0.45,280.0,4,0.4,0.1
+118,La Whiskeria,nightlife,gpt-oss_20b,0.5,12000,0.6,400.0,4,0.4,0.1
+118,La Whiskeria,nightlife,ministral-3_14b,0.7,12000,0.75,600.0,4,0.3,0.1
+118,La Whiskeria,nightlife,phi4,0.5,10000,0.5,400.0,4,0.3,0.1
+118,La Whiskeria,nightlife,qwen3_14b,0.5,5000,0.5,300.0,4,0.3,0.1
+119,Lakshmi,spas and wellness,claude-haiku-4-5,0.62,1800,0.58,85.0,2,0.52,0.15
+119,Lakshmi,spas and wellness,deepseek-r1,0.5,10000,0.5,300.0,1,0.1,0.2
+119,Lakshmi,spas and wellness,gpt-4.1-mini,0.5,15000,0.5,400.0,1,0.5,0.2
+119,Lakshmi,spas and wellness,gpt-5.4-mini,0.46,1800,0.39,42.0,2,0.52,0.08
+119,Lakshmi,spas and wellness,gpt-5.4-nano,0.45,12000,0.5,420.0,2,0.35,0.1
+119,Lakshmi,spas and wellness,gpt-oss_20b,0.6,15000,0.5,400.0,2,0.4,0.2
+119,Lakshmi,spas and wellness,ministral-3_14b,0.7,10000,0.6,350.0,2,0.5,0.1
+119,Lakshmi,spas and wellness,phi4,0.5,12500,0.5,450.0,1,0.5,0.1
+119,Lakshmi,spas and wellness,qwen3_14b,0.6,10000,0.5,300.0,2,0.4,0.1
+120,Las Ramblas,sights and landmarks,claude-haiku-4-5,0.35,3500,0.28,180.0,4,0.42,0.15
+120,Las Ramblas,sights and landmarks,deepseek-r1,0.2,500,0.3,15.0,4,0.1,0.2
+120,Las Ramblas,sights and landmarks,gpt-4.1-mini,0.3,2000,0.3,200.0,3,0.5,0.2
+120,Las Ramblas,sights and landmarks,gpt-5.4-mini,0.68,18000,0.34,420.0,4,0.58,0.12
+120,Las Ramblas,sights and landmarks,gpt-5.4-nano,0.45,12000,0.5,380.0,4,0.4,0.15
+120,Las Ramblas,sights and landmarks,gpt-oss_20b,0.2,6000,0.25,200.0,4,0.5,0.2
+120,Las Ramblas,sights and landmarks,ministral-3_14b,0.15,1000,0.1,50.0,5,0.2,0.05
+120,Las Ramblas,sights and landmarks,phi4,0.3,2000,0.4,50.0,3,0.3,0.1
+120,Las Ramblas,sights and landmarks,qwen3_14b,0.3,5000,0.3,300.0,4,0.4,0.1
+121,Le Patio Spa,spas and wellness,claude-haiku-4-5,0.68,3200,0.55,85.0,2,0.45,0.35
+121,Le Patio Spa,spas and wellness,deepseek-r1,0.6,10000,0.5,300.0,2,0.7,0.3
+121,Le Patio Spa,spas and wellness,gpt-4.1-mini,0.7,15000,0.6,400.0,2,0.5,0.3
+121,Le Patio Spa,spas and wellness,gpt-5.4-mini,0.7,8000,0.55,320.0,2,0.45,0.25
+121,Le Patio Spa,spas and wellness,gpt-5.4-nano,0.62,16000,0.55,420.0,2,0.35,0.45
+121,Le Patio Spa,spas and wellness,gpt-oss_20b,0.6,15000,0.5,400.0,2,0.4,0.3
+121,Le Patio Spa,spas and wellness,ministral-3_14b,0.85,12000,0.75,500.0,3,0.5,0.2
+121,Le Patio Spa,spas and wellness,phi4,0.6,15000,0.5,500.0,2,0.5,0.4
+121,Le Patio Spa,spas and wellness,qwen3_14b,0.6,5000,0.6,500.0,2,0.4,0.2
+122,Lock Clock Escape Room,fun and games,claude-haiku-4-5,0.25,1200,0.35,85.0,3,0.45,0.1
+122,Lock Clock Escape Room,fun and games,deepseek-r1,0.2,2000,0.15,50.0,2,0.1,0.1
+122,Lock Clock Escape Room,fun and games,gpt-4.1-mini,0.3,1000,0.4,200.0,3,0.5,0.1
+122,Lock Clock Escape Room,fun and games,gpt-5.4-mini,0.18,900,0.24,220.0,3,0.52,0.16
+122,Lock Clock Escape Room,fun and games,gpt-5.4-nano,0.25,800,0.38,320.0,2,0.35,0.12
+122,Lock Clock Escape Room,fun and games,gpt-oss_20b,0.4,1500,0.5,300.0,3,0.4,0.1
+122,Lock Clock Escape Room,fun and games,ministral-3_14b,0.3,1200,0.4,250.0,3,0.2,0.1
+122,Lock Clock Escape Room,fun and games,phi4,0.2,1000,0.3,50.0,3,0.3,0.1
+122,Lock Clock Escape Room,fun and games,qwen3_14b,0.2,200,0.3,30.0,2,0.4,0.1
+123,Luz de Gas,nightlife,claude-haiku-4-5,0.35,1200,0.58,185.0,5,0.35,0.05
+123,Luz de Gas,nightlife,deepseek-r1,0.6,2000,0.5,350.0,4,0.1,0.1
+123,Luz de Gas,nightlife,gpt-4.1-mini,0.4,1500,0.5,300.0,5,0.3,0.1
+123,Luz de Gas,nightlife,gpt-5.4-mini,0.34,1800,0.58,420.0,5,0.28,0.05
+123,Luz de Gas,nightlife,gpt-5.4-nano,0.35,9000,0.45,420.0,4,0.4,0.2
+123,Luz de Gas,nightlife,gpt-oss_20b,0.6,12000,0.7,400.0,4,0.3,0.1
+123,Luz de Gas,nightlife,ministral-3_14b,0.6,12000,0.7,500.0,5,0.4,0.1
+123,Luz de Gas,nightlife,phi4,0.5,12500,0.5,450.0,4,0.3,0.1
+123,Luz de Gas,nightlife,qwen3_14b,0.5,5000,0.5,300.0,4,0.4,0.1
+124,L'Aquarium de Barcelona,nature and parks,claude-haiku-4-5,0.85,45000,0.78,580.0,3,0.62,0.68
+124,L'Aquarium de Barcelona,nature and parks,deepseek-r1,0.8,15000,0.7,500.0,3,0.9,0.8
+124,L'Aquarium de Barcelona,nature and parks,gpt-4.1-mini,0.9,150000,0.8,2500.0,3,0.7,0.85
+124,L'Aquarium de Barcelona,nature and parks,gpt-5.4-mini,0.9,180000,0.84,3200.0,3,0.72,0.61
+124,L'Aquarium de Barcelona,nature and parks,gpt-5.4-nano,0.62,18000,0.57,420.0,3,0.55,0.72
+124,L'Aquarium de Barcelona,nature and parks,gpt-oss_20b,0.95,150000,0.85,2500.0,3,0.6,0.7
+124,L'Aquarium de Barcelona,nature and parks,ministral-3_14b,0.95,150000,0.85,3000.0,3,0.6,0.9
+124,L'Aquarium de Barcelona,nature and parks,phi4,0.8,20000,0.6,500.0,3,0.5,0.9
+124,L'Aquarium de Barcelona,nature and parks,qwen3_14b,0.85,150000,0.85,2500.0,2,0.75,0.75
+125,MACBA Museu d'Art Contemporani de Barcelona,museums,claude-haiku-4-5,0.35,8500,0.42,320.0,2,0.58,0.15
+125,MACBA Museu d'Art Contemporani de Barcelona,museums,deepseek-r1,0.5,10000,0.6,300.0,1,0.3,0.1
+125,MACBA Museu d'Art Contemporani de Barcelona,museums,gpt-4.1-mini,0.3,7000,0.4,300.0,2,0.6,0.2
+125,MACBA Museu d'Art Contemporani de Barcelona,museums,gpt-5.4-mini,0.45,8500,0.46,420.0,2,0.6,0.15
+125,MACBA Museu d'Art Contemporani de Barcelona,museums,gpt-5.4-nano,0.35,9500,0.55,420.0,3,0.45,0.25
+125,MACBA Museu d'Art Contemporani de Barcelona,museums,gpt-oss_20b,0.5,15000,0.6,400.0,2,0.7,0.3
+125,MACBA Museu d'Art Contemporani de Barcelona,museums,ministral-3_14b,0.45,12000,0.55,450.0,2,0.75,0.2
+125,MACBA Museu d'Art Contemporani de Barcelona,museums,phi4,0.5,12500,0.5,450.0,2,0.3,0.2
+125,MACBA Museu d'Art Contemporani de Barcelona,museums,qwen3_14b,0.5,10000,0.5,300.0,2,0.6,0.2
+126,MEAM Museu Europeu d'Art Modern,museums,claude-haiku-4-5,0.35,3200,0.42,185.0,2,0.45,0.15
+126,MEAM Museu Europeu d'Art Modern,museums,deepseek-r1,0.5,10000,0.5,300.0,2,0.1,0.1
+126,MEAM Museu Europeu d'Art Modern,museums,gpt-4.1-mini,0.3,7000,0.4,300.0,2,0.5,0.1
+126,MEAM Museu Europeu d'Art Modern,museums,gpt-5.4-mini,0.34,1800,0.41,420.0,2,0.44,0.18
+126,MEAM Museu Europeu d'Art Modern,museums,gpt-5.4-nano,0.28,8500,0.45,420.0,2,0.45,0.1
+126,MEAM Museu Europeu d'Art Modern,museums,gpt-oss_20b,0.5,15000,0.5,400.0,2,0.1,0.1
+126,MEAM Museu Europeu d'Art Modern,museums,ministral-3_14b,0.3,8000,0.5,300.0,2,0.4,0.1
+126,MEAM Museu Europeu d'Art Modern,museums,phi4,0.5,12500,0.5,450.0,2,0.3,0.1
+126,MEAM Museu Europeu d'Art Modern,museums,qwen3_14b,0.5,10000,0.5,400.0,2,0.6,0.1
+127,MUHBA - El Call,museums,claude-haiku-4-5,0.35,1200,0.4,85.0,2,0.55,0.15
+127,MUHBA - El Call,museums,deepseek-r1,0.2,500,0.5,150.0,1,0.2,0.3
+127,MUHBA - El Call,museums,gpt-4.1-mini,0.4,7000,0.5,300.0,2,0.6,0.2
+127,MUHBA - El Call,museums,gpt-5.4-mini,0.18,1200,0.24,320.0,2,0.46,0.28
+127,MUHBA - El Call,museums,gpt-5.4-nano,0.28,8500,0.32,320.0,3,0.4,0.25
+127,MUHBA - El Call,museums,gpt-oss_20b,0.5,15000,0.5,400.0,2,0.6,0.2
+127,MUHBA - El Call,museums,ministral-3_14b,0.3,1200,0.4,300.0,2,0.5,0.1
+127,MUHBA - El Call,museums,phi4,0.5,12500,0.5,450.0,2,0.3,0.2
+127,MUHBA - El Call,museums,qwen3_14b,0.4,10000,0.5,300.0,2,0.3,0.1
+128,MUHBA Refugi 307,museums,claude-haiku-4-5,0.25,800,0.35,45.0,1,0.58,0.25
+128,MUHBA Refugi 307,museums,deepseek-r1,0.25,500,0.3,150.0,1,0.0,0.1
+128,MUHBA Refugi 307,museums,gpt-4.1-mini,0.2,1000,0.3,200.0,1,0.5,0.1
+128,MUHBA Refugi 307,museums,gpt-5.4-mini,0.12,900,0.22,35.0,2,0.58,0.32
+128,MUHBA Refugi 307,museums,gpt-5.4-nano,0.25,6500,0.35,280.0,2,0.45,0.15
+128,MUHBA Refugi 307,museums,gpt-oss_20b,0.2,1500,0.2,80.0,2,0.4,0.1
+128,MUHBA Refugi 307,museums,ministral-3_14b,0.2,800,0.15,50.0,2,0.3,0.9
+128,MUHBA Refugi 307,museums,phi4,0.3,10000,0.4,300.0,2,0.5,0.2
+128,MUHBA Refugi 307,museums,qwen3_14b,0.2,1000,0.25,150.0,1,0.4,0.1
+129,MUHBA Temple d'August,sights and landmarks,claude-haiku-4-5,0.15,280,0.18,12.0,1,0.65,0.25
+129,MUHBA Temple d'August,sights and landmarks,deepseek-r1,0.2,100,0.1,5.0,1,0.3,0.1
+129,MUHBA Temple d'August,sights and landmarks,gpt-4.1-mini,0.1,100,0.1,8.0,2,0.5,0.2
+129,MUHBA Temple d'August,sights and landmarks,gpt-5.4-mini,0.18,700,0.16,28.0,2,0.62,0.22
+129,MUHBA Temple d'August,sights and landmarks,gpt-5.4-nano,0.18,1200,0.22,280.0,3,0.45,0.3
+129,MUHBA Temple d'August,sights and landmarks,gpt-oss_20b,0.2,1000,0.2,30.0,2,0.5,0.4
+129,MUHBA Temple d'August,sights and landmarks,ministral-3_14b,0.1,100,0.1,10.0,1,0.3,0.4
+129,MUHBA Temple d'August,sights and landmarks,phi4,0.2,1000,0.3,50.0,1,0.5,0.4
+129,MUHBA Temple d'August,sights and landmarks,qwen3_14b,0.1,500,0.1,15.0,1,0.5,0.3
+130,Madame George Lounge Bar,nightlife,claude-haiku-4-5,0.35,800,0.42,45.0,4,0.35,0.1
+130,Madame George Lounge Bar,nightlife,deepseek-r1,0.5,10000,0.6,300.0,4,0.2,0.1
+130,Madame George Lounge Bar,nightlife,gpt-4.1-mini,0.3,1500,0.4,30.0,4,0.3,0.1
+130,Madame George Lounge Bar,nightlife,gpt-5.4-mini,0.34,1800,0.31,42.0,4,0.38,0.03
+130,Madame George Lounge Bar,nightlife,gpt-5.4-nano,0.32,12000,0.42,360.0,4,0.35,0.18
+130,Madame George Lounge Bar,nightlife,gpt-oss_20b,0.4,1500,0.4,40.0,4,0.1,0.1
+130,Madame George Lounge Bar,nightlife,ministral-3_14b,0.3,1200,0.4,200.0,4,0.2,0.0
+130,Madame George Lounge Bar,nightlife,phi4,0.3,2000,0.4,50.0,4,0.3,0.1
+130,Madame George Lounge Bar,nightlife,qwen3_14b,0.5,1000,0.4,30.0,4,0.3,0.1
+131,Magic Escape,fun and games,claude-haiku-4-5,0.25,800,0.35,45.0,3,0.4,0.05
+131,Magic Escape,fun and games,deepseek-r1,0.2,500,0.1,15.0,3,0.1,0.1
+131,Magic Escape,fun and games,gpt-4.1-mini,0.2,1000,0.3,200.0,3,0.3,0.1
+131,Magic Escape,fun and games,gpt-5.4-mini,0.14,900,0.22,48.0,3,0.48,0.16
+131,Magic Escape,fun and games,gpt-5.4-nano,0.22,1200,0.35,220.0,3,0.35,0.12
+131,Magic Escape,fun and games,gpt-oss_20b,0.3,1500,0.4,300.0,3,0.2,0.1
+131,Magic Escape,fun and games,ministral-3_14b,0.2,1000,0.3,200.0,2,0.4,0.0
+131,Magic Escape,fun and games,phi4,0.2,1000,0.3,50.0,3,0.3,0.1
+131,Magic Escape,fun and games,qwen3_14b,0.2,500,0.2,30.0,2,0.4,0.1
+132,Major Synagogue,sights and landmarks,claude-haiku-4-5,0.25,800,0.28,35.0,2,0.45,0.15
+132,Major Synagogue,sights and landmarks,deepseek-r1,0.3,1500,0.3,45.0,1,0.2,0.1
+132,Major Synagogue,sights and landmarks,gpt-4.1-mini,0.2,1000,0.3,200.0,2,0.4,0.1
+132,Major Synagogue,sights and landmarks,gpt-5.4-mini,0.14,900,0.18,35.0,2,0.42,0.22
+132,Major Synagogue,sights and landmarks,gpt-5.4-nano,0.28,4500,0.33,280.0,2,0.45,0.25
+132,Major Synagogue,sights and landmarks,gpt-oss_20b,0.3,1500,0.2,50.0,2,0.4,0.3
+132,Major Synagogue,sights and landmarks,ministral-3_14b,0.1,300,0.1,20.0,2,0.3,0.1
+132,Major Synagogue,sights and landmarks,phi4,0.3,10000,0.4,300.0,2,0.3,0.2
+132,Major Synagogue,sights and landmarks,qwen3_14b,0.2,800,0.2,30.0,1,0.3,0.1
+133,Mamaine Mojitos,nightlife,claude-haiku-4-5,0.55,1200,0.48,45.0,4,0.35,0.15
+133,Mamaine Mojitos,nightlife,deepseek-r1,0.5,2000,0.3,30.0,4,0.1,0.2
+133,Mamaine Mojitos,nightlife,gpt-4.1-mini,0.4,1500,0.5,200.0,4,0.3,0.1
+133,Mamaine Mojitos,nightlife,gpt-5.4-mini,0.34,1800,0.42,95.0,4,0.45,0.12
+133,Mamaine Mojitos,nightlife,gpt-5.4-nano,0.45,6500,0.5,420.0,3,0.35,0.15
+133,Mamaine Mojitos,nightlife,gpt-oss_20b,0.3,1500,0.3,200.0,4,0.4,0.1
+133,Mamaine Mojitos,nightlife,ministral-3_14b,0.7,3000,0.75,200.0,4,0.3,0.1
+133,Mamaine Mojitos,nightlife,phi4,0.5,2000,0.5,50.0,4,0.3,0.1
+133,Mamaine Mojitos,nightlife,qwen3_14b,0.3,1000,0.3,30.0,3,0.3,0.1
+134,Masajes Orientales Hong Ze,spas and wellness,claude-haiku-4-5,0.62,1200,0.48,85.0,2,0.45,0.15
+134,Masajes Orientales Hong Ze,spas and wellness,deepseek-r1,0.5,1000,0.3,30.0,1,0.2,0.1
+134,Masajes Orientales Hong Ze,spas and wellness,gpt-4.1-mini,0.4,1500,0.4,200.0,1,0.5,0.1
+134,Masajes Orientales Hong Ze,spas and wellness,gpt-5.4-mini,0.34,1200,0.28,42.0,2,0.42,0.08
+134,Masajes Orientales Hong Ze,spas and wellness,gpt-5.4-nano,0.35,9000,0.45,420.0,2,0.35,0.1
+134,Masajes Orientales Hong Ze,spas and wellness,gpt-oss_20b,0.3,1500,0.2,40.0,2,0.4,0.1
+134,Masajes Orientales Hong Ze,spas and wellness,ministral-3_14b,0.55,1200,0.5,120.0,2,0.35,0.1
+134,Masajes Orientales Hong Ze,spas and wellness,phi4,0.3,1500,0.3,50.0,1,0.3,0.1
+134,Masajes Orientales Hong Ze,spas and wellness,qwen3_14b,0.6,2000,0.6,50.0,2,0.4,0.1
+135,Maximum Escape 1,fun and games,claude-haiku-4-5,0.25,800,0.35,45.0,3,0.4,0.05
+135,Maximum Escape 1,fun and games,deepseek-r1,0.5,10000,0.5,300.0,3,0.3,0.1
+135,Maximum Escape 1,fun and games,gpt-4.1-mini,0.1,100,0.3,200.0,3,0.4,0.1
+135,Maximum Escape 1,fun and games,gpt-5.4-mini,0.18,900,0.24,180.0,3,0.42,0.12
+135,Maximum Escape 1,fun and games,gpt-5.4-nano,0.28,3500,0.35,280.0,3,0.4,0.15
+135,Maximum Escape 1,fun and games,gpt-oss_20b,0.2,1500,0.4,300.0,3,0.3,0.1
+135,Maximum Escape 1,fun and games,ministral-3_14b,0.2,800,0.3,200.0,3,0.3,0.1
+135,Maximum Escape 1,fun and games,phi4,0.2,1000,0.3,50.0,3,0.3,0.1
+135,Maximum Escape 1,fun and games,qwen3_14b,0.2,500,0.5,50.0,3,0.3,0.1
+136,Maximum Escape 2,fun and games,claude-haiku-4-5,0.35,1200,0.42,85.0,3,0.48,0.05
+136,Maximum Escape 2,fun and games,deepseek-r1,0.5,10000,0.6,300.0,3,0.1,0.1
+136,Maximum Escape 2,fun and games,gpt-4.1-mini,0.3,1000,0.4,200.0,3,0.4,0.1
+136,Maximum Escape 2,fun and games,gpt-5.4-mini,0.16,650,0.28,110.0,3,0.45,0.12
+136,Maximum Escape 2,fun and games,gpt-5.4-nano,0.35,4500,0.45,320.0,3,0.45,0.15
+136,Maximum Escape 2,fun and games,gpt-oss_20b,0.2,1000,0.2,30.0,3,0.4,0.1
+136,Maximum Escape 2,fun and games,ministral-3_14b,0.2,800,0.3,120.0,2,0.4,0.1
+136,Maximum Escape 2,fun and games,phi4,0.3,2000,0.3,50.0,3,0.3,0.1
+136,Maximum Escape 2,fun and games,qwen3_14b,0.2,500,0.2,30.0,2,0.3,0.1
+137,Maximum Escape 3,fun and games,claude-haiku-4-5,0.35,1200,0.42,85.0,3,0.48,0.05
+137,Maximum Escape 3,fun and games,deepseek-r1,0.5,10000,0.5,300.0,2,0.1,0.1
+137,Maximum Escape 3,fun and games,gpt-4.1-mini,0.3,1000,0.4,200.0,3,0.5,0.1
+137,Maximum Escape 3,fun and games,gpt-5.4-mini,0.14,900,0.22,48.0,3,0.44,0.12
+137,Maximum Escape 3,fun and games,gpt-5.4-nano,0.25,3500,0.35,280.0,3,0.35,0.1
+137,Maximum Escape 3,fun and games,gpt-oss_20b,0.3,1500,0.4,30.0,3,0.4,0.1
+137,Maximum Escape 3,fun and games,ministral-3_14b,0.2,1000,0.4,300.0,3,0.3,0.1
+137,Maximum Escape 3,fun and games,phi4,0.3,2000,0.3,50.0,3,0.3,0.1
+137,Maximum Escape 3,fun and games,qwen3_14b,0.2,1000,0.3,50.0,2,0.4,0.1
+138,Mayan Luxury Spa Barcelona,spas and wellness,claude-haiku-4-5,0.68,8500,0.62,285.0,2,0.55,0.15
+138,Mayan Luxury Spa Barcelona,spas and wellness,deepseek-r1,0.6,15000,0.7,400.0,2,1.0,0.7
+138,Mayan Luxury Spa Barcelona,spas and wellness,gpt-4.1-mini,0.5,15000,0.5,450.0,1,0.6,0.2
+138,Mayan Luxury Spa Barcelona,spas and wellness,gpt-5.4-mini,0.58,6500,0.46,320.0,2,0.48,0.08
+138,Mayan Luxury Spa Barcelona,spas and wellness,gpt-5.4-nano,0.62,18000,0.58,420.0,3,0.45,0.2
+138,Mayan Luxury Spa Barcelona,spas and wellness,gpt-oss_20b,0.8,15000,0.8,500.0,2,0.5,0.2
+138,Mayan Luxury Spa Barcelona,spas and wellness,ministral-3_14b,0.85,15000,0.75,500.0,2,0.6,0.1
+138,Mayan Luxury Spa Barcelona,spas and wellness,phi4,0.8,15000,0.6,500.0,2,0.5,0.2
+138,Mayan Luxury Spa Barcelona,spas and wellness,qwen3_14b,0.7,10000,0.7,500.0,2,0.6,0.2
+139,Mayan Secret Spa,spas and wellness,claude-haiku-4-5,0.68,8500,0.55,185.0,1,0.52,0.15
+139,Mayan Secret Spa,spas and wellness,deepseek-r1,0.5,10000,0.5,300.0,2,0.2,0.1
+139,Mayan Secret Spa,spas and wellness,gpt-4.1-mini,0.6,1500,0.5,300.0,1,0.5,0.1
+139,Mayan Secret Spa,spas and wellness,gpt-5.4-mini,0.62,9000,0.46,320.0,2,0.43,0.08
+139,Mayan Secret Spa,spas and wellness,gpt-5.4-nano,0.45,18000,0.5,320.0,2,0.4,0.1
+139,Mayan Secret Spa,spas and wellness,gpt-oss_20b,0.6,15000,0.6,400.0,2,0.5,0.2
+139,Mayan Secret Spa,spas and wellness,ministral-3_14b,0.75,12000,0.7,500.0,2,0.4,0.2
+139,Mayan Secret Spa,spas and wellness,phi4,0.6,15000,0.5,500.0,1,0.5,0.2
+139,Mayan Secret Spa,spas and wellness,qwen3_14b,0.5,10000,0.5,300.0,2,0.4,0.1
+140,Mint Bar,nightlife,claude-haiku-4-5,0.45,1800,0.58,185.0,5,0.35,0.1
+140,Mint Bar,nightlife,deepseek-r1,0.6,1500,0.3,30.0,4,0.2,0.1
+140,Mint Bar,nightlife,gpt-4.1-mini,0.5,1500,0.6,300.0,5,0.3,0.1
+140,Mint Bar,nightlife,gpt-5.4-mini,0.42,1800,0.56,420.0,5,0.36,0.08
+140,Mint Bar,nightlife,gpt-5.4-nano,0.35,12000,0.55,420.0,4,0.35,0.15
+140,Mint Bar,nightlife,gpt-oss_20b,0.5,10000,0.4,300.0,4,0.1,0.1
+140,Mint Bar,nightlife,ministral-3_14b,0.6,7500,0.7,450.0,5,0.3,0.1
+140,Mint Bar,nightlife,phi4,0.3,2000,0.4,50.0,4,0.3,0.1
+140,Mint Bar,nightlife,qwen3_14b,0.5,2000,0.5,50.0,4,0.3,0.1
+141,Mirador torre Glòries,sights and landmarks,claude-haiku-4-5,0.35,2800,0.45,320.0,3,0.5,0.15
+141,Mirador torre Glòries,sights and landmarks,deepseek-r1,0.2,500,0.5,150.0,2,0.3,0.1
+141,Mirador torre Glòries,sights and landmarks,gpt-4.1-mini,0.3,1500,0.5,350.0,2,0.5,0.2
+141,Mirador torre Glòries,sights and landmarks,gpt-5.4-mini,0.28,1800,0.42,420.0,3,0.52,0.12
+141,Mirador torre Glòries,sights and landmarks,gpt-5.4-nano,0.45,12000,0.55,420.0,3,0.35,0.2
+141,Mirador torre Glòries,sights and landmarks,gpt-oss_20b,0.6,15000,0.6,400.0,3,0.5,0.2
+141,Mirador torre Glòries,sights and landmarks,ministral-3_14b,0.2,1500,0.3,300.0,2,0.4,0.1
+141,Mirador torre Glòries,sights and landmarks,phi4,0.3,7500,0.4,300.0,2,0.3,0.2
+141,Mirador torre Glòries,sights and landmarks,qwen3_14b,0.5,10000,0.5,500.0,2,0.6,0.2
+142,Montjuic Castle,sights and landmarks,claude-haiku-4-5,0.35,2800,0.32,185.0,2,0.48,0.42
+142,Montjuic Castle,sights and landmarks,deepseek-r1,0.2,150,0.1,5.0,3,0.1,0.2
+142,Montjuic Castle,sights and landmarks,gpt-4.1-mini,0.3,1500,0.3,200.0,2,0.5,0.4
+142,Montjuic Castle,sights and landmarks,gpt-5.4-mini,0.28,1800,0.32,420.0,3,0.48,0.39
+142,Montjuic Castle,sights and landmarks,gpt-5.4-nano,0.38,8500,0.42,260.0,3,0.45,0.35
+142,Montjuic Castle,sights and landmarks,gpt-oss_20b,0.5,15000,0.4,300.0,2,0.4,0.3
+142,Montjuic Castle,sights and landmarks,ministral-3_14b,0.1,300,0.15,50.0,2,0.3,0.4
+142,Montjuic Castle,sights and landmarks,phi4,0.3,7500,0.4,300.0,2,0.3,0.4
+142,Montjuic Castle,sights and landmarks,qwen3_14b,0.2,500,0.2,20.0,1,0.3,0.3
+143,Moon Relax Spa,spas and wellness,claude-haiku-4-5,0.62,1200,0.55,85.0,1,0.48,0.15
+143,Moon Relax Spa,spas and wellness,deepseek-r1,0.5,10000,0.6,300.0,1,0.2,0.1
+143,Moon Relax Spa,spas and wellness,gpt-4.1-mini,0.4,1500,0.4,200.0,1,0.5,0.1
+143,Moon Relax Spa,spas and wellness,gpt-5.4-mini,0.46,1200,0.38,42.0,2,0.44,0.16
+143,Moon Relax Spa,spas and wellness,gpt-5.4-nano,0.35,7000,0.45,320.0,2,0.4,0.1
+143,Moon Relax Spa,spas and wellness,gpt-oss_20b,0.3,1500,0.4,250.0,2,0.5,0.2
+143,Moon Relax Spa,spas and wellness,ministral-3_14b,0.75,10000,0.7,450.0,2,0.4,0.1
+143,Moon Relax Spa,spas and wellness,phi4,0.6,15000,0.5,500.0,1,0.5,0.2
+143,Moon Relax Spa,spas and wellness,qwen3_14b,0.5,2000,0.4,150.0,1,0.3,0.1
+144,Mosaiccos,fun and games,claude-haiku-4-5,0.35,1200,0.32,45.0,3,0.45,0.05
+144,Mosaiccos,fun and games,deepseek-r1,0.2,500,0.1,15.0,2,0.1,0.1
+144,Mosaiccos,fun and games,gpt-4.1-mini,0.2,1000,0.3,50.0,2,0.4,0.1
+144,Mosaiccos,fun and games,gpt-5.4-mini,0.34,900,0.28,35.0,2,0.42,0.18
+144,Mosaiccos,fun and games,gpt-5.4-nano,0.35,8000,0.4,280.0,2,0.35,0.1
+144,Mosaiccos,fun and games,gpt-oss_20b,0.2,1500,0.3,50.0,3,0.4,0.2
+144,Mosaiccos,fun and games,ministral-3_14b,0.3,1200,0.4,200.0,3,0.3,0.1
+144,Mosaiccos,fun and games,phi4,0.3,1500,0.4,50.0,2,0.5,0.1
+144,Mosaiccos,fun and games,qwen3_14b,0.3,1000,0.3,30.0,2,0.5,0.1
+145,Mr White Cocktail Bar,nightlife,claude-haiku-4-5,0.45,1200,0.48,85.0,4,0.35,0.05
+145,Mr White Cocktail Bar,nightlife,deepseek-r1,0.5,1000,0.6,300.0,4,0.2,0.1
+145,Mr White Cocktail Bar,nightlife,gpt-4.1-mini,0.4,1500,0.5,300.0,4,0.4,0.1
+145,Mr White Cocktail Bar,nightlife,gpt-5.4-mini,0.34,1400,0.31,85.0,4,0.32,0.08
+145,Mr White Cocktail Bar,nightlife,gpt-5.4-nano,0.45,6500,0.5,320.0,4,0.35,0.12
+145,Mr White Cocktail Bar,nightlife,gpt-oss_20b,0.5,3000,0.5,300.0,4,0.4,0.1
+145,Mr White Cocktail Bar,nightlife,ministral-3_14b,0.4,1200,0.5,250.0,4,0.2,0.0
+145,Mr White Cocktail Bar,nightlife,phi4,0.3,2000,0.4,50.0,4,0.3,0.1
+145,Mr White Cocktail Bar,nightlife,qwen3_14b,0.3,1500,0.3,50.0,4,0.4,0.1
+146,Museo Banksy - Barcelona,museums,claude-haiku-4-5,0.35,8500,0.42,285.0,2,0.58,0.15
+146,Museo Banksy - Barcelona,museums,deepseek-r1,0.5,10000,0.5,300.0,2,0.3,0.2
+146,Museo Banksy - Barcelona,museums,gpt-4.1-mini,0.3,6000,0.4,200.0,2,0.6,0.2
+146,Museo Banksy - Barcelona,museums,gpt-5.4-mini,0.28,1800,0.34,280.0,2,0.45,0.12
+146,Museo Banksy - Barcelona,museums,gpt-5.4-nano,0.22,9000,0.35,420.0,2,0.4,0.15
+146,Museo Banksy - Barcelona,museums,gpt-oss_20b,0.5,12000,0.5,400.0,2,0.4,0.2
+146,Museo Banksy - Barcelona,museums,ministral-3_14b,0.3,3000,0.4,300.0,2,0.5,0.1
+146,Museo Banksy - Barcelona,museums,phi4,0.5,12500,0.5,450.0,2,0.3,0.1
+146,Museo Banksy - Barcelona,museums,qwen3_14b,0.5,10000,0.5,300.0,1,0.4,0.1
+147,Museo Egipci de Barcelona,museums,claude-haiku-4-5,0.35,2800,0.42,185.0,2,0.48,0.15
+147,Museo Egipci de Barcelona,museums,deepseek-r1,0.5,10000,0.5,300.0,3,0.2,0.1
+147,Museo Egipci de Barcelona,museums,gpt-4.1-mini,0.4,7000,0.5,300.0,2,0.6,0.1
+147,Museo Egipci de Barcelona,museums,gpt-5.4-mini,0.28,1800,0.34,320.0,2,0.58,0.14
+147,Museo Egipci de Barcelona,museums,gpt-5.4-nano,0.45,12000,0.6,420.0,3,0.35,0.15
+147,Museo Egipci de Barcelona,museums,gpt-oss_20b,0.5,15000,0.5,400.0,2,0.4,0.2
+147,Museo Egipci de Barcelona,museums,ministral-3_14b,0.3,3000,0.4,300.0,2,0.5,0.1
+147,Museo Egipci de Barcelona,museums,phi4,0.3,10000,0.4,300.0,2,0.5,0.2
+147,Museo Egipci de Barcelona,museums,qwen3_14b,0.4,10000,0.4,300.0,1,0.5,0.1
+148,Museu Banksy Museo,museums,claude-haiku-4-5,0.35,8500,0.42,315.0,2,0.48,0.15
+148,Museu Banksy Museo,museums,deepseek-r1,0.6,10000,0.6,300.0,2,0.3,0.1
+148,Museu Banksy Museo,museums,gpt-4.1-mini,0.4,8000,0.5,300.0,2,0.6,0.2
+148,Museu Banksy Museo,museums,gpt-5.4-mini,0.42,1800,0.46,520.0,2,0.58,0.12
+148,Museu Banksy Museo,museums,gpt-5.4-nano,0.45,12000,0.55,420.0,3,0.35,0.2
+148,Museu Banksy Museo,museums,gpt-oss_20b,0.5,12000,0.6,400.0,2,0.4,0.2
+148,Museu Banksy Museo,museums,ministral-3_14b,0.3,8000,0.4,300.0,2,0.3,0.1
+148,Museu Banksy Museo,museums,phi4,0.5,12500,0.5,450.0,2,0.3,0.1
+148,Museu Banksy Museo,museums,qwen3_14b,0.5,10000,0.5,500.0,2,0.4,0.1
+149,Museu Can Framis,museums,claude-haiku-4-5,0.35,8500,0.42,315.0,2,0.58,0.15
+149,Museu Can Framis,museums,deepseek-r1,0.5,5000,0.5,150.0,1,0.3,0.2
+149,Museu Can Framis,museums,gpt-4.1-mini,0.3,7000,0.4,300.0,1,0.5,0.2
+149,Museu Can Framis,museums,gpt-5.4-mini,0.34,1800,0.42,320.0,2,0.62,0.18
+149,Museu Can Framis,museums,gpt-5.4-nano,0.35,12000,0.5,420.0,2,0.45,0.25
+149,Museu Can Framis,museums,gpt-oss_20b,0.5,15000,0.6,400.0,2,0.6,0.3
+149,Museu Can Framis,museums,ministral-3_14b,0.3,7500,0.4,300.0,2,0.5,0.1
+149,Museu Can Framis,museums,phi4,0.5,12500,0.5,450.0,1,0.3,0.2
+149,Museu Can Framis,museums,qwen3_14b,0.5,12000,0.5,400.0,2,0.6,0.3
+150,Museu Del Perfum,museums,claude-haiku-4-5,0.35,1200,0.42,85.0,2,0.48,0.15
+150,Museu Del Perfum,museums,deepseek-r1,0.5,10000,0.5,300.0,1,0.2,0.1
+150,Museu Del Perfum,museums,gpt-4.1-mini,0.3,1500,0.4,300.0,1,0.5,0.1
+150,Museu Del Perfum,museums,gpt-5.4-mini,0.22,1600,0.24,45.0,2,0.52,0.12
+150,Museu Del Perfum,museums,gpt-5.4-nano,0.35,12000,0.45,320.0,2,0.45,0.15
+150,Museu Del Perfum,museums,gpt-oss_20b,0.5,10000,0.5,400.0,2,0.4,0.2
+150,Museu Del Perfum,museums,ministral-3_14b,0.2,3000,0.3,250.0,2,0.4,0.1
+150,Museu Del Perfum,museums,phi4,0.5,12500,0.5,450.0,2,0.3,0.2
+150,Museu Del Perfum,museums,qwen3_14b,0.4,5000,0.4,300.0,2,0.3,0.1
+151,Museu Etnològic i de Cultures del Món,museums,claude-haiku-4-5,0.35,8500,0.42,315.0,2,0.55,0.15
+151,Museu Etnològic i de Cultures del Món,museums,deepseek-r1,0.5,10000,0.5,300.0,1,0.3,0.2
+151,Museu Etnològic i de Cultures del Món,museums,gpt-4.1-mini,0.4,7000,0.5,300.0,1,0.6,0.2
+151,Museu Etnològic i de Cultures del Món,museums,gpt-5.4-mini,0.42,1800,0.38,420.0,2,0.55,0.12
+151,Museu Etnològic i de Cultures del Món,museums,gpt-5.4-nano,0.28,12000,0.45,420.0,2,0.35,0.15
+151,Museu Etnològic i de Cultures del Món,museums,gpt-oss_20b,0.5,15000,0.5,400.0,2,0.6,0.2
+151,Museu Etnològic i de Cultures del Món,museums,ministral-3_14b,0.3,8000,0.4,300.0,2,0.5,0.1
+151,Museu Etnològic i de Cultures del Món,museums,phi4,0.5,12500,0.5,450.0,1,0.3,0.2
+151,Museu Etnològic i de Cultures del Món,museums,qwen3_14b,0.4,10000,0.4,300.0,1,0.6,0.1
+152,Museu Maritim de Barcelona,museums,claude-haiku-4-5,0.45,8500,0.52,320.0,2,0.58,0.25
+152,Museu Maritim de Barcelona,museums,deepseek-r1,0.5,10000,0.5,150.0,1,0.5,0.1
+152,Museu Maritim de Barcelona,museums,gpt-4.1-mini,0.4,7000,0.5,300.0,2,0.6,0.2
+152,Museu Maritim de Barcelona,museums,gpt-5.4-mini,0.42,6800,0.38,320.0,2,0.54,0.18
+152,Museu Maritim de Barcelona,museums,gpt-5.4-nano,0.35,12000,0.45,380.0,3,0.45,0.25
+152,Museu Maritim de Barcelona,museums,gpt-oss_20b,0.6,15000,0.6,400.0,2,0.5,0.2
+152,Museu Maritim de Barcelona,museums,ministral-3_14b,0.3,8000,0.5,400.0,2,0.4,0.2
+152,Museu Maritim de Barcelona,museums,phi4,0.5,12500,0.5,450.0,2,0.3,0.2
+152,Museu Maritim de Barcelona,museums,qwen3_14b,0.5,12000,0.5,400.0,1,0.6,0.2
+153,Museu Nacional d'Art de Catalunya,museums,claude-haiku-4-5,0.45,8500,0.52,380.0,2,0.58,0.35
+153,Museu Nacional d'Art de Catalunya,museums,deepseek-r1,0.5,10000,0.5,300.0,3,0.3,0.1
+153,Museu Nacional d'Art de Catalunya,museums,gpt-4.1-mini,0.5,15000,0.5,450.0,2,0.6,0.2
+153,Museu Nacional d'Art de Catalunya,museums,gpt-5.4-mini,0.58,14000,0.55,420.0,2,0.56,0.28
+153,Museu Nacional d'Art de Catalunya,museums,gpt-5.4-nano,0.45,14000,0.6,420.0,2,0.55,0.25
+153,Museu Nacional d'Art de Catalunya,museums,gpt-oss_20b,0.6,15000,0.6,400.0,2,0.7,0.4
+153,Museu Nacional d'Art de Catalunya,museums,ministral-3_14b,0.3,12000,0.4,450.0,2,0.5,0.2
+153,Museu Nacional d'Art de Catalunya,museums,phi4,0.5,12500,0.5,450.0,1,0.5,0.3
+153,Museu Nacional d'Art de Catalunya,museums,qwen3_14b,0.5,10000,0.5,300.0,2,0.6,0.3
+154,Museu Olímpic i de l'Esport Joan Antoni Samaranch,museums,claude-haiku-4-5,0.35,8500,0.42,320.0,2,0.58,0.32
+154,Museu Olímpic i de l'Esport Joan Antoni Samaranch,museums,deepseek-r1,0.5,10000,0.5,300.0,1,0.0,0.2
+154,Museu Olímpic i de l'Esport Joan Antoni Samaranch,museums,gpt-4.1-mini,0.5,15000,0.5,450.0,2,0.6,0.3
+154,Museu Olímpic i de l'Esport Joan Antoni Samaranch,museums,gpt-5.4-mini,0.38,1800,0.34,320.0,2,0.55,0.2
+154,Museu Olímpic i de l'Esport Joan Antoni Samaranch,museums,gpt-5.4-nano,0.45,9000,0.55,420.0,2,0.45,0.25
+154,Museu Olímpic i de l'Esport Joan Antoni Samaranch,museums,gpt-oss_20b,0.5,15000,0.5,400.0,2,0.6,0.4
+154,Museu Olímpic i de l'Esport Joan Antoni Samaranch,museums,ministral-3_14b,0.3,8000,0.4,300.0,2,0.5,0.2
+154,Museu Olímpic i de l'Esport Joan Antoni Samaranch,museums,phi4,0.5,12500,0.5,450.0,2,0.3,0.2
+154,Museu Olímpic i de l'Esport Joan Antoni Samaranch,museums,qwen3_14b,0.5,10000,0.5,500.0,1,0.6,0.3
+155,Museu Picasso,museums,claude-haiku-4-5,0.35,8500,0.42,315.0,2,0.55,0.15
+155,Museu Picasso,museums,deepseek-r1,0.5,10000,0.4,300.0,1,0.3,0.2
+155,Museu Picasso,museums,gpt-4.1-mini,0.5,15000,0.5,450.0,2,0.6,0.2
+155,Museu Picasso,museums,gpt-5.4-mini,0.34,7200,0.36,410.0,2,0.55,0.12
+155,Museu Picasso,museums,gpt-5.4-nano,0.35,14000,0.55,420.0,3,0.45,0.2
+155,Museu Picasso,museums,gpt-oss_20b,0.5,15000,0.6,400.0,2,0.6,0.3
+155,Museu Picasso,museums,ministral-3_14b,0.3,12000,0.4,450.0,2,0.5,0.1
+155,Museu Picasso,museums,phi4,0.5,12500,0.5,450.0,2,0.3,0.2
+155,Museu Picasso,museums,qwen3_14b,0.5,10000,0.5,500.0,1,0.4,0.1
+156,Museu Tàpies,museums,claude-haiku-4-5,0.35,8500,0.42,285.0,2,0.48,0.15
+156,Museu Tàpies,museums,deepseek-r1,0.5,10000,0.5,300.0,2,0.3,0.1
+156,Museu Tàpies,museums,gpt-4.1-mini,0.4,7000,0.5,300.0,2,0.5,0.2
+156,Museu Tàpies,museums,gpt-5.4-mini,0.42,1800,0.41,320.0,2,0.63,0.18
+156,Museu Tàpies,museums,gpt-5.4-nano,0.35,8500,0.45,320.0,3,0.4,0.15
+156,Museu Tàpies,museums,gpt-oss_20b,0.5,15000,0.6,400.0,2,0.6,0.2
+156,Museu Tàpies,museums,ministral-3_14b,0.3,8000,0.4,300.0,2,0.5,0.1
+156,Museu Tàpies,museums,phi4,0.5,12500,0.5,450.0,2,0.3,0.1
+156,Museu Tàpies,museums,qwen3_14b,0.4,10000,0.5,500.0,2,0.5,0.1
+157,Museu d'Historia de Barcelona - MUHBA,museums,claude-haiku-4-5,0.35,8500,0.42,285.0,2,0.58,0.15
+157,Museu d'Historia de Barcelona - MUHBA,museums,deepseek-r1,0.3,5000,0.3,150.0,2,0.8,0.7
+157,Museu d'Historia de Barcelona - MUHBA,museums,gpt-4.1-mini,0.4,8000,0.5,350.0,2,0.6,0.2
+157,Museu d'Historia de Barcelona - MUHBA,museums,gpt-5.4-mini,0.46,2200,0.42,360.0,2,0.62,0.22
+157,Museu d'Historia de Barcelona - MUHBA,museums,gpt-5.4-nano,0.42,9000,0.48,320.0,3,0.55,0.15
+157,Museu d'Historia de Barcelona - MUHBA,museums,gpt-oss_20b,0.6,12000,0.5,400.0,2,0.6,0.3
+157,Museu d'Historia de Barcelona - MUHBA,museums,ministral-3_14b,0.3,8000,0.4,300.0,2,0.6,0.2
+157,Museu d'Historia de Barcelona - MUHBA,museums,phi4,0.3,10000,0.4,500.0,2,0.5,0.3
+157,Museu d'Historia de Barcelona - MUHBA,museums,qwen3_14b,0.4,10000,0.4,300.0,1,0.6,0.2
+158,Museu d'Història de Catalunya,museums,claude-haiku-4-5,0.35,8500,0.42,320.0,2,0.58,0.15
+158,Museu d'Història de Catalunya,museums,deepseek-r1,0.5,10000,0.5,400.0,1,0.5,0.2
+158,Museu d'Història de Catalunya,museums,gpt-4.1-mini,0.5,15000,0.5,450.0,2,0.7,0.2
+158,Museu d'Història de Catalunya,museums,gpt-5.4-mini,0.42,9000,0.44,320.0,2,0.48,0.18
+158,Museu d'Història de Catalunya,museums,gpt-5.4-nano,0.28,9000,0.55,420.0,2,0.45,0.25
+158,Museu d'Història de Catalunya,museums,gpt-oss_20b,0.5,15000,0.6,400.0,2,0.4,0.2
+158,Museu d'Història de Catalunya,museums,ministral-3_14b,0.3,12000,0.4,450.0,2,0.5,0.1
+158,Museu d'Història de Catalunya,museums,phi4,0.5,12500,0.5,450.0,2,0.3,0.2
+158,Museu d'Història de Catalunya,museums,qwen3_14b,0.5,10000,0.5,300.0,2,0.6,0.2
+159,Museu de la Xocolata,museums,claude-haiku-4-5,0.35,8500,0.42,320.0,2,0.45,0.15
+159,Museu de la Xocolata,museums,deepseek-r1,0.5,1000,0.3,30.0,3,0.2,0.1
+159,Museu de la Xocolata,museums,gpt-4.1-mini,0.3,7000,0.4,300.0,2,0.5,0.1
+159,Museu de la Xocolata,museums,gpt-5.4-mini,0.34,1800,0.31,280.0,2,0.58,0.08
+159,Museu de la Xocolata,museums,gpt-5.4-nano,0.35,12000,0.45,360.0,2,0.4,0.1
+159,Museu de la Xocolata,museums,gpt-oss_20b,0.5,15000,0.5,400.0,2,0.4,0.2
+159,Museu de la Xocolata,museums,ministral-3_14b,0.3,1500,0.4,300.0,2,0.3,0.1
+159,Museu de la Xocolata,museums,phi4,0.5,12500,0.5,450.0,1,0.3,0.1
+159,Museu de la Xocolata,museums,qwen3_14b,0.4,10000,0.5,300.0,2,0.5,0.1
+160,Museum Of Design,museums,claude-haiku-4-5,0.35,8500,0.42,315.0,2,0.48,0.15
+160,Museum Of Design,museums,deepseek-r1,0.5,10000,0.6,300.0,3,0.2,0.1
+160,Museum Of Design,museums,gpt-4.1-mini,0.4,7000,0.5,300.0,2,0.6,0.2
+160,Museum Of Design,museums,gpt-5.4-mini,0.46,9800,0.55,420.0,2,0.52,0.18
+160,Museum Of Design,museums,gpt-5.4-nano,0.45,14000,0.55,420.0,3,0.45,0.25
+160,Museum Of Design,museums,gpt-oss_20b,0.5,15000,0.5,400.0,3,0.6,0.2
+160,Museum Of Design,museums,ministral-3_14b,0.4,12000,0.5,450.0,2,0.5,0.1
+160,Museum Of Design,museums,phi4,0.5,12500,0.5,450.0,2,0.3,0.1
+160,Museum Of Design,museums,qwen3_14b,0.3,10000,0.4,300.0,2,0.6,0.1
+161,Museum of Illusions,museums,claude-haiku-4-5,0.35,8500,0.42,285.0,3,0.45,0.05
+161,Museum of Illusions,museums,deepseek-r1,0.5,10000,0.5,300.0,3,0.2,0.1
+161,Museum of Illusions,museums,gpt-4.1-mini,0.3,1500,0.4,300.0,3,0.5,0.1
+161,Museum of Illusions,museums,gpt-5.4-mini,0.24,1800,0.34,420.0,3,0.42,0.18
+161,Museum of Illusions,museums,gpt-5.4-nano,0.35,6500,0.48,320.0,3,0.35,0.15
+161,Museum of Illusions,museums,gpt-oss_20b,0.5,12000,0.5,400.0,3,0.4,0.2
+161,Museum of Illusions,museums,ministral-3_14b,0.3,3000,0.5,300.0,3,0.3,0.1
+161,Museum of Illusions,museums,phi4,0.5,12500,0.5,450.0,3,0.3,0.1
+161,Museum of Illusions,museums,qwen3_14b,0.5,10000,0.5,300.0,3,0.4,0.1
+162,Mystery Escape,fun and games,claude-haiku-4-5,0.35,1200,0.42,85.0,3,0.48,0.05
+162,Mystery Escape,fun and games,deepseek-r1,0.3,1000,0.2,30.0,3,0.1,0.1
+162,Mystery Escape,fun and games,gpt-4.1-mini,0.2,1000,0.4,300.0,3,0.5,0.1
+162,Mystery Escape,fun and games,gpt-5.4-mini,0.18,1200,0.32,260.0,3,0.42,0.08
+162,Mystery Escape,fun and games,gpt-5.4-nano,0.25,3500,0.35,320.0,3,0.4,0.1
+162,Mystery Escape,fun and games,gpt-oss_20b,0.2,1500,0.2,30.0,3,0.3,0.1
+162,Mystery Escape,fun and games,ministral-3_14b,0.2,3000,0.3,300.0,2,0.4,0.0
+162,Mystery Escape,fun and games,phi4,0.2,2000,0.3,50.0,3,0.5,0.1
+162,Mystery Escape,fun and games,qwen3_14b,0.2,5000,0.5,300.0,2,0.3,0.1
+163,Night Barcelona,nightlife,claude-haiku-4-5,0.45,1200,0.58,85.0,5,0.35,0.05
+163,Night Barcelona,nightlife,deepseek-r1,0.3,1000,0.3,30.0,4,0.2,0.1
+163,Night Barcelona,nightlife,gpt-4.1-mini,0.3,1500,0.4,60.0,5,0.3,0.1
+163,Night Barcelona,nightlife,gpt-5.4-mini,0.56,1400,0.48,420.0,4,0.34,0.08
+163,Night Barcelona,nightlife,gpt-5.4-nano,0.45,12000,0.55,450.0,4,0.35,0.1
+163,Night Barcelona,nightlife,gpt-oss_20b,0.3,1500,0.2,30.0,4,0.4,0.1
+163,Night Barcelona,nightlife,ministral-3_14b,0.7,12000,0.8,600.0,5,0.3,0.1
+163,Night Barcelona,nightlife,phi4,0.3,2000,0.4,50.0,4,0.3,0.1
+163,Night Barcelona,nightlife,qwen3_14b,0.4,5000,0.5,300.0,4,0.3,0.1
+164,Nightmare Horror Museum,museums,claude-haiku-4-5,0.35,2800,0.45,185.0,4,0.4,0.05
+164,Nightmare Horror Museum,museums,deepseek-r1,0.5,10000,0.5,300.0,4,0.3,0.1
+164,Nightmare Horror Museum,museums,gpt-4.1-mini,0.3,1500,0.4,300.0,3,0.5,0.1
+164,Nightmare Horror Museum,museums,gpt-5.4-mini,0.28,1200,0.33,260.0,3,0.35,0.08
+164,Nightmare Horror Museum,museums,gpt-5.4-nano,0.35,8000,0.45,320.0,3,0.45,0.15
+164,Nightmare Horror Museum,museums,gpt-oss_20b,0.5,10000,0.6,400.0,3,0.4,0.2
+164,Nightmare Horror Museum,museums,ministral-3_14b,0.4,3000,0.5,300.0,4,0.3,0.1
+164,Nightmare Horror Museum,museums,phi4,0.5,12500,0.5,450.0,3,0.3,0.1
+164,Nightmare Horror Museum,museums,qwen3_14b,0.3,10000,0.4,300.0,3,0.5,0.1
+165,Nuad Thai Massage SPA,spas and wellness,claude-haiku-4-5,0.62,1800,0.58,65.0,2,0.45,0.15
+165,Nuad Thai Massage SPA,spas and wellness,deepseek-r1,0.3,1000,0.2,50.0,1,0.5,0.1
+165,Nuad Thai Massage SPA,spas and wellness,gpt-4.1-mini,0.4,1500,0.4,200.0,1,0.5,0.2
+165,Nuad Thai Massage SPA,spas and wellness,gpt-5.4-mini,0.28,1800,0.34,42.0,2,0.42,0.12
+165,Nuad Thai Massage SPA,spas and wellness,gpt-5.4-nano,0.35,6500,0.4,260.0,2,0.3,0.1
+165,Nuad Thai Massage SPA,spas and wellness,gpt-oss_20b,0.4,1500,0.3,300.0,2,0.4,0.2
+165,Nuad Thai Massage SPA,spas and wellness,ministral-3_14b,0.55,3500,0.5,300.0,2,0.3,0.1
+165,Nuad Thai Massage SPA,spas and wellness,phi4,0.3,2000,0.4,50.0,1,0.5,0.1
+165,Nuad Thai Massage SPA,spas and wellness,qwen3_14b,0.4,2000,0.3,75.0,1,0.3,0.1
+166,Onda Hair & Beauty,spas and wellness,claude-haiku-4-5,0.55,1800,0.48,95.0,3,0.45,0.05
+166,Onda Hair & Beauty,spas and wellness,deepseek-r1,0.5,10000,0.5,300.0,2,0.0,0.1
+166,Onda Hair & Beauty,spas and wellness,gpt-4.1-mini,0.6,15000,0.5,300.0,2,0.5,0.1
+166,Onda Hair & Beauty,spas and wellness,gpt-5.4-mini,0.58,1800,0.41,65.0,3,0.42,0.05
+166,Onda Hair & Beauty,spas and wellness,gpt-5.4-nano,0.42,12000,0.45,420.0,3,0.35,0.1
+166,Onda Hair & Beauty,spas and wellness,gpt-oss_20b,0.5,8000,0.5,300.0,3,0.4,0.1
+166,Onda Hair & Beauty,spas and wellness,ministral-3_14b,0.75,12000,0.7,500.0,3,0.3,0.1
+166,Onda Hair & Beauty,spas and wellness,phi4,0.6,2000,0.5,50.0,2,0.5,0.1
+166,Onda Hair & Beauty,spas and wellness,qwen3_14b,0.4,1500,0.3,30.0,2,0.2,0.1
+167,Open Camp Barcelona,fun and games,claude-haiku-4-5,0.65,18000,0.72,580.0,4,0.45,0.2
+167,Open Camp Barcelona,fun and games,deepseek-r1,0.6,10000,0.5,300.0,4,0.1,0.1
+167,Open Camp Barcelona,fun and games,gpt-4.1-mini,0.5,15000,0.5,400.0,3,0.5,0.2
+167,Open Camp Barcelona,fun and games,gpt-5.4-mini,0.56,12000,0.58,420.0,4,0.42,0.2
+167,Open Camp Barcelona,fun and games,gpt-5.4-nano,0.45,12000,0.55,360.0,4,0.4,0.25
+167,Open Camp Barcelona,fun and games,gpt-oss_20b,0.6,15000,0.8,400.0,4,0.5,0.2
+167,Open Camp Barcelona,fun and games,ministral-3_14b,0.7,15000,0.75,1200.0,4,0.4,0.15
+167,Open Camp Barcelona,fun and games,phi4,0.8,150000,0.9,2500.0,4,0.5,0.2
+167,Open Camp Barcelona,fun and games,qwen3_14b,0.5,75000,0.6,2200.0,4,0.3,0.1
+168,Opera Lounge,museums,claude-haiku-4-5,0.35,1200,0.32,45.0,3,0.42,0.15
+168,Opera Lounge,museums,deepseek-r1,0.3,1000,0.4,30.0,3,0.2,0.1
+168,Opera Lounge,museums,gpt-4.1-mini,0.4,1500,0.5,300.0,3,0.6,0.2
+168,Opera Lounge,museums,gpt-5.4-mini,0.42,1200,0.38,48.0,3,0.46,0.12
+168,Opera Lounge,museums,gpt-5.4-nano,0.45,8000,0.5,260.0,3,0.35,0.1
+168,Opera Lounge,museums,gpt-oss_20b,0.3,2000,0.5,200.0,3,0.5,0.1
+168,Opera Lounge,museums,ministral-3_14b,0.4,3000,0.5,300.0,3,0.3,0.1
+168,Opera Lounge,museums,phi4,0.3,10000,0.3,300.0,2,0.2,0.1
+168,Opera Lounge,museums,qwen3_14b,0.3,1500,0.4,50.0,2,0.5,0.1
+169,Opium Barcelona,nightlife,claude-haiku-4-5,0.68,18500,0.72,580.0,5,0.42,0.25
+169,Opium Barcelona,nightlife,deepseek-r1,0.6,15000,0.6,300.0,5,0.2,0.1
+169,Opium Barcelona,nightlife,gpt-4.1-mini,0.6,1500,0.7,525.0,5,0.3,0.1
+169,Opium Barcelona,nightlife,gpt-5.4-mini,0.67,12000,0.71,620.0,5,0.32,0.08
+169,Opium Barcelona,nightlife,gpt-5.4-nano,0.45,14000,0.65,420.0,5,0.35,0.15
+169,Opium Barcelona,nightlife,gpt-oss_20b,0.8,15000,0.9,2500.0,4,0.5,0.2
+169,Opium Barcelona,nightlife,ministral-3_14b,0.75,15000,0.8,600.0,5,0.3,0.1
+169,Opium Barcelona,nightlife,phi4,0.7,15000,0.7,500.0,4,0.3,0.1
+169,Opium Barcelona,nightlife,qwen3_14b,0.5,10000,0.7,500.0,4,0.3,0.1
+170,Orient Express Cocktail Bar - El Vagon,nightlife,claude-haiku-4-5,0.35,1200,0.48,85.0,4,0.42,0.05
+170,Orient Express Cocktail Bar - El Vagon,nightlife,deepseek-r1,0.3,1500,0.5,300.0,4,0.2,0.1
+170,Orient Express Cocktail Bar - El Vagon,nightlife,gpt-4.1-mini,0.4,1500,0.5,300.0,3,0.5,0.1
+170,Orient Express Cocktail Bar - El Vagon,nightlife,gpt-5.4-mini,0.23,1600,0.34,48.0,4,0.38,0.05
+170,Orient Express Cocktail Bar - El Vagon,nightlife,gpt-5.4-nano,0.45,3500,0.45,300.0,3,0.35,0.15
+170,Orient Express Cocktail Bar - El Vagon,nightlife,gpt-oss_20b,0.3,2000,0.2,30.0,4,0.4,0.1
+170,Orient Express Cocktail Bar - El Vagon,nightlife,ministral-3_14b,0.4,3000,0.6,400.0,4,0.2,0.0
+170,Orient Express Cocktail Bar - El Vagon,nightlife,phi4,0.3,2000,0.4,50.0,4,0.3,0.1
+170,Orient Express Cocktail Bar - El Vagon,nightlife,qwen3_14b,0.3,2000,0.5,300.0,4,0.4,0.1
+171,Otto Zutz Club,nightlife,claude-haiku-4-5,0.45,3500,0.62,420.0,5,0.35,0.05
+171,Otto Zutz Club,nightlife,deepseek-r1,0.5,10000,0.6,450.0,5,0.0,0.0
+171,Otto Zutz Club,nightlife,gpt-4.1-mini,0.4,1500,0.6,450.0,5,0.3,0.1
+171,Otto Zutz Club,nightlife,gpt-5.4-mini,0.42,4200,0.68,420.0,5,0.34,0.08
+171,Otto Zutz Club,nightlife,gpt-5.4-nano,0.45,6500,0.7,420.0,5,0.35,0.15
+171,Otto Zutz Club,nightlife,gpt-oss_20b,0.6,12000,0.8,600.0,4,0.4,0.1
+171,Otto Zutz Club,nightlife,ministral-3_14b,0.85,12000,0.9,600.0,5,0.3,0.1
+171,Otto Zutz Club,nightlife,phi4,0.6,15000,0.6,500.0,5,0.3,0.1
+171,Otto Zutz Club,nightlife,qwen3_14b,0.5,10000,0.5,500.0,5,0.3,0.1
+172,Palace of Catalan Music,sights and landmarks,claude-haiku-4-5,0.35,8500,0.42,315.0,4,0.58,0.15
+172,Palace of Catalan Music,sights and landmarks,deepseek-r1,0.6,10000,0.6,500.0,3,0.3,0.2
+172,Palace of Catalan Music,sights and landmarks,gpt-4.1-mini,0.3,1500,0.4,300.0,3,0.5,0.1
+172,Palace of Catalan Music,sights and landmarks,gpt-5.4-mini,0.46,8200,0.58,410.0,3,0.48,0.12
+172,Palace of Catalan Music,sights and landmarks,gpt-5.4-nano,0.35,14000,0.6,420.0,3,0.4,0.2
+172,Palace of Catalan Music,sights and landmarks,gpt-oss_20b,0.7,15000,0.8,600.0,4,0.5,0.2
+172,Palace of Catalan Music,sights and landmarks,ministral-3_14b,0.3,12000,0.4,450.0,3,0.35,0.1
+172,Palace of Catalan Music,sights and landmarks,phi4,0.5,12500,0.5,450.0,3,0.3,0.1
+172,Palace of Catalan Music,sights and landmarks,qwen3_14b,0.4,6000,0.4,300.0,2,0.6,0.1
+173,Palau Güell,sights and landmarks,claude-haiku-4-5,0.45,8500,0.48,285.0,2,0.55,0.15
+173,Palau Güell,sights and landmarks,deepseek-r1,0.3,15000,0.3,450.0,2,0.3,0.7
+173,Palau Güell,sights and landmarks,gpt-4.1-mini,0.3,1500,0.4,300.0,2,0.5,0.1
+173,Palau Güell,sights and landmarks,gpt-5.4-mini,0.42,1800,0.46,320.0,3,0.51,0.08
+173,Palau Güell,sights and landmarks,gpt-5.4-nano,0.28,9000,0.45,320.0,3,0.45,0.15
+173,Palau Güell,sights and landmarks,gpt-oss_20b,0.3,1500,0.4,200.0,2,0.5,0.4
+173,Palau Güell,sights and landmarks,ministral-3_14b,0.2,1500,0.3,200.0,2,0.6,0.1
+173,Palau Güell,sights and landmarks,phi4,0.5,12500,0.5,450.0,2,0.3,0.2
+173,Palau Güell,sights and landmarks,qwen3_14b,0.5,5000,0.5,300.0,2,0.4,0.1
+174,Paradox Museum Barcelona,museums,claude-haiku-4-5,0.35,2800,0.42,185.0,2,0.45,0.15
+174,Paradox Museum Barcelona,museums,deepseek-r1,0.5,10000,0.5,300.0,2,0.3,0.1
+174,Paradox Museum Barcelona,museums,gpt-4.1-mini,0.3,1500,0.4,300.0,2,0.5,0.1
+174,Paradox Museum Barcelona,museums,gpt-5.4-mini,0.18,1800,0.34,320.0,3,0.46,0.08
+174,Paradox Museum Barcelona,museums,gpt-5.4-nano,0.35,9000,0.45,380.0,3,0.35,0.1
+174,Paradox Museum Barcelona,museums,gpt-oss_20b,0.5,15000,0.6,400.0,2,0.4,0.2
+174,Paradox Museum Barcelona,museums,ministral-3_14b,0.3,3000,0.4,300.0,2,0.5,0.1
+174,Paradox Museum Barcelona,museums,phi4,0.5,12500,0.5,450.0,2,0.3,0.2
+174,Paradox Museum Barcelona,museums,qwen3_14b,0.4,10000,0.4,300.0,2,0.6,0.1
+175,Parc de la Ciutadella,nature and parks,claude-haiku-4-5,0.55,12000,0.48,320.0,3,0.52,0.72
+175,Parc de la Ciutadella,nature and parks,deepseek-r1,0.5,10000,0.5,300.0,3,0.5,0.6
+175,Parc de la Ciutadella,nature and parks,gpt-4.1-mini,0.6,150000,0.5,2200.0,3,0.6,0.7
+175,Parc de la Ciutadella,nature and parks,gpt-5.4-mini,0.74,12000,0.32,420.0,3,0.62,0.68
+175,Parc de la Ciutadella,nature and parks,gpt-5.4-nano,0.55,14000,0.42,320.0,3,0.45,0.6
+175,Parc de la Ciutadella,nature and parks,gpt-oss_20b,0.6,15000,0.5,400.0,3,0.1,0.1
+175,Parc de la Ciutadella,nature and parks,ministral-3_14b,0.6,15000,0.4,300.0,3,0.5,0.9
+175,Parc de la Ciutadella,nature and parks,phi4,0.6,15000,0.5,500.0,2,0.5,0.8
+175,Parc de la Ciutadella,nature and parks,qwen3_14b,0.5,10000,0.4,300.0,2,0.7,0.6
+177,Park Güell,nature and parks,claude-haiku-4-5,0.58,18500,0.42,385.0,3,0.54,0.48
+177,Park Güell,nature and parks,deepseek-r1,0.5,10000,0.5,300.0,3,0.0,1.0
+177,Park Güell,nature and parks,gpt-4.1-mini,0.6,15000,0.4,300.0,3,0.5,0.4
+177,Park Güell,nature and parks,gpt-5.4-mini,0.7,12000,0.32,280.0,4,0.55,0.48
+177,Park Güell,nature and parks,gpt-5.4-nano,0.45,18000,0.35,320.0,4,0.4,0.45
+177,Park Güell,nature and parks,gpt-oss_20b,0.7,20000,0.4,200.0,3,0.1,0.1
+177,Park Güell,nature and parks,ministral-3_14b,0.6,15000,0.3,300.0,3,0.7,0.9
+177,Park Güell,nature and parks,phi4,0.6,15000,0.5,500.0,3,0.5,0.6
+177,Park Güell,nature and parks,qwen3_14b,0.5,15000,0.5,300.0,2,0.6,0.4
+178,Passeig de Gracia,sights and landmarks,claude-haiku-4-5,0.45,8500,0.48,320.0,4,0.5,0.25
+178,Passeig de Gracia,sights and landmarks,deepseek-r1,0.5,10000,0.5,300.0,4,0.2,0.1
+178,Passeig de Gracia,sights and landmarks,gpt-4.1-mini,0.4,8000,0.5,400.0,3,0.6,0.2
+178,Passeig de Gracia,sights and landmarks,gpt-5.4-mini,0.55,12000,0.58,420.0,4,0.52,0.22
+178,Passeig de Gracia,sights and landmarks,gpt-5.4-nano,0.35,9000,0.45,320.0,4,0.45,0.2
+178,Passeig de Gracia,sights and landmarks,gpt-oss_20b,0.6,10000,0.7,500.0,4,0.4,0.3
+178,Passeig de Gracia,sights and landmarks,ministral-3_14b,0.3,12000,0.4,500.0,4,0.2,0.1
+178,Passeig de Gracia,sights and landmarks,phi4,0.6,15000,0.6,500.0,4,0.5,0.3
+178,Passeig de Gracia,sights and landmarks,qwen3_14b,0.3,10000,0.3,300.0,4,0.4,0.1
+179,Passeig del Born,sights and landmarks,claude-haiku-4-5,0.15,200,0.12,8.0,4,0.45,0.25
+179,Passeig del Born,sights and landmarks,deepseek-r1,0.2,500,0.3,15.0,4,0.2,0.3
+179,Passeig del Born,sights and landmarks,gpt-4.1-mini,0.3,1500,0.3,200.0,3,0.5,0.2
+179,Passeig del Born,sights and landmarks,gpt-5.4-mini,0.22,1800,0.18,120.0,4,0.48,0.18
+179,Passeig del Born,sights and landmarks,gpt-5.4-nano,0.25,3500,0.3,320.0,4,0.45,0.25
+179,Passeig del Born,sights and landmarks,gpt-oss_20b,0.5,10000,0.3,200.0,3,0.5,0.4
+179,Passeig del Born,sights and landmarks,ministral-3_14b,0.1,500,0.1,50.0,3,0.3,0.2
+179,Passeig del Born,sights and landmarks,phi4,0.3,10000,0.3,300.0,3,0.2,0.1
+179,Passeig del Born,sights and landmarks,qwen3_14b,0.3,2000,0.3,300.0,2,0.5,0.3
+180,Peek a Boo,fun and games,claude-haiku-4-5,0.55,8500,0.48,285.0,4,0.5,0.45
+180,Peek a Boo,fun and games,deepseek-r1,0.5,10000,0.5,400.0,2,0.1,0.3
+180,Peek a Boo,fun and games,gpt-4.1-mini,0.4,1500,0.5,300.0,3,0.5,0.4
+180,Peek a Boo,fun and games,gpt-5.4-mini,0.46,1800,0.42,140.0,4,0.38,0.28
+180,Peek a Boo,fun and games,gpt-5.4-nano,0.42,12000,0.45,420.0,4,0.35,0.25
+180,Peek a Boo,fun and games,gpt-oss_20b,0.6,12000,0.7,400.0,3,0.5,0.4
+180,Peek a Boo,fun and games,ministral-3_14b,0.55,12000,0.5,500.0,3,0.4,0.3
+180,Peek a Boo,fun and games,phi4,0.5,12500,0.5,450.0,3,0.3,0.4
+180,Peek a Boo,fun and games,qwen3_14b,0.4,7500,0.4,400.0,3,0.3,0.1
+181,Picadero Motel Room Escape,fun and games,claude-haiku-4-5,0.25,800,0.35,85.0,3,0.45,0.0
+181,Picadero Motel Room Escape,fun and games,deepseek-r1,0.2,500,0.15,15.0,3,0.25,0.1
+181,Picadero Motel Room Escape,fun and games,gpt-4.1-mini,0.2,100,0.3,20.0,3,0.3,0.1
+181,Picadero Motel Room Escape,fun and games,gpt-5.4-mini,0.22,900,0.28,65.0,3,0.46,0.08
+181,Picadero Motel Room Escape,fun and games,gpt-5.4-nano,0.35,8000,0.45,300.0,3,0.3,0.15
+181,Picadero Motel Room Escape,fun and games,gpt-oss_20b,0.2,1500,0.2,30.0,3,0.3,0.1
+181,Picadero Motel Room Escape,fun and games,ministral-3_14b,0.15,300,0.2,50.0,3,0.3,0.05
+181,Picadero Motel Room Escape,fun and games,phi4,0.2,1000,0.3,50.0,3,0.3,0.1
+181,Picadero Motel Room Escape,fun and games,qwen3_14b,0.2,300,0.3,30.0,3,0.3,0.1
+182,Pipa Club,nightlife,claude-haiku-4-5,0.35,1200,0.42,85.0,4,0.4,0.05
+182,Pipa Club,nightlife,deepseek-r1,0.5,1000,0.5,300.0,4,0.1,0.1
+182,Pipa Club,nightlife,gpt-4.1-mini,0.4,1500,0.5,300.0,4,0.3,0.1
+182,Pipa Club,nightlife,gpt-5.4-mini,0.28,1200,0.44,260.0,4,0.34,0.06
+182,Pipa Club,nightlife,gpt-5.4-nano,0.35,8000,0.4,320.0,3,0.45,0.15
+182,Pipa Club,nightlife,gpt-oss_20b,0.3,1500,0.3,30.0,4,0.4,0.1
+182,Pipa Club,nightlife,ministral-3_14b,0.6,3000,0.7,400.0,4,0.3,0.1
+182,Pipa Club,nightlife,phi4,0.3,2000,0.4,50.0,4,0.3,0.1
+182,Pipa Club,nightlife,qwen3_14b,0.4,1500,0.5,300.0,4,0.3,0.1
+183,Plata Cocktail Bar,nightlife,claude-haiku-4-5,0.45,1200,0.52,85.0,4,0.35,0.05
+183,Plata Cocktail Bar,nightlife,deepseek-r1,0.5,1000,0.5,30.0,4,0.0,0.0
+183,Plata Cocktail Bar,nightlife,gpt-4.1-mini,0.4,1500,0.5,300.0,4,0.5,0.1
+183,Plata Cocktail Bar,nightlife,gpt-5.4-mini,0.34,1800,0.36,58.0,4,0.42,0.08
+183,Plata Cocktail Bar,nightlife,gpt-5.4-nano,0.35,6500,0.42,420.0,4,0.38,0.12
+183,Plata Cocktail Bar,nightlife,gpt-oss_20b,0.3,2000,0.4,300.0,4,0.5,0.1
+183,Plata Cocktail Bar,nightlife,ministral-3_14b,0.3,1200,0.4,250.0,4,0.2,0.05
+183,Plata Cocktail Bar,nightlife,phi4,0.3,2000,0.4,50.0,4,0.3,0.1
+183,Plata Cocktail Bar,nightlife,qwen3_14b,0.4,1500,0.4,50.0,4,0.3,0.1
+184,Platja De La Mar Bella,nature and parks,claude-haiku-4-5,0.35,3500,0.25,85.0,4,0.45,0.35
+184,Platja De La Mar Bella,nature and parks,deepseek-r1,0.5,10000,0.3,300.0,3,0.2,0.3
+184,Platja De La Mar Bella,nature and parks,gpt-4.1-mini,0.3,8000,0.25,200.0,3,0.5,0.2
+184,Platja De La Mar Bella,nature and parks,gpt-5.4-mini,0.34,18000,0.18,280.0,4,0.46,0.24
+184,Platja De La Mar Bella,nature and parks,gpt-5.4-nano,0.35,15000,0.45,420.0,3,0.5,0.35
+184,Platja De La Mar Bella,nature and parks,gpt-oss_20b,0.8,120000,0.5,800.0,4,0.6,0.5
+184,Platja De La Mar Bella,nature and parks,ministral-3_14b,0.6,12000,0.55,500.0,4,0.4,0.3
+184,Platja De La Mar Bella,nature and parks,phi4,0.6,15000,0.5,500.0,3,0.5,0.4
+184,Platja De La Mar Bella,nature and parks,qwen3_14b,0.3,10000,0.2,30.0,2,0.4,0.2
+185,Plaça Reial,sights and landmarks,claude-haiku-4-5,0.55,8000,0.5,250.0,5,0.45,0.2
+185,Plaça Reial,sights and landmarks,deepseek-r1,1.0,200000,1.0,3000.0,5,0.1,0.2
+185,Plaça Reial,sights and landmarks,gpt-4.1-mini,0.5,15000,0.6,450.0,5,0.5,0.2
+185,Plaça Reial,sights and landmarks,gpt-5.4-mini,0.46,7800,0.41,420.0,5,0.43,0.09
+185,Plaça Reial,sights and landmarks,gpt-5.4-nano,0.35,12000,0.55,320.0,4,0.45,0.25
+185,Plaça Reial,sights and landmarks,gpt-oss_20b,0.5,10000,0.4,500.0,4,0.4,0.3
+185,Plaça Reial,sights and landmarks,ministral-3_14b,0.4,12000,0.5,500.0,5,0.3,0.1
+185,Plaça Reial,sights and landmarks,phi4,0.6,15000,0.5,500.0,4,0.3,0.2
+185,Plaça Reial,sights and landmarks,qwen3_14b,0.5,10000,0.6,500.0,4,0.6,0.2
+186,Poble Espanyol,museums,claude-haiku-4-5,0.68,18500,0.64,520.0,3,0.45,0.32
+186,Poble Espanyol,museums,deepseek-r1,0.6,10000,0.8,1500.0,3,0.0,0.0
+186,Poble Espanyol,museums,gpt-4.1-mini,0.4,8000,0.5,350.0,3,0.5,0.2
+186,Poble Espanyol,museums,gpt-5.4-mini,0.68,18000,0.66,420.0,3,0.52,0.22
+186,Poble Espanyol,museums,gpt-5.4-nano,0.42,14000,0.5,380.0,3,0.45,0.25
+186,Poble Espanyol,museums,gpt-oss_20b,0.9,120000,0.8,2500.0,3,0.5,0.2
+186,Poble Espanyol,museums,ministral-3_14b,0.45,12000,0.5,450.0,3,0.35,0.15
+186,Poble Espanyol,museums,phi4,0.5,15000,0.5,450.0,2,0.3,0.2
+186,Poble Espanyol,museums,qwen3_14b,0.5,10000,0.5,300.0,2,0.6,0.2
+187,Port Vell Barcelone,sights and landmarks,claude-haiku-4-5,0.75,45000,0.72,1850.0,4,0.48,0.35
+187,Port Vell Barcelone,sights and landmarks,deepseek-r1,1.0,250000,1.0,3000.0,4,0.1,0.1
+187,Port Vell Barcelone,sights and landmarks,gpt-4.1-mini,0.8,150000,0.85,2500.0,4,0.6,0.3
+187,Port Vell Barcelone,sights and landmarks,gpt-5.4-mini,0.74,18000,0.72,520.0,4,0.5,0.22
+187,Port Vell Barcelone,sights and landmarks,gpt-5.4-nano,0.55,18000,0.6,420.0,4,0.45,0.5
+187,Port Vell Barcelone,sights and landmarks,gpt-oss_20b,0.9,120000,0.85,2500.0,4,0.5,0.3
+187,Port Vell Barcelone,sights and landmarks,ministral-3_14b,0.85,35000,0.8,1200.0,4,0.6,0.2
+187,Port Vell Barcelone,sights and landmarks,phi4,0.8,20000,0.8,600.0,4,0.3,0.2
+187,Port Vell Barcelone,sights and landmarks,qwen3_14b,0.7,120000,0.75,2500.0,3,0.5,0.2
+188,Prem Bodhi Therapy,spas and wellness,claude-haiku-4-5,0.35,800,0.28,22.0,2,0.45,0.15
+188,Prem Bodhi Therapy,spas and wellness,deepseek-r1,0.2,500,0.3,15.0,1,0.3,0.1
+188,Prem Bodhi Therapy,spas and wellness,gpt-4.1-mini,0.3,1500,0.3,30.0,1,0.5,0.1
+188,Prem Bodhi Therapy,spas and wellness,gpt-5.4-mini,0.22,650,0.2,24.0,2,0.42,0.08
+188,Prem Bodhi Therapy,spas and wellness,gpt-5.4-nano,0.22,1200,0.28,35.0,2,0.35,0.1
+188,Prem Bodhi Therapy,spas and wellness,gpt-oss_20b,0.3,1500,0.3,30.0,2,0.5,0.2
+188,Prem Bodhi Therapy,spas and wellness,ministral-3_14b,0.3,800,0.25,50.0,2,0.2,0.05
+188,Prem Bodhi Therapy,spas and wellness,phi4,0.3,1500,0.3,50.0,1,0.5,0.1
+188,Prem Bodhi Therapy,spas and wellness,qwen3_14b,0.3,750,0.3,30.0,1,0.2,0.1
+189,Prison Experience Barcelona,fun and games,claude-haiku-4-5,0.35,1200,0.42,85.0,4,0.45,0.1
+189,Prison Experience Barcelona,fun and games,deepseek-r1,0.5,5000,0.5,75.0,2,0.3,0.1
+189,Prison Experience Barcelona,fun and games,gpt-4.1-mini,0.3,1500,0.4,300.0,3,0.5,0.1
+189,Prison Experience Barcelona,fun and games,gpt-5.4-mini,0.18,1200,0.32,280.0,4,0.38,0.08
+189,Prison Experience Barcelona,fun and games,gpt-5.4-nano,0.25,8000,0.35,280.0,3,0.35,0.15
+189,Prison Experience Barcelona,fun and games,gpt-oss_20b,0.2,1500,0.4,200.0,4,0.3,0.1
+189,Prison Experience Barcelona,fun and games,ministral-3_14b,0.3,3000,0.4,300.0,4,0.2,0.1
+189,Prison Experience Barcelona,fun and games,phi4,0.2,1000,0.3,50.0,3,0.3,0.1
+189,Prison Experience Barcelona,fun and games,qwen3_14b,0.2,1500,0.2,30.0,2,0.5,0.1
+190,Pub Fiction,nightlife,claude-haiku-4-5,0.45,1200,0.48,85.0,4,0.35,0.05
+190,Pub Fiction,nightlife,deepseek-r1,0.6,10000,0.6,150.0,4,0.2,0.1
+190,Pub Fiction,nightlife,gpt-4.1-mini,0.4,1500,0.5,300.0,4,0.4,0.1
+190,Pub Fiction,nightlife,gpt-5.4-mini,0.46,1800,0.42,95.0,4,0.32,0.08
+190,Pub Fiction,nightlife,gpt-5.4-nano,0.45,12000,0.45,320.0,4,0.45,0.15
+190,Pub Fiction,nightlife,gpt-oss_20b,0.3,2000,0.3,30.0,4,0.4,0.1
+190,Pub Fiction,nightlife,ministral-3_14b,0.6,3000,0.7,300.0,4,0.3,0.1
+190,Pub Fiction,nightlife,phi4,0.5,2000,0.5,50.0,4,0.3,0.1
+190,Pub Fiction,nightlife,qwen3_14b,0.5,2000,0.5,50.0,4,0.3,0.1
+191,Quirogena Centro De Terapias Manuales,spas and wellness,claude-haiku-4-5,0.35,800,0.28,35.0,1,0.55,0.15
+191,Quirogena Centro De Terapias Manuales,spas and wellness,deepseek-r1,0.2,500,0.15,15.0,2,0.3,0.1
+191,Quirogena Centro De Terapias Manuales,spas and wellness,gpt-4.1-mini,0.3,1000,0.4,200.0,1,0.5,0.1
+191,Quirogena Centro De Terapias Manuales,spas and wellness,gpt-5.4-mini,0.22,900,0.24,32.0,2,0.46,0.12
+191,Quirogena Centro De Terapias Manuales,spas and wellness,gpt-5.4-nano,0.25,1200,0.35,45.0,2,0.35,0.1
+191,Quirogena Centro De Terapias Manuales,spas and wellness,gpt-oss_20b,0.5,6000,0.4,300.0,2,0.3,0.2
+191,Quirogena Centro De Terapias Manuales,spas and wellness,ministral-3_14b,0.3,1200,0.25,50.0,2,0.4,0.1
+191,Quirogena Centro De Terapias Manuales,spas and wellness,phi4,0.3,2000,0.4,50.0,1,0.5,0.2
+191,Quirogena Centro De Terapias Manuales,spas and wellness,qwen3_14b,0.4,2000,0.4,50.0,1,0.3,0.1
+192,RESETXR,fun and games,claude-haiku-4-5,0.35,2800,0.62,420.0,4,0.4,0.05
+192,RESETXR,fun and games,deepseek-r1,0.6,5000,0.5,150.0,4,0.2,0.1
+192,RESETXR,fun and games,gpt-4.1-mini,0.3,1500,0.5,350.0,3,0.5,0.1
+192,RESETXR,fun and games,gpt-5.4-mini,0.42,1800,0.56,420.0,4,0.38,0.08
+192,RESETXR,fun and games,gpt-5.4-nano,0.35,8000,0.6,420.0,3,0.4,0.1
+192,RESETXR,fun and games,gpt-oss_20b,0.5,12000,0.6,400.0,4,0.4,0.1
+192,RESETXR,fun and games,ministral-3_14b,0.55,12000,0.7,600.0,4,0.35,0.1
+192,RESETXR,fun and games,phi4,0.6,15000,0.6,500.0,3,0.5,0.2
+192,RESETXR,fun and games,qwen3_14b,0.35,5000,0.5,500.0,4,0.3,0.1
+193,RUBI Gin Bar,nightlife,claude-haiku-4-5,0.35,1200,0.42,45.0,4,0.45,0.1
+193,RUBI Gin Bar,nightlife,deepseek-r1,0.2,500,0.3,150.0,4,0.1,0.1
+193,RUBI Gin Bar,nightlife,gpt-4.1-mini,0.4,1500,0.5,200.0,4,0.5,0.2
+193,RUBI Gin Bar,nightlife,gpt-5.4-mini,0.32,1800,0.38,42.0,4,0.42,0.08
+193,RUBI Gin Bar,nightlife,gpt-5.4-nano,0.45,1800,0.45,240.0,3,0.35,0.15
+193,RUBI Gin Bar,nightlife,gpt-oss_20b,0.3,2000,0.3,30.0,4,0.4,0.1
+193,RUBI Gin Bar,nightlife,ministral-3_14b,0.5,3000,0.7,300.0,4,0.3,0.1
+193,RUBI Gin Bar,nightlife,phi4,0.3,1500,0.4,50.0,4,0.3,0.1
+193,RUBI Gin Bar,nightlife,qwen3_14b,0.3,1000,0.3,30.0,4,0.2,0.1
+194,Rambla del Mar,sights and landmarks,claude-haiku-4-5,0.15,80,0.12,5.0,2,0.45,0.35
+194,Rambla del Mar,sights and landmarks,deepseek-r1,0.5,1000,0.3,30.0,1,0.3,0.4
+194,Rambla del Mar,sights and landmarks,gpt-4.1-mini,0.1,100,0.1,8.0,2,0.5,0.3
+194,Rambla del Mar,sights and landmarks,gpt-5.4-mini,0.08,1200,0.09,35.0,2,0.34,0.28
+194,Rambla del Mar,sights and landmarks,gpt-5.4-nano,0.15,1200,0.25,45.0,3,0.45,0.25
+194,Rambla del Mar,sights and landmarks,gpt-oss_20b,0.2,1500,0.2,40.0,3,0.4,0.2
+194,Rambla del Mar,sights and landmarks,ministral-3_14b,0.1,100,0.05,5.0,2,0.2,0.3
+194,Rambla del Mar,sights and landmarks,phi4,0.2,1000,0.3,50.0,3,0.3,0.2
+194,Rambla del Mar,sights and landmarks,qwen3_14b,0.2,500,0.2,30.0,1,0.4,0.1
+195,Real Thai BCN,spas and wellness,claude-haiku-4-5,0.55,1200,0.48,35.0,2,0.52,0.15
+195,Real Thai BCN,spas and wellness,deepseek-r1,0.2,500,0.15,15.0,1,0.2,0.1
+195,Real Thai BCN,spas and wellness,gpt-4.1-mini,0.4,1500,0.4,200.0,1,0.5,0.1
+195,Real Thai BCN,spas and wellness,gpt-5.4-mini,0.28,1200,0.22,38.0,2,0.52,0.12
+195,Real Thai BCN,spas and wellness,gpt-5.4-nano,0.35,8000,0.45,280.0,2,0.35,0.1
+195,Real Thai BCN,spas and wellness,gpt-oss_20b,0.3,1500,0.4,50.0,2,0.5,0.2
+195,Real Thai BCN,spas and wellness,ministral-3_14b,0.4,1200,0.35,60.0,2,0.3,0.1
+195,Real Thai BCN,spas and wellness,phi4,0.3,2000,0.4,50.0,1,0.5,0.1
+195,Real Thai BCN,spas and wellness,qwen3_14b,0.4,1000,0.3,30.0,2,0.3,0.1
+196,Recinte Modernista de Sant Pau,sights and landmarks,claude-haiku-4-5,0.55,8500,0.48,320.0,2,0.58,0.35
+196,Recinte Modernista de Sant Pau,sights and landmarks,deepseek-r1,1.0,200000,1.0,3000.0,1,1.0,0.3
+196,Recinte Modernista de Sant Pau,sights and landmarks,gpt-4.1-mini,0.5,15000,0.5,450.0,2,0.6,0.3
+196,Recinte Modernista de Sant Pau,sights and landmarks,gpt-5.4-mini,0.58,12000,0.52,520.0,3,0.61,0.22
+196,Recinte Modernista de Sant Pau,sights and landmarks,gpt-5.4-nano,0.45,14000,0.5,420.0,3,0.45,0.35
+196,Recinte Modernista de Sant Pau,sights and landmarks,gpt-oss_20b,0.7,15000,0.7,400.0,2,0.6,0.5
+196,Recinte Modernista de Sant Pau,sights and landmarks,ministral-3_14b,0.3,8000,0.5,400.0,2,0.4,0.2
+196,Recinte Modernista de Sant Pau,sights and landmarks,phi4,0.5,12500,0.5,450.0,2,0.3,0.2
+196,Recinte Modernista de Sant Pau,sights and landmarks,qwen3_14b,0.5,10000,0.5,300.0,1,0.6,0.3
+197,Reial Monestir de Santa Maria de Pedralbes,sights and landmarks,claude-haiku-4-5,0.35,3500,0.42,280.0,2,0.55,0.4
+197,Reial Monestir de Santa Maria de Pedralbes,sights and landmarks,deepseek-r1,0.2,1000,0.3,300.0,2,0.1,0.9
+197,Reial Monestir de Santa Maria de Pedralbes,sights and landmarks,gpt-4.1-mini,0.3,7000,0.4,300.0,2,0.5,0.2
+197,Reial Monestir de Santa Maria de Pedralbes,sights and landmarks,gpt-5.4-mini,0.34,1800,0.28,420.0,2,0.56,0.41
+197,Reial Monestir de Santa Maria de Pedralbes,sights and landmarks,gpt-5.4-nano,0.38,14000,0.6,320.0,3,0.45,0.32
+197,Reial Monestir de Santa Maria de Pedralbes,sights and landmarks,gpt-oss_20b,0.6,15000,0.6,400.0,2,0.7,0.6
+197,Reial Monestir de Santa Maria de Pedralbes,sights and landmarks,ministral-3_14b,0.3,3000,0.4,300.0,1,0.6,0.3
+197,Reial Monestir de Santa Maria de Pedralbes,sights and landmarks,phi4,0.5,12500,0.5,450.0,2,0.3,0.4
+197,Reial Monestir de Santa Maria de Pedralbes,sights and landmarks,qwen3_14b,0.5,10000,0.5,300.0,1,0.6,0.3
+198,Ritual Thai Massage Spa Barcelona,spas and wellness,claude-haiku-4-5,0.62,1200,0.48,35.0,2,0.45,0.15
+198,Ritual Thai Massage Spa Barcelona,spas and wellness,deepseek-r1,0.5,10000,0.3,300.0,2,0.1,0.1
+198,Ritual Thai Massage Spa Barcelona,spas and wellness,gpt-4.1-mini,0.4,1500,0.4,200.0,1,0.5,0.2
+198,Ritual Thai Massage Spa Barcelona,spas and wellness,gpt-5.4-mini,0.38,1800,0.34,42.0,2,0.43,0.12
+198,Ritual Thai Massage Spa Barcelona,spas and wellness,gpt-5.4-nano,0.35,9000,0.4,260.0,2,0.35,0.15
+198,Ritual Thai Massage Spa Barcelona,spas and wellness,gpt-oss_20b,0.4,2000,0.3,30.0,2,0.5,0.2
+198,Ritual Thai Massage Spa Barcelona,spas and wellness,ministral-3_14b,0.6,12000,0.6,400.0,2,0.3,0.1
+198,Ritual Thai Massage Spa Barcelona,spas and wellness,phi4,0.3,2000,0.4,50.0,1,0.5,0.1
+198,Ritual Thai Massage Spa Barcelona,spas and wellness,qwen3_14b,0.3,2000,0.3,50.0,2,0.5,0.1
+199,SENSAS Barcelona,fun and games,claude-haiku-4-5,0.35,1200,0.42,85.0,3,0.48,0.05
+199,SENSAS Barcelona,fun and games,deepseek-r1,0.5,1000,0.5,300.0,3,0.1,0.1
+199,SENSAS Barcelona,fun and games,gpt-4.1-mini,0.2,1000,0.3,200.0,3,0.5,0.1
+199,SENSAS Barcelona,fun and games,gpt-5.4-mini,0.24,1200,0.28,320.0,4,0.42,0.08
+199,SENSAS Barcelona,fun and games,gpt-5.4-nano,0.25,3500,0.35,260.0,3,0.35,0.15
+199,SENSAS Barcelona,fun and games,gpt-oss_20b,0.3,1500,0.3,200.0,3,0.4,0.1
+199,SENSAS Barcelona,fun and games,ministral-3_14b,0.2,1200,0.3,200.0,3,0.3,0.1
+199,SENSAS Barcelona,fun and games,phi4,0.3,2000,0.3,50.0,3,0.2,0.1
+199,SENSAS Barcelona,fun and games,qwen3_14b,0.2,5000,0.3,200.0,3,0.5,0.1
+200,Sabor Cubano BCN,nightlife,claude-haiku-4-5,0.45,1200,0.52,85.0,5,0.35,0.05
+200,Sabor Cubano BCN,nightlife,deepseek-r1,0.5,10000,0.6,300.0,4,0.2,0.1
+200,Sabor Cubano BCN,nightlife,gpt-4.1-mini,0.4,1500,0.5,200.0,4,0.3,0.1
+200,Sabor Cubano BCN,nightlife,gpt-5.4-mini,0.34,1800,0.45,320.0,5,0.28,0.05
+200,Sabor Cubano BCN,nightlife,gpt-5.4-nano,0.45,4200,0.5,280.0,4,0.35,0.15
+200,Sabor Cubano BCN,nightlife,gpt-oss_20b,0.4,1500,0.4,300.0,4,0.5,0.1
+200,Sabor Cubano BCN,nightlife,ministral-3_14b,0.5,1500,0.7,400.0,5,0.3,0.1
+200,Sabor Cubano BCN,nightlife,phi4,0.3,2000,0.4,50.0,4,0.3,0.1
+200,Sabor Cubano BCN,nightlife,qwen3_14b,0.3,1000,0.4,50.0,4,0.3,0.1
+201,Sakurami,spas and wellness,claude-haiku-4-5,0.68,1800,0.55,85.0,3,0.45,0.05
+201,Sakurami,spas and wellness,deepseek-r1,0.2,1000,0.3,30.0,1,0.2,0.1
+201,Sakurami,spas and wellness,gpt-4.1-mini,0.5,1500,0.5,300.0,2,0.6,0.2
+201,Sakurami,spas and wellness,gpt-5.4-mini,0.34,1800,0.31,42.0,3,0.38,0.08
+201,Sakurami,spas and wellness,gpt-5.4-nano,0.55,13000,0.45,320.0,3,0.35,0.15
+201,Sakurami,spas and wellness,gpt-oss_20b,0.4,1500,0.3,50.0,3,0.5,0.2
+201,Sakurami,spas and wellness,ministral-3_14b,0.6,7500,0.5,300.0,3,0.4,0.1
+201,Sakurami,spas and wellness,phi4,0.5,12500,0.5,450.0,2,0.3,0.1
+201,Sakurami,spas and wellness,qwen3_14b,0.5,1500,0.5,50.0,2,0.4,0.1
+202,Sala Apolo,nightlife,claude-haiku-4-5,0.45,3500,0.62,420.0,5,0.35,0.05
+202,Sala Apolo,nightlife,deepseek-r1,0.5,10000,0.7,500.0,5,0.1,0.1
+202,Sala Apolo,nightlife,gpt-4.1-mini,0.4,1500,0.6,450.0,5,0.3,0.1
+202,Sala Apolo,nightlife,gpt-5.4-mini,0.55,9000,0.86,520.0,5,0.34,0.08
+202,Sala Apolo,nightlife,gpt-5.4-nano,0.35,8000,0.6,420.0,5,0.4,0.15
+202,Sala Apolo,nightlife,gpt-oss_20b,0.8,15000,0.9,2200.0,4,0.4,0.1
+202,Sala Apolo,nightlife,ministral-3_14b,0.75,12000,0.85,1200.0,5,0.3,0.1
+202,Sala Apolo,nightlife,phi4,0.5,10000,0.6,500.0,5,0.3,0.1
+202,Sala Apolo,nightlife,qwen3_14b,0.3,5000,0.6,500.0,5,0.3,0.1
+203,Samurai Experience Barcelona,fun and games,claude-haiku-4-5,0.35,1200,0.42,85.0,4,0.45,0.1
+203,Samurai Experience Barcelona,fun and games,deepseek-r1,0.2,1500,0.1,30.0,3,0.0,0.0
+203,Samurai Experience Barcelona,fun and games,gpt-4.1-mini,0.2,1000,0.3,200.0,3,0.4,0.1
+203,Samurai Experience Barcelona,fun and games,gpt-5.4-mini,0.32,1400,0.28,48.0,3,0.35,0.08
+203,Samurai Experience Barcelona,fun and games,gpt-5.4-nano,0.25,650,0.35,55.0,3,0.35,0.1
+203,Samurai Experience Barcelona,fun and games,gpt-oss_20b,0.4,1500,0.4,200.0,3,0.2,0.1
+203,Samurai Experience Barcelona,fun and games,ministral-3_14b,0.3,3000,0.4,300.0,3,0.3,0.1
+203,Samurai Experience Barcelona,fun and games,phi4,0.3,10000,0.4,500.0,3,0.3,0.1
+203,Samurai Experience Barcelona,fun and games,qwen3_14b,0.3,10000,0.4,300.0,4,0.3,0.1
+204,Silom Spa,spas and wellness,claude-haiku-4-5,0.72,3200,0.58,85.0,2,0.45,0.15
+204,Silom Spa,spas and wellness,deepseek-r1,0.6,10000,0.6,300.0,2,0.1,0.1
+204,Silom Spa,spas and wellness,gpt-4.1-mini,0.5,1500,0.5,300.0,1,0.5,0.1
+204,Silom Spa,spas and wellness,gpt-5.4-mini,0.46,2200,0.41,58.0,2,0.42,0.12
+204,Silom Spa,spas and wellness,gpt-5.4-nano,0.45,9000,0.5,420.0,2,0.35,0.15
+204,Silom Spa,spas and wellness,gpt-oss_20b,0.6,12000,0.5,400.0,2,0.4,0.2
+204,Silom Spa,spas and wellness,ministral-3_14b,0.75,15000,0.7,500.0,2,0.4,0.1
+204,Silom Spa,spas and wellness,phi4,0.6,15000,0.5,500.0,1,0.5,0.2
+204,Silom Spa,spas and wellness,qwen3_14b,0.4,2500,0.4,150.0,1,0.3,0.1
+205,SimplyBePilates,spas and wellness,claude-haiku-4-5,0.35,1200,0.32,45.0,3,0.45,0.15
+205,SimplyBePilates,spas and wellness,deepseek-r1,0.5,1000,0.5,300.0,2,0.1,0.1
+205,SimplyBePilates,spas and wellness,gpt-4.1-mini,0.3,1000,0.4,200.0,1,0.5,0.1
+205,SimplyBePilates,spas and wellness,gpt-5.4-mini,0.28,1100,0.24,42.0,2,0.43,0.18
+205,SimplyBePilates,spas and wellness,gpt-5.4-nano,0.35,1800,0.45,210.0,2,0.4,0.15
+205,SimplyBePilates,spas and wellness,gpt-oss_20b,0.3,1500,0.4,30.0,2,0.3,0.1
+205,SimplyBePilates,spas and wellness,ministral-3_14b,0.4,3000,0.5,300.0,2,0.3,0.1
+205,SimplyBePilates,spas and wellness,phi4,0.3,2000,0.4,50.0,2,0.5,0.1
+205,SimplyBePilates,spas and wellness,qwen3_14b,0.3,1000,0.3,30.0,2,0.4,0.1
+206,Sleimy Centro De Masajes En Barcelona,spas and wellness,claude-haiku-4-5,0.55,1200,0.48,45.0,2,0.68,0.25
+206,Sleimy Centro De Masajes En Barcelona,spas and wellness,deepseek-r1,0.6,10000,0.4,300.0,2,0.5,0.2
+206,Sleimy Centro De Masajes En Barcelona,spas and wellness,gpt-4.1-mini,0.4,1500,0.4,200.0,1,0.6,0.3
+206,Sleimy Centro De Masajes En Barcelona,spas and wellness,gpt-5.4-mini,0.32,1200,0.28,38.0,2,0.56,0.44
+206,Sleimy Centro De Masajes En Barcelona,spas and wellness,gpt-5.4-nano,0.32,6500,0.38,280.0,2,0.4,0.15
+206,Sleimy Centro De Masajes En Barcelona,spas and wellness,gpt-oss_20b,0.4,1500,0.3,300.0,2,0.5,0.2
+206,Sleimy Centro De Masajes En Barcelona,spas and wellness,ministral-3_14b,0.3,1200,0.35,60.0,2,0.85,0.1
+206,Sleimy Centro De Masajes En Barcelona,spas and wellness,phi4,0.3,2000,0.4,50.0,1,0.5,0.2
+206,Sleimy Centro De Masajes En Barcelona,spas and wellness,qwen3_14b,0.5,5000,0.3,50.0,1,0.4,0.1
+207,Slow Spa,spas and wellness,claude-haiku-4-5,0.68,3500,0.55,85.0,1,0.62,0.25
+207,Slow Spa,spas and wellness,deepseek-r1,0.5,3000,0.1,100.0,1,0.7,0.2
+207,Slow Spa,spas and wellness,gpt-4.1-mini,0.5,1500,0.5,200.0,1,0.6,0.3
+207,Slow Spa,spas and wellness,gpt-5.4-mini,0.42,1800,0.34,42.0,2,0.63,0.24
+207,Slow Spa,spas and wellness,gpt-5.4-nano,0.35,6500,0.45,320.0,2,0.4,0.15
+207,Slow Spa,spas and wellness,gpt-oss_20b,0.6,10000,0.5,300.0,2,0.6,0.2
+207,Slow Spa,spas and wellness,ministral-3_14b,0.3,1200,0.25,50.0,2,0.9,0.1
+207,Slow Spa,spas and wellness,phi4,0.5,12500,0.5,450.0,1,0.7,0.1
+207,Slow Spa,spas and wellness,qwen3_14b,0.3,1500,0.3,150.0,1,0.7,0.1
+208,Snooker Barcelona,nightlife,claude-haiku-4-5,0.35,1200,0.48,85.0,4,0.35,0.05
+208,Snooker Barcelona,nightlife,deepseek-r1,0.5,2500,0.6,150.0,5,0.2,0.1
+208,Snooker Barcelona,nightlife,gpt-4.1-mini,0.3,1500,0.4,200.0,4,0.3,0.1
+208,Snooker Barcelona,nightlife,gpt-5.4-mini,0.34,1800,0.41,280.0,4,0.35,0.08
+208,Snooker Barcelona,nightlife,gpt-5.4-nano,0.42,10000,0.52,320.0,4,0.35,0.15
+208,Snooker Barcelona,nightlife,gpt-oss_20b,0.6,12000,0.6,400.0,4,0.4,0.1
+208,Snooker Barcelona,nightlife,ministral-3_14b,0.4,3000,0.5,300.0,4,0.3,0.1
+208,Snooker Barcelona,nightlife,phi4,0.3,2000,0.4,50.0,4,0.3,0.1
+208,Snooker Barcelona,nightlife,qwen3_14b,0.4,2000,0.5,50.0,4,0.3,0.1
+209,Somnia Fx Cocktail Bar,nightlife,claude-haiku-4-5,0.45,1200,0.52,85.0,4,0.35,0.05
+209,Somnia Fx Cocktail Bar,nightlife,deepseek-r1,0.6,2000,0.5,50.0,3,0.2,0.1
+209,Somnia Fx Cocktail Bar,nightlife,gpt-4.1-mini,0.5,1500,0.5,300.0,4,0.4,0.1
+209,Somnia Fx Cocktail Bar,nightlife,gpt-5.4-mini,0.34,1800,0.29,48.0,4,0.33,0.08
+209,Somnia Fx Cocktail Bar,nightlife,gpt-5.4-nano,0.25,1800,0.45,220.0,4,0.35,0.1
+209,Somnia Fx Cocktail Bar,nightlife,gpt-oss_20b,0.4,10000,0.5,300.0,4,0.3,0.1
+209,Somnia Fx Cocktail Bar,nightlife,ministral-3_14b,0.7,1500,0.8,300.0,5,0.3,0.1
+209,Somnia Fx Cocktail Bar,nightlife,phi4,0.3,1500,0.4,50.0,4,0.3,0.1
+209,Somnia Fx Cocktail Bar,nightlife,qwen3_14b,0.5,2000,0.5,60.0,4,0.3,0.1
+210,Spa Hammam Rituels D'Orient,spas and wellness,claude-haiku-4-5,0.72,3200,0.65,185.0,2,0.48,0.15
+210,Spa Hammam Rituels D'Orient,spas and wellness,deepseek-r1,0.5,1000,0.3,0.4,1,0.2,0.1
+210,Spa Hammam Rituels D'Orient,spas and wellness,gpt-4.1-mini,0.7,15000,0.6,400.0,2,0.5,0.2
+210,Spa Hammam Rituels D'Orient,spas and wellness,gpt-5.4-mini,0.7,9000,0.58,320.0,2,0.45,0.12
+210,Spa Hammam Rituels D'Orient,spas and wellness,gpt-5.4-nano,0.62,18000,0.55,420.0,2,0.42,0.18
+210,Spa Hammam Rituels D'Orient,spas and wellness,gpt-oss_20b,0.6,1500,0.5,300.0,2,0.4,0.2
+210,Spa Hammam Rituels D'Orient,spas and wellness,ministral-3_14b,0.85,12000,0.75,500.0,3,0.4,0.1
+210,Spa Hammam Rituels D'Orient,spas and wellness,phi4,0.6,15000,0.5,500.0,2,0.5,0.2
+210,Spa Hammam Rituels D'Orient,spas and wellness,qwen3_14b,0.5,1500,0.4,50.0,1,0.3,0.1
+211,Spa Minos,spas and wellness,claude-haiku-4-5,0.85,18000,0.78,520.0,3,0.45,0.1
+211,Spa Minos,spas and wellness,deepseek-r1,0.7,10000,0.3,1.1,2,0.3,0.1
+211,Spa Minos,spas and wellness,gpt-4.1-mini,0.8,15000,0.7,500.0,2,0.6,0.2
+211,Spa Minos,spas and wellness,gpt-5.4-mini,0.84,14000,0.79,520.0,3,0.56,0.12
+211,Spa Minos,spas and wellness,gpt-5.4-nano,0.75,18000,0.65,420.0,3,0.45,0.2
+211,Spa Minos,spas and wellness,gpt-oss_20b,0.8,15000,0.7,400.0,2,0.5,0.2
+211,Spa Minos,spas and wellness,ministral-3_14b,0.95,25000,0.85,1200.0,3,0.5,0.1
+211,Spa Minos,spas and wellness,phi4,0.6,15000,0.5,500.0,2,0.5,0.2
+211,Spa Minos,spas and wellness,qwen3_14b,0.6,15000,0.6,500.0,2,0.4,0.1
+212,Space Cowboy,nightlife,claude-haiku-4-5,0.58,1800,0.62,185.0,5,0.35,0.05
+212,Space Cowboy,nightlife,deepseek-r1,0.5,1500,0.5,30.0,4,0.1,0.1
+212,Space Cowboy,nightlife,gpt-4.1-mini,0.3,1500,0.5,300.0,4,0.4,0.1
+212,Space Cowboy,nightlife,gpt-5.4-mini,0.35,1800,0.46,320.0,5,0.42,0.08
+212,Space Cowboy,nightlife,gpt-5.4-nano,0.45,9000,0.5,260.0,4,0.35,0.1
+212,Space Cowboy,nightlife,gpt-oss_20b,0.6,15000,0.7,400.0,4,0.5,0.2
+212,Space Cowboy,nightlife,ministral-3_14b,0.6,3000,0.7,300.0,5,0.3,0.1
+212,Space Cowboy,nightlife,phi4,0.5,2000,0.5,50.0,4,0.3,0.1
+212,Space Cowboy,nightlife,qwen3_14b,0.5,2000,0.5,50.0,4,0.4,0.1
+213,Spagiria,spas and wellness,claude-haiku-4-5,0.68,8500,0.55,185.0,2,0.52,0.25
+213,Spagiria,spas and wellness,deepseek-r1,0.5,10000,0.6,300.0,2,0.1,0.2
+213,Spagiria,spas and wellness,gpt-4.1-mini,0.6,15000,0.5,300.0,1,0.5,0.2
+213,Spagiria,spas and wellness,gpt-5.4-mini,0.56,1400,0.48,42.0,2,0.46,0.08
+213,Spagiria,spas and wellness,gpt-5.4-nano,0.45,8000,0.5,420.0,2,0.4,0.15
+213,Spagiria,spas and wellness,gpt-oss_20b,0.7,15000,0.6,400.0,2,0.4,0.2
+213,Spagiria,spas and wellness,ministral-3_14b,0.75,12000,0.7,500.0,2,0.4,0.2
+213,Spagiria,spas and wellness,phi4,0.5,12500,0.5,450.0,2,0.3,0.2
+213,Spagiria,spas and wellness,qwen3_14b,0.6,10000,0.5,300.0,1,0.4,0.1
+214,Spotify Camp Nou,sights and landmarks,claude-haiku-4-5,0.72,45000,0.78,2800.0,5,0.58,0.25
+214,Spotify Camp Nou,sights and landmarks,deepseek-r1,1.0,200000,1.0,5000.0,5,0.6,0.2
+214,Spotify Camp Nou,sights and landmarks,gpt-4.1-mini,1.0,150000,1.0,3000.0,5,0.6,0.2
+214,Spotify Camp Nou,sights and landmarks,gpt-5.4-mini,0.95,50000,0.9,1800.0,5,0.6,0.2
+214,Spotify Camp Nou,sights and landmarks,gpt-5.4-nano,0.7,18000,0.8,420.0,4,0.45,0.25
+214,Spotify Camp Nou,sights and landmarks,gpt-oss_20b,0.9,150000,0.95,2500.0,4,0.6,0.2
+214,Spotify Camp Nou,sights and landmarks,ministral-3_14b,0.9,150000,0.9,5000.0,5,0.6,0.2
+214,Spotify Camp Nou,sights and landmarks,phi4,1.0,25000,1.0,3000.0,5,0.5,0.2
+214,Spotify Camp Nou,sights and landmarks,qwen3_14b,0.8,150000,0.8,5000.0,5,0.5,0.2
+215,Steam City Cocktail Bar (Orient Express),nightlife,claude-haiku-4-5,0.35,1200,0.42,85.0,4,0.38,0.15
+215,Steam City Cocktail Bar (Orient Express),nightlife,deepseek-r1,0.5,1500,0.5,45.0,3,0.1,0.1
+215,Steam City Cocktail Bar (Orient Express),nightlife,gpt-4.1-mini,0.4,1500,0.5,300.0,3,0.3,0.1
+215,Steam City Cocktail Bar (Orient Express),nightlife,gpt-5.4-mini,0.28,1200,0.42,380.0,4,0.4,0.08
+215,Steam City Cocktail Bar (Orient Express),nightlife,gpt-5.4-nano,0.35,6500,0.45,320.0,3,0.35,0.1
+215,Steam City Cocktail Bar (Orient Express),nightlife,gpt-oss_20b,0.3,8000,0.4,300.0,4,0.5,0.1
+215,Steam City Cocktail Bar (Orient Express),nightlife,ministral-3_14b,0.6,12000,0.7,500.0,4,0.3,0.1
+215,Steam City Cocktail Bar (Orient Express),nightlife,phi4,0.5,2000,0.5,50.0,4,0.3,0.1
+215,Steam City Cocktail Bar (Orient Express),nightlife,qwen3_14b,0.5,1500,0.5,50.0,4,0.3,0.1
+216,Sub Rosa,nightlife,claude-haiku-4-5,0.45,1200,0.55,85.0,4,0.35,0.15
+216,Sub Rosa,nightlife,deepseek-r1,0.5,2500,0.8,75.0,5,0.2,0.1
+216,Sub Rosa,nightlife,gpt-4.1-mini,0.5,1500,0.5,350.0,4,0.5,0.1
+216,Sub Rosa,nightlife,gpt-5.4-mini,0.42,1800,0.58,95.0,4,0.36,0.08
+216,Sub Rosa,nightlife,gpt-5.4-nano,0.45,12000,0.55,360.0,4,0.4,0.15
+216,Sub Rosa,nightlife,gpt-oss_20b,0.6,8000,0.6,300.0,4,0.3,0.1
+216,Sub Rosa,nightlife,ministral-3_14b,0.7,3000,0.8,500.0,5,0.4,0.1
+216,Sub Rosa,nightlife,phi4,0.5,2000,0.5,50.0,4,0.3,0.1
+216,Sub Rosa,nightlife,qwen3_14b,0.4,2000,0.3,50.0,4,0.2,0.1
+217,Sugar,nightlife,claude-haiku-4-5,0.35,800,0.38,45.0,4,0.35,0.05
+217,Sugar,nightlife,deepseek-r1,0.2,500,0.1,75.0,4,0.1,0.1
+217,Sugar,nightlife,gpt-4.1-mini,0.4,1500,0.5,45.0,4,0.4,0.1
+217,Sugar,nightlife,gpt-5.4-mini,0.34,1400,0.32,42.0,4,0.38,0.08
+217,Sugar,nightlife,gpt-5.4-nano,0.45,1800,0.55,320.0,4,0.35,0.2
+217,Sugar,nightlife,gpt-oss_20b,0.5,1500,0.4,30.0,4,0.3,0.1
+217,Sugar,nightlife,ministral-3_14b,0.4,1200,0.5,50.0,4,0.2,0.1
+217,Sugar,nightlife,phi4,0.3,1500,0.4,40.0,4,0.3,0.1
+217,Sugar,nightlife,qwen3_14b,0.3,1000,0.3,30.0,4,0.3,0.1
+218,Taller Gingell,fun and games,claude-haiku-4-5,0.35,1200,0.42,45.0,3,0.55,0.1
+218,Taller Gingell,fun and games,deepseek-r1,0.5,1000,0.5,30.0,2,0.2,0.1
+218,Taller Gingell,fun and games,gpt-4.1-mini,0.5,1500,0.5,300.0,2,0.6,0.2
+218,Taller Gingell,fun and games,gpt-5.4-mini,0.46,1400,0.52,48.0,2,0.46,0.12
+218,Taller Gingell,fun and games,gpt-5.4-nano,0.35,8000,0.55,360.0,3,0.45,0.15
+218,Taller Gingell,fun and games,gpt-oss_20b,0.5,6000,0.6,400.0,3,0.4,0.2
+218,Taller Gingell,fun and games,ministral-3_14b,0.35,3000,0.4,200.0,3,0.45,0.1
+218,Taller Gingell,fun and games,phi4,0.3,2000,0.4,50.0,1,0.5,0.1
+218,Taller Gingell,fun and games,qwen3_14b,0.4,2000,0.5,500.0,3,0.6,0.1
+219,Teatro Flamenco Barcelona,fun and games,claude-haiku-4-5,0.35,1200,0.48,85.0,4,0.45,0.15
+219,Teatro Flamenco Barcelona,fun and games,deepseek-r1,0.2,500,0.3,15.0,4,0.2,0.1
+219,Teatro Flamenco Barcelona,fun and games,gpt-4.1-mini,0.3,1000,0.4,200.0,3,0.5,0.2
+219,Teatro Flamenco Barcelona,fun and games,gpt-5.4-mini,0.28,1200,0.34,95.0,4,0.38,0.12
+219,Teatro Flamenco Barcelona,fun and games,gpt-5.4-nano,0.35,9000,0.45,380.0,4,0.35,0.1
+219,Teatro Flamenco Barcelona,fun and games,gpt-oss_20b,0.5,10000,0.5,400.0,4,0.4,0.2
+219,Teatro Flamenco Barcelona,fun and games,ministral-3_14b,0.3,3000,0.5,300.0,4,0.2,0.1
+219,Teatro Flamenco Barcelona,fun and games,phi4,0.3,2000,0.4,50.0,3,0.3,0.1
+219,Teatro Flamenco Barcelona,fun and games,qwen3_14b,0.3,10000,0.3,300.0,3,0.4,0.1
+220,Thai Spa Massage ALURA,spas and wellness,claude-haiku-4-5,0.62,1800,0.48,85.0,1,0.58,0.15
+220,Thai Spa Massage ALURA,spas and wellness,deepseek-r1,0.3,1000,0.3,30.0,1,0.3,0.1
+220,Thai Spa Massage ALURA,spas and wellness,gpt-4.1-mini,0.5,1500,0.5,300.0,1,0.5,0.2
+220,Thai Spa Massage ALURA,spas and wellness,gpt-5.4-mini,0.28,1800,0.32,55.0,2,0.42,0.15
+220,Thai Spa Massage ALURA,spas and wellness,gpt-5.4-nano,0.35,12000,0.45,360.0,2,0.45,0.1
+220,Thai Spa Massage ALURA,spas and wellness,gpt-oss_20b,0.5,15000,0.5,400.0,2,0.4,0.2
+220,Thai Spa Massage ALURA,spas and wellness,ministral-3_14b,0.75,15000,0.7,450.0,2,0.35,0.1
+220,Thai Spa Massage ALURA,spas and wellness,phi4,0.5,12500,0.5,450.0,1,0.5,0.1
+220,Thai Spa Massage ALURA,spas and wellness,qwen3_14b,0.4,5000,0.3,200.0,2,0.4,0.1
+221,Thai Spa Massage Barcelona,spas and wellness,claude-haiku-4-5,0.68,1800,0.55,85.0,2,0.45,0.15
+221,Thai Spa Massage Barcelona,spas and wellness,deepseek-r1,0.5,10000,0.5,300.0,1,0.3,0.1
+221,Thai Spa Massage Barcelona,spas and wellness,gpt-4.1-mini,0.4,1500,0.4,200.0,1,0.5,0.1
+221,Thai Spa Massage Barcelona,spas and wellness,gpt-5.4-mini,0.46,1800,0.34,48.0,2,0.42,0.08
+221,Thai Spa Massage Barcelona,spas and wellness,gpt-5.4-nano,0.35,9500,0.42,320.0,2,0.35,0.12
+221,Thai Spa Massage Barcelona,spas and wellness,gpt-oss_20b,0.5,8000,0.4,300.0,2,0.4,0.2
+221,Thai Spa Massage Barcelona,spas and wellness,ministral-3_14b,0.7,10000,0.6,450.0,2,0.3,0.1
+221,Thai Spa Massage Barcelona,spas and wellness,phi4,0.5,12500,0.5,450.0,1,0.3,0.1
+221,Thai Spa Massage Barcelona,spas and wellness,qwen3_14b,0.3,5000,0.4,300.0,2,0.3,0.1
+222,The Broken Hour Room Escape,fun and games,claude-haiku-4-5,0.25,800,0.35,45.0,3,0.45,0.15
+222,The Broken Hour Room Escape,fun and games,deepseek-r1,0.2,1000,0.3,30.0,2,0.3,0.1
+222,The Broken Hour Room Escape,fun and games,gpt-4.1-mini,0.2,100,0.3,50.0,3,0.5,0.1
+222,The Broken Hour Room Escape,fun and games,gpt-5.4-mini,0.14,900,0.2,45.0,3,0.45,0.18
+222,The Broken Hour Room Escape,fun and games,gpt-5.4-nano,0.25,3500,0.35,320.0,3,0.45,0.15
+222,The Broken Hour Room Escape,fun and games,gpt-oss_20b,0.4,1500,0.3,50.0,3,0.4,0.1
+222,The Broken Hour Room Escape,fun and games,ministral-3_14b,0.2,1000,0.3,200.0,3,0.3,0.1
+222,The Broken Hour Room Escape,fun and games,phi4,0.3,2000,0.4,50.0,3,0.3,0.1
+222,The Broken Hour Room Escape,fun and games,qwen3_14b,0.2,500,0.2,30.0,2,0.4,0.1
+223,The Comedy Clubhouse,nightlife,claude-haiku-4-5,0.35,1200,0.42,85.0,4,0.4,0.05
+223,The Comedy Clubhouse,nightlife,deepseek-r1,0.2,500,0.15,15.0,4,0.3,0.2
+223,The Comedy Clubhouse,nightlife,gpt-4.1-mini,0.3,1500,0.4,300.0,3,0.5,0.1
+223,The Comedy Clubhouse,nightlife,gpt-5.4-mini,0.28,900,0.34,45.0,4,0.42,0.08
+223,The Comedy Clubhouse,nightlife,gpt-5.4-nano,0.28,8000,0.42,320.0,4,0.38,0.12
+223,The Comedy Clubhouse,nightlife,gpt-oss_20b,0.3,1500,0.4,250.0,4,0.3,0.1
+223,The Comedy Clubhouse,nightlife,ministral-3_14b,0.3,3000,0.4,300.0,4,0.3,0.1
+223,The Comedy Clubhouse,nightlife,phi4,0.3,2000,0.4,50.0,4,0.3,0.1
+223,The Comedy Clubhouse,nightlife,qwen3_14b,0.3,1500,0.4,300.0,4,0.3,0.1
+224,The Magic Fountain,sights and landmarks,claude-haiku-4-5,0.78,18500,0.65,285.0,4,0.52,0.15
+224,The Magic Fountain,sights and landmarks,deepseek-r1,0.9,150000,0.7,3500.0,3,0.1,0.1
+224,The Magic Fountain,sights and landmarks,gpt-4.1-mini,0.8,150000,0.75,2500.0,3,0.5,0.2
+224,The Magic Fountain,sights and landmarks,gpt-5.4-mini,0.78,12000,0.52,320.0,4,0.56,0.18
+224,The Magic Fountain,sights and landmarks,gpt-5.4-nano,0.55,18000,0.45,420.0,3,0.35,0.2
+224,The Magic Fountain,sights and landmarks,gpt-oss_20b,0.8,15000,0.6,400.0,3,0.5,0.2
+224,The Magic Fountain,sights and landmarks,ministral-3_14b,0.9,15000,0.6,300.0,3,0.3,0.1
+224,The Magic Fountain,sights and landmarks,phi4,0.8,15000,0.6,500.0,3,0.5,0.3
+224,The Magic Fountain,sights and landmarks,qwen3_14b,0.5,10000,0.4,300.0,3,0.5,0.1
+225,The Man Cave,spas and wellness,claude-haiku-4-5,0.62,1800,0.48,95.0,2,0.35,0.05
+225,The Man Cave,spas and wellness,deepseek-r1,0.5,10000,0.5,300.0,1,0.2,0.1
+225,The Man Cave,spas and wellness,gpt-4.1-mini,0.5,1500,0.5,300.0,1,0.5,0.2
+225,The Man Cave,spas and wellness,gpt-5.4-mini,0.54,1800,0.42,38.0,2,0.4,0.08
+225,The Man Cave,spas and wellness,gpt-5.4-nano,0.55,13000,0.45,420.0,2,0.35,0.1
+225,The Man Cave,spas and wellness,gpt-oss_20b,0.6,10000,0.5,300.0,2,0.4,0.1
+225,The Man Cave,spas and wellness,ministral-3_14b,0.85,12000,0.8,500.0,3,0.3,0.05
+225,The Man Cave,spas and wellness,phi4,0.6,15000,0.5,500.0,1,0.5,0.2
+225,The Man Cave,spas and wellness,qwen3_14b,0.4,2500,0.3,50.0,2,0.3,0.1
+226,The Oriental Jasmine Day Spa,spas and wellness,claude-haiku-4-5,0.68,1800,0.55,85.0,2,0.52,0.25
+226,The Oriental Jasmine Day Spa,spas and wellness,deepseek-r1,0.2,1500,0.3,50.0,2,0.3,0.1
+226,The Oriental Jasmine Day Spa,spas and wellness,gpt-4.1-mini,0.5,1500,0.5,300.0,1,0.5,0.2
+226,The Oriental Jasmine Day Spa,spas and wellness,gpt-5.4-mini,0.46,1800,0.38,42.0,2,0.52,0.12
+226,The Oriental Jasmine Day Spa,spas and wellness,gpt-5.4-nano,0.45,12000,0.5,420.0,2,0.35,0.25
+226,The Oriental Jasmine Day Spa,spas and wellness,gpt-oss_20b,0.6,10000,0.5,300.0,2,0.4,0.3
+226,The Oriental Jasmine Day Spa,spas and wellness,ministral-3_14b,0.75,12000,0.6,450.0,2,0.55,0.1
+226,The Oriental Jasmine Day Spa,spas and wellness,phi4,0.6,15000,0.5,500.0,1,0.5,0.1
+226,The Oriental Jasmine Day Spa,spas and wellness,qwen3_14b,0.5,5000,0.5,300.0,1,0.4,0.1
+227,"The Spa at Mandarin Oriental, Barcelona",spas and wellness,claude-haiku-4-5,0.68,8500,0.62,285.0,1,0.62,0.15
+227,"The Spa at Mandarin Oriental, Barcelona",spas and wellness,deepseek-r1,0.6,15000,0.5,450.0,1,1.0,0.3
+227,"The Spa at Mandarin Oriental, Barcelona",spas and wellness,gpt-4.1-mini,0.7,15000,0.6,400.0,1,0.6,0.2
+227,"The Spa at Mandarin Oriental, Barcelona",spas and wellness,gpt-5.4-mini,0.42,4200,0.38,180.0,2,0.46,0.1
+227,"The Spa at Mandarin Oriental, Barcelona",spas and wellness,gpt-5.4-nano,0.62,12000,0.55,420.0,2,0.45,0.18
+227,"The Spa at Mandarin Oriental, Barcelona",spas and wellness,gpt-oss_20b,0.6,15000,0.6,400.0,2,0.4,0.2
+227,"The Spa at Mandarin Oriental, Barcelona",spas and wellness,ministral-3_14b,0.85,18000,0.75,500.0,1,0.6,0.1
+227,"The Spa at Mandarin Oriental, Barcelona",spas and wellness,phi4,0.8,15000,0.7,500.0,1,0.5,0.2
+227,"The Spa at Mandarin Oriental, Barcelona",spas and wellness,qwen3_14b,0.5,10000,0.5,400.0,1,0.6,0.2
+228,The Spa by Signature,spas and wellness,claude-haiku-4-5,0.72,8500,0.58,285.0,1,0.68,0.25
+228,The Spa by Signature,spas and wellness,deepseek-r1,0.6,1500,0.8,60.0,2,1.0,0.7
+228,The Spa by Signature,spas and wellness,gpt-4.1-mini,0.5,1500,0.5,300.0,1,0.6,0.3
+228,The Spa by Signature,spas and wellness,gpt-5.4-mini,0.58,12000,0.46,260.0,2,0.66,0.34
+228,The Spa by Signature,spas and wellness,gpt-5.4-nano,0.35,12000,0.45,360.0,2,0.45,0.15
+228,The Spa by Signature,spas and wellness,gpt-oss_20b,0.6,15000,0.6,400.0,2,0.5,0.2
+228,The Spa by Signature,spas and wellness,ministral-3_14b,0.85,15000,0.7,450.0,2,0.95,0.1
+228,The Spa by Signature,spas and wellness,phi4,0.6,15000,0.5,500.0,1,0.5,0.3
+228,The Spa by Signature,spas and wellness,qwen3_14b,0.5,5000,0.5,300.0,2,0.6,0.1
+229,Torre Bellesguard,sights and landmarks,claude-haiku-4-5,0.35,1200,0.4,85.0,2,0.5,0.25
+229,Torre Bellesguard,sights and landmarks,deepseek-r1,0.6,10000,0.5,300.0,2,0.5,0.7
+229,Torre Bellesguard,sights and landmarks,gpt-4.1-mini,0.3,7000,0.3,200.0,2,0.5,0.2
+229,Torre Bellesguard,sights and landmarks,gpt-5.4-mini,0.38,1800,0.31,220.0,2,0.45,0.22
+229,Torre Bellesguard,sights and landmarks,gpt-5.4-nano,0.28,8500,0.42,320.0,3,0.45,0.25
+229,Torre Bellesguard,sights and landmarks,gpt-oss_20b,0.3,10000,0.4,300.0,2,0.5,0.4
+229,Torre Bellesguard,sights and landmarks,ministral-3_14b,0.15,1000,0.1,50.0,2,0.4,0.2
+229,Torre Bellesguard,sights and landmarks,phi4,0.3,7500,0.4,300.0,2,0.5,0.3
+229,Torre Bellesguard,sights and landmarks,qwen3_14b,0.3,1000,0.3,200.0,1,0.5,0.2
+230,Touch Music Karaoke Barcelona,nightlife,claude-haiku-4-5,0.35,1200,0.55,280.0,5,0.3,0.05
+230,Touch Music Karaoke Barcelona,nightlife,deepseek-r1,0.5,1500,0.5,30.0,4,0.1,0.2
+230,Touch Music Karaoke Barcelona,nightlife,gpt-4.1-mini,0.4,1500,0.5,300.0,4,0.5,0.1
+230,Touch Music Karaoke Barcelona,nightlife,gpt-5.4-mini,0.34,2200,0.42,260.0,5,0.32,0.05
+230,Touch Music Karaoke Barcelona,nightlife,gpt-5.4-nano,0.35,9000,0.45,420.0,4,0.35,0.1
+230,Touch Music Karaoke Barcelona,nightlife,gpt-oss_20b,0.4,8000,0.5,300.0,4,0.4,0.1
+230,Touch Music Karaoke Barcelona,nightlife,ministral-3_14b,0.5,7500,0.6,500.0,4,0.3,0.1
+230,Touch Music Karaoke Barcelona,nightlife,phi4,0.3,2000,0.4,50.0,4,0.3,0.1
+230,Touch Music Karaoke Barcelona,nightlife,qwen3_14b,0.4,2000,0.5,400.0,4,0.3,0.1
+231,Trafalgar Cocktail Club,nightlife,claude-haiku-4-5,0.45,1200,0.52,85.0,4,0.35,0.05
+231,Trafalgar Cocktail Club,nightlife,deepseek-r1,0.6,10000,1.0,2500.0,4,0.1,0.2
+231,Trafalgar Cocktail Club,nightlife,gpt-4.1-mini,0.4,1500,0.5,200.0,4,0.5,0.1
+231,Trafalgar Cocktail Club,nightlife,gpt-5.4-mini,0.42,1100,0.48,42.0,4,0.35,0.08
+231,Trafalgar Cocktail Club,nightlife,gpt-5.4-nano,0.45,6000,0.5,320.0,3,0.35,0.15
+231,Trafalgar Cocktail Club,nightlife,gpt-oss_20b,0.6,10000,0.5,300.0,4,0.4,0.1
+231,Trafalgar Cocktail Club,nightlife,ministral-3_14b,0.6,7500,0.7,450.0,5,0.3,0.1
+231,Trafalgar Cocktail Club,nightlife,phi4,0.3,2000,0.4,50.0,4,0.3,0.1
+231,Trafalgar Cocktail Club,nightlife,qwen3_14b,0.5,2000,0.5,50.0,4,0.3,0.1
+232,Two Schmucks,nightlife,claude-haiku-4-5,0.45,1200,0.52,85.0,4,0.35,0.1
+232,Two Schmucks,nightlife,deepseek-r1,0.6,1500,0.8,500.0,5,0.2,0.1
+232,Two Schmucks,nightlife,gpt-4.1-mini,0.5,1500,0.5,300.0,4,0.4,0.1
+232,Two Schmucks,nightlife,gpt-5.4-mini,0.34,1800,0.36,260.0,4,0.44,0.08
+232,Two Schmucks,nightlife,gpt-5.4-nano,0.35,6500,0.45,340.0,4,0.4,0.15
+232,Two Schmucks,nightlife,gpt-oss_20b,0.3,8000,0.4,200.0,4,0.5,0.1
+232,Two Schmucks,nightlife,ministral-3_14b,0.6,7500,0.7,450.0,5,0.4,0.1
+232,Two Schmucks,nightlife,phi4,0.5,2000,0.5,50.0,4,0.3,0.1
+232,Two Schmucks,nightlife,qwen3_14b,0.4,2000,0.5,300.0,4,0.3,0.1
+233,Typical Adult Behavior,fun and games,claude-haiku-4-5,0.25,800,0.35,45.0,4,0.45,0.1
+233,Typical Adult Behavior,fun and games,deepseek-r1,0.3,1000,0.4,50.0,4,0.2,0.1
+233,Typical Adult Behavior,fun and games,gpt-4.1-mini,0.2,1000,0.3,200.0,3,0.5,0.1
+233,Typical Adult Behavior,fun and games,gpt-5.4-mini,0.28,1200,0.33,38.0,4,0.42,0.08
+233,Typical Adult Behavior,fun and games,gpt-5.4-nano,0.35,3500,0.45,280.0,3,0.35,0.15
+233,Typical Adult Behavior,fun and games,gpt-oss_20b,0.2,1500,0.3,200.0,4,0.4,0.1
+233,Typical Adult Behavior,fun and games,ministral-3_14b,0.2,1200,0.3,200.0,4,0.3,0.1
+233,Typical Adult Behavior,fun and games,phi4,0.3,2000,0.4,50.0,4,0.5,0.1
+233,Typical Adult Behavior,fun and games,qwen3_14b,0.2,750,0.2,30.0,4,0.3,0.1
+234,Under Pressure Massage Barcelona,spas and wellness,claude-haiku-4-5,0.35,800,0.28,22.0,1,0.45,0.1
+234,Under Pressure Massage Barcelona,spas and wellness,deepseek-r1,0.2,1000,0.3,30.0,2,0.1,0.1
+234,Under Pressure Massage Barcelona,spas and wellness,gpt-4.1-mini,0.3,1000,0.3,50.0,1,0.4,0.1
+234,Under Pressure Massage Barcelona,spas and wellness,gpt-5.4-mini,0.18,1400,0.22,42.0,1,0.42,0.12
+234,Under Pressure Massage Barcelona,spas and wellness,gpt-5.4-nano,0.2,1800,0.25,120.0,2,0.4,0.15
+234,Under Pressure Massage Barcelona,spas and wellness,gpt-oss_20b,0.3,1500,0.3,30.0,2,0.4,0.1
+234,Under Pressure Massage Barcelona,spas and wellness,ministral-3_14b,0.3,1200,0.25,50.0,2,0.4,0.1
+234,Under Pressure Massage Barcelona,spas and wellness,phi4,0.3,1500,0.4,50.0,2,0.5,0.1
+234,Under Pressure Massage Barcelona,spas and wellness,qwen3_14b,0.3,1000,0.3,30.0,1,0.3,0.1
+235,Villa del Arte Galleries,museums,claude-haiku-4-5,0.25,1200,0.35,85.0,1,0.45,0.15
+235,Villa del Arte Galleries,museums,deepseek-r1,0.5,1500,0.5,30.0,1,0.1,0.1
+235,Villa del Arte Galleries,museums,gpt-4.1-mini,0.3,1500,0.4,300.0,1,0.5,0.1
+235,Villa del Arte Galleries,museums,gpt-5.4-mini,0.18,1200,0.28,260.0,2,0.42,0.15
+235,Villa del Arte Galleries,museums,gpt-5.4-nano,0.18,8000,0.42,420.0,2,0.35,0.12
+235,Villa del Arte Galleries,museums,gpt-oss_20b,0.5,15000,0.5,450.0,2,0.4,0.2
+235,Villa del Arte Galleries,museums,ministral-3_14b,0.3,3000,0.4,300.0,2,0.3,0.1
+235,Villa del Arte Galleries,museums,phi4,0.3,10000,0.4,500.0,2,0.5,0.2
+235,Villa del Arte Galleries,museums,qwen3_14b,0.4,2000,0.3,200.0,1,0.3,0.1
+236,Virtua Virtual Reality Arcade,fun and games,claude-haiku-4-5,0.25,800,0.58,185.0,3,0.45,0.05
+236,Virtua Virtual Reality Arcade,fun and games,deepseek-r1,0.5,1000,0.6,300.0,4,0.2,0.1
+236,Virtua Virtual Reality Arcade,fun and games,gpt-4.1-mini,0.2,1000,0.4,300.0,3,0.5,0.1
+236,Virtua Virtual Reality Arcade,fun and games,gpt-5.4-mini,0.12,650,0.42,320.0,3,0.48,0.08
+236,Virtua Virtual Reality Arcade,fun and games,gpt-5.4-nano,0.18,650,0.36,420.0,3,0.35,0.08
+236,Virtua Virtual Reality Arcade,fun and games,gpt-oss_20b,0.2,1500,0.5,300.0,3,0.4,0.1
+236,Virtua Virtual Reality Arcade,fun and games,ministral-3_14b,0.2,1200,0.8,500.0,4,0.3,0.0
+236,Virtua Virtual Reality Arcade,fun and games,phi4,0.2,1000,0.3,50.0,3,0.3,0.1
+236,Virtua Virtual Reality Arcade,fun and games,qwen3_14b,0.2,1500,0.6,500.0,4,0.4,0.1
+237,WOLF Barcelona,nightlife,claude-haiku-4-5,0.45,3200,0.68,420.0,5,0.35,0.05
+237,WOLF Barcelona,nightlife,deepseek-r1,0.7,2500,0.6,300.0,5,0.1,0.1
+237,WOLF Barcelona,nightlife,gpt-4.1-mini,0.5,1500,0.6,450.0,5,0.4,0.1
+237,WOLF Barcelona,nightlife,gpt-5.4-mini,0.62,8500,0.68,420.0,5,0.34,0.08
+237,WOLF Barcelona,nightlife,gpt-5.4-nano,0.55,14000,0.7,420.0,5,0.45,0.15
+237,WOLF Barcelona,nightlife,gpt-oss_20b,0.5,10000,0.6,300.0,4,0.4,0.1
+237,WOLF Barcelona,nightlife,ministral-3_14b,0.7,12000,0.8,1200.0,5,0.3,0.1
+237,WOLF Barcelona,nightlife,phi4,0.8,15000,0.8,500.0,5,0.5,0.1
+237,WOLF Barcelona,nightlife,qwen3_14b,0.6,10000,0.7,1500.0,5,0.4,0.1
+238,White Rabbit · The Off-Museum of Barcelona,museums,claude-haiku-4-5,0.35,1200,0.48,280.0,3,0.55,0.15
+238,White Rabbit · The Off-Museum of Barcelona,museums,deepseek-r1,0.5,5000,0.5,150.0,2,0.1,0.1
+238,White Rabbit · The Off-Museum of Barcelona,museums,gpt-4.1-mini,0.3,1500,0.5,350.0,3,0.6,0.1
+238,White Rabbit · The Off-Museum of Barcelona,museums,gpt-5.4-mini,0.28,1800,0.48,420.0,3,0.52,0.18
+238,White Rabbit · The Off-Museum of Barcelona,museums,gpt-5.4-nano,0.35,9000,0.55,420.0,3,0.4,0.1
+238,White Rabbit · The Off-Museum of Barcelona,museums,gpt-oss_20b,0.3,1500,0.4,30.0,3,0.5,0.2
+238,White Rabbit · The Off-Museum of Barcelona,museums,ministral-3_14b,0.3,3000,0.4,300.0,3,0.4,0.1
+238,White Rabbit · The Off-Museum of Barcelona,museums,phi4,0.3,7500,0.4,450.0,3,0.5,0.2
+238,White Rabbit · The Off-Museum of Barcelona,museums,qwen3_14b,0.5,1500,0.4,300.0,2,0.4,0.1
+239,Xventura Barcelona Treasure Hunts,fun and games,claude-haiku-4-5,0.15,120,0.12,8.0,2,0.58,0.25
+239,Xventura Barcelona Treasure Hunts,fun and games,deepseek-r1,0.2,150,0.1,5.0,2,0.0,0.0
+239,Xventura Barcelona Treasure Hunts,fun and games,gpt-4.1-mini,0.1,100,0.1,8.0,2,0.5,0.2
+239,Xventura Barcelona Treasure Hunts,fun and games,gpt-5.4-mini,0.12,900,0.14,45.0,3,0.63,0.58
+239,Xventura Barcelona Treasure Hunts,fun and games,gpt-5.4-nano,0.18,1200,0.22,120.0,2,0.35,0.2
+239,Xventura Barcelona Treasure Hunts,fun and games,gpt-oss_20b,0.2,1500,0.2,30.0,2,0.5,0.2
+239,Xventura Barcelona Treasure Hunts,fun and games,ministral-3_14b,0.1,300,0.15,50.0,2,0.3,0.1
+239,Xventura Barcelona Treasure Hunts,fun and games,phi4,0.2,1000,0.3,50.0,3,0.5,0.1
+239,Xventura Barcelona Treasure Hunts,fun and games,qwen3_14b,0.1,100,0.2,50.0,1,0.3,0.1
+240,Zanzi Cannabis Club,fun and games,claude-haiku-4-5,0.35,1200,0.42,85.0,3,0.35,0.15
+240,Zanzi Cannabis Club,fun and games,deepseek-r1,0.3,1500,0.3,50.0,3,0.1,0.1
+240,Zanzi Cannabis Club,fun and games,gpt-4.1-mini,0.3,1000,0.4,200.0,3,0.4,0.2
+240,Zanzi Cannabis Club,fun and games,gpt-5.4-mini,0.22,1200,0.31,280.0,3,0.38,0.12
+240,Zanzi Cannabis Club,fun and games,gpt-5.4-nano,0.32,6500,0.45,420.0,3,0.35,0.15
+240,Zanzi Cannabis Club,fun and games,gpt-oss_20b,0.5,10000,0.6,500.0,3,0.3,0.2
+240,Zanzi Cannabis Club,fun and games,ministral-3_14b,0.4,3000,0.5,300.0,3,0.3,0.1
+240,Zanzi Cannabis Club,fun and games,phi4,0.4,2000,0.4,50.0,3,0.3,0.2
+240,Zanzi Cannabis Club,fun and games,qwen3_14b,0.5,5000,0.5,300.0,3,0.3,0.1
+241,Zero Latency Barcelona,fun and games,claude-haiku-4-5,0.35,2800,0.58,385.0,3,0.4,0.05
+241,Zero Latency Barcelona,fun and games,deepseek-r1,0.5,2000,0.5,150.0,3,0.2,0.1
+241,Zero Latency Barcelona,fun and games,gpt-4.1-mini,0.2,1000,0.5,450.0,3,0.5,0.1
+241,Zero Latency Barcelona,fun and games,gpt-5.4-mini,0.14,1200,0.32,260.0,3,0.45,0.08
+241,Zero Latency Barcelona,fun and games,gpt-5.4-nano,0.25,9000,0.45,320.0,3,0.4,0.15
+241,Zero Latency Barcelona,fun and games,gpt-oss_20b,0.4,5000,0.5,300.0,3,0.3,0.1
+241,Zero Latency Barcelona,fun and games,ministral-3_14b,0.2,1200,0.8,600.0,4,0.3,0.0
+241,Zero Latency Barcelona,fun and games,phi4,0.5,10000,0.5,500.0,3,0.3,0.1
+241,Zero Latency Barcelona,fun and games,qwen3_14b,0.3,2000,0.5,400.0,3,0.4,0.1
+242,Ziryab Hookah Shisha Lounge,nightlife,claude-haiku-4-5,0.35,1200,0.42,85.0,4,0.38,0.05
+242,Ziryab Hookah Shisha Lounge,nightlife,deepseek-r1,0.3,1500,0.4,300.0,4,0.2,0.1
+242,Ziryab Hookah Shisha Lounge,nightlife,gpt-4.1-mini,0.3,1500,0.4,300.0,4,0.3,0.1
+242,Ziryab Hookah Shisha Lounge,nightlife,gpt-5.4-mini,0.32,1800,0.58,420.0,4,0.34,0.06
+242,Ziryab Hookah Shisha Lounge,nightlife,gpt-5.4-nano,0.35,600,0.45,60.0,4,0.4,0.1
+242,Ziryab Hookah Shisha Lounge,nightlife,gpt-oss_20b,0.3,1500,0.3,30.0,3,0.5,0.1
+242,Ziryab Hookah Shisha Lounge,nightlife,ministral-3_14b,0.4,1200,0.35,60.0,4,0.25,0.05
+242,Ziryab Hookah Shisha Lounge,nightlife,phi4,0.3,2000,0.4,50.0,4,0.3,0.1
+242,Ziryab Hookah Shisha Lounge,nightlife,qwen3_14b,0.3,1500,0.3,50.0,4,0.4,0.1
