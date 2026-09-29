@@ -27,7 +27,7 @@ SIERRA is applied to **seven environmental sustainability indicators** generated
 
 | Folder / file | Content |
 |---|---|
-| `data/` | LLM-generated sustainability indicators for the 240 POIs and nine LLMs *[describe your files, e.g. one CSV per model or a single combined file]* |
+| `data/` | LLM-generated sustainability indicators for the 240 POIs and nine LLMs  |
 | `prompts/` | Prompt template used for all models (also in Appendix A of the paper) |
 | `schema/` | Pydantic schema used to validate the model outputs (also in Appendix A of the paper) |
 | `LICENSE` | Licence for reuse of the data |
