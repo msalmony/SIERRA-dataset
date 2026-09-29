@@ -3,7 +3,7 @@
 This repository contains the dataset, prompt template and output schema used in the paper:
 
 > **SIERRA: A Framework for Evaluating the Reliability of LLM-Generated Sustainability Data for Tourism Points of Interest**
-> M. Y. Salmony, A. Moreno, A. Valls. *[Journal name, year — to be completed after publication]*
+> MY. Salmony and A. Moreno. *[Journal name, year — to be completed after publication]*
 
 > **Note:** The dataset will also be available soon in the **URV institutional repository**. The link will be added here once available.
 
@@ -47,7 +47,7 @@ SIERRA is applied to **seven environmental sustainability indicators** generated
 ## Evaluated LLMs
 
 Claude-Haiku-4.5, GPT-4.1-mini, GPT-5.4-mini, GPT-5.4-nano, Ministral-3 14B, GPT-OSS 20B, DeepSeek-R1 14B, Phi-4 14B and Qwen3 14B.
-*[Replace with the exact model identifiers used, as in Table 1 of the paper.]*
+
 
 ## How to cite
 
@@ -55,7 +55,7 @@ If you use this dataset, please cite the paper:
 
 ```bibtex
 @article{salmony_sierra,
-  author  = {Salmony, M. Y. and Moreno, A. and Valls, A.},
+  author  = {Salmony, MY. and Moreno, A. },
   title   = {SIERRA: A Framework for Evaluating the Reliability of LLM-Generated Sustainability Data for Tourism Points of Interest},
   journal = {[to be completed]},
   year    = {[to be completed]}
@@ -64,4 +64,4 @@ If you use this dataset, please cite the paper:
 
 ## Contact
 
-*[Name, email, affiliation — Universitat Rovira i Virgili]*
+*[Monir Salmony, moniryahyaali.salmony@urv.cat, PhD Research Scholar — Universitat Rovira i Virgili]*
