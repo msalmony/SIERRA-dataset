@@ -1,0 +1,15 @@
+POI context (JSON):
+{poi_json}
+
+Task:
+Return exactly two test criteria:
+
+T1: "Test Score 1" -> value in [0,1]
+T2: "Test Score 2" -> value in [0,1]
+
+Use the POI title to decide values (any simple rule is fine), but keep it consistent.
+Include confidence in [0,1] and short notes.
+
+Return ONLY JSON that follows the provided format instructions.
+
+
